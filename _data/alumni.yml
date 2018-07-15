@@ -35,5 +35,6 @@
 
 - name: Nathaniel Talledge
   image: /static/img/people/talledge.jpg
-  new_position: "**[Postdoctoral Scholar](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
-  nNew_email: n.talledge (at) biochem.utah.edu 
+  new_position: Postdoctoral Scholar
+  new_location: "**[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
+  
