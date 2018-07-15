@@ -1,4 +1,4 @@
-- title: Structural basis of mitochondrial receptor binding and constriction by DRP1.
+- title: Structural basis of mitochondrial receptor binding and constriction by DRP1
   authors: |
     Kalia R, Wang RY, Yusuf A, Thomas PV, Agard DA, Shaw JM, and Frost A
     <br>
@@ -11,7 +11,7 @@
   image: /static/img/pub/DRP1.png
   pmid: 29899447
   
-- title: Vms1p is a release factor for the ribosome-associated quality control complex.
+- title: Vms1p is a release factor for the ribosome-associated quality control complex
   authors: |
     Zurita Rendón O<sup>\#</sup>, Fredrickson EK<sup>\#</sup>, Howard CJ<sup>\#</sup>, Van Vranken J, Fogarty S1, Tolley ND, Kalia R, Osuna BA, Shen PS, Hill CP, Frost A<sup>\*</sup>, Rutter J<sup>\*</sup> <br>
     <sup>\#</sup> Co-first authors <br>
@@ -25,7 +25,7 @@
   image: /static/img/pub/Vms1_NATCOMMS_2018.png
   pmid: 29875445
   
-- title: The ER membrane protein complex interacts cotranslationally to enable biogenesis of multipass membrane proteins.
+- title: The ER membrane protein complex interacts cotranslationally to enable biogenesis of multipass membrane proteins
   authors: |
     Shurtleff MJ<sup>\#</sup>, Itzhak DN<sup>\#</sup>,Hussmann JA, Schirle Oakdale NT, Costa EA, Jonikas M, Weibezahn J, Popova KD, Jan CH, Sinitcyn P, Vembar SS, Hernandez H, Cox J, Burlingame AL, Brodsky J, Frost A, Borner GH<sup>\*</sup>, Weissman JS<sup>\*</sup> <br>
     <sup>\#</sup> Co-first authors <br>
@@ -39,7 +39,7 @@
   image: /static/img/pub/Shurtleff_ELIFE_2018.png
   pmid: 29809151
   
-- title: Structure of the nucleotide exchange factor eIF2B reveals mechanism of memory-enhancing molecule.
+- title: Structure of the nucleotide exchange factor eIF2B reveals mechanism of memory-enhancing molecule
   authors: |
     Tsai, JC<sup>\#</sup>, Miller-Vedam LE<sup>\#</sup>, Anand AA<sup>\#</sup>, Jaishankar P, Nguyen HC, Frost A<sup>\*</sup>, Walter P<sup>\*</sup> <br>
     <sup>\#</sup> Co-first authors <br>
@@ -55,7 +55,7 @@
   image: /static/img/pub/Frost_Walter_ISRIB.jpg
   pmid: 29599213
 
-- title: Structural inhibition of dynamin-mediated membrane fission by endophilin.
+- title: Structural inhibition of dynamin-mediated membrane fission by endophilin
   authors: |
     Hohendahl A, Talledge N, Galli V, Shen PS, Humbert F, De Camilli P, Frost A<sup>\*</sup>, Roux A<sup>\*</sup> <br>
     <sup>\*</sup> Co-corresponding authors
@@ -68,7 +68,7 @@
   image: /static/img/pub/Talledge_eLife_2017.png
   pmid: 28933693
   
-- title: In vitro analysis of RQC activities provides insights into the mechanism and function of CAT tailing.
+- title: In vitro analysis of RQC activities provides insights into the mechanism and function of CAT tailing
   authors: |
     Osuna BA, Howard CJ, Subheksha KC, Frost A<sup>\*</sup>, Weinberg DE<sup>\*</sup> <br>
     <sup>\*</sup> Co-corresponding authors
@@ -81,7 +81,7 @@
   image: /static/img/pub/Osuna_Elife_2017.png
   pmid: 28718767
 
-- title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides.
+- title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides
   authors: |
     Kostova KK, Hickey KL, Osuna BA, Hussmann JA, Frost A, Weinberg DE, Weissman JS
   journal:  __SCIENCE__ 2017 Jul
@@ -93,7 +93,7 @@
   image: /static/img/pub/Kostova_Science_2017.png
   pmid: 28751611
   
-- title: LEM2 recruits CHMP7 for ESCRT-mediated nuclear envelope closure in fission yeast and human cells.
+- title: LEM2 recruits CHMP7 for ESCRT-mediated nuclear envelope closure in fission yeast and human cells
   authors: |
     Gu M, LaJoie D, Chen OS, Von Appen A, Ladinsky MS, Redd MJ, Nikolova L, Bjorkman PJ, Sundquist WI<sup>\*</sup>, Ullman KS<sup>
     \*</sup>, Frost A<sup>\*</sup>  
@@ -108,7 +108,7 @@
   image: /static/img/pub/Gu_PNAS_2017.jpg
   pmid: 28242692
 
-- title: Cell Biology - Double agents for mitochondrial division.
+- title: Cell Biology - Double agents for mitochondrial division
   authors: |
     McBride HM and Frost A
   journal: __NATURE__ 2016 Nov
@@ -118,7 +118,7 @@
   image: /static/img/pub/Mcbride_Frost_Nature_2016.jpg
   pmid: 27880759
   
-- title: Membrane fission by dynamin - what we know and what we need to know.
+- title: Membrane fission by dynamin - what we know and what we need to know
   authors: |
     Antonny B, Burd C, De Camilli P, Chen E, Daumke O, Faelber K, Ford M, Frolov VA, Frost A, Hinshaw JE, Kirchhausen T, Kozlov MM, Lenz M, Low HH, McMahon H, Merrifield C, Pollard TD, Robinson PJ, Roux A, Schmid S
   journal: __EMBO J__ 2016 Nov
@@ -131,7 +131,7 @@
   image: /static/img/pub/Roux_EMBO_2016.png
   pmid: 27670760
 
-- title: A Golgi rhomboid protease Rbd2 recruits Cdc48 to cleave yeast SREBP.
+- title: A Golgi rhomboid protease Rbd2 recruits Cdc48 to cleave yeast SREBP
   authors: |
     Hwang J, Ribbens D, Raychaudhuri S, Ciarns L, Gu H, Frost A, Urban S, Espenshade PJ
   journal: __EMBO J__ 2016 Nov
@@ -141,7 +141,7 @@
   image: /static/img/pub/Hwang_EMBO_2016.jpg
   pmid: 27655872 
 
-- title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex.
+- title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex
   authors: |
     Heider MR, Gu M, Duffy CM, Mirza AM, Marcotte LL, Walls AC, Farrall N, 
     Hakhverdyan Z, Field MC, Rout MP, Frost A, Munson M
@@ -165,7 +165,7 @@
   image: /static/img/pub/Heider_NSMB_2015.jpg
   pmid: 26656853
 
-- title: Structure and membrane remodeling activity of ESCRT-III helical polymers.
+- title: Structure and membrane remodeling activity of ESCRT-III helical polymers
   authors: |
     McCullough J, Clippinger AK, Talledge N, Skowyra ML, Saunders MG, Naismith 
     TV, Colf LA, Afonine P, Arthur C, Sundquist WI<sup>\*</sup>, Hanson PI<sup>
@@ -196,7 +196,7 @@
   image: /static/img/pub/McCullough_Science_2015.jpg
   pmid: 26634441
 
-- title: Structural and functional studies of membrane remodeling machines.
+- title: Structural and functional studies of membrane remodeling machines
   authors: |
     Kalia R, Talledge N, Frost A
   journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
@@ -215,7 +215,7 @@
   image: /static/img/pub/Kalia_Methods_2015.jpg
   pmid: 25997348
 
-- title: Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains.
+- title: Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains
   authors: |
     Shen PS, Park J, Qin Y, Li X, Parsawar K, Larson MH, Cox J, Cheng Y, 
     Lambowitz, Weissman JS<sup>\*</sup>, Brandmann O<sup>\*</sup>, Frost A
@@ -245,7 +245,7 @@
   image: /static/img/pub/Frost_Rqc2_60Sribosome.jpg 
   pmid: 25554787
 
-- title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission.
+- title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission
   authors: |
     Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, Frost A<sup>\*</sup>, Shaw JM<sup>\*</sup>  
     <sup>\*</sup> Co-corresponding authors
@@ -272,7 +272,7 @@
   image: /static/img/pub/Fig_for_Web_PNASpaper.png 
   pmid: 23530241
 
-- title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress.
+- title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress
   authors: |
     Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou 
     S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, Frost A<sup>\*</sup>, Weissman JS<sup>\*</sup>  
@@ -298,7 +298,7 @@
   image: /static/img/pub/Brandman_Cell.png 
   pmid: 23178123
 
-- title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions.
+- title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions
   authors: |
     Frost A<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, 
     Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman 
@@ -329,7 +329,7 @@
   image: /static/img/pub/Frost_Cell_cover_2012.png
   pmid: 22682253
 
-- title: Structural basis of membrane bending by the N-BAR protein Endophilin.
+- title: Structural basis of membrane bending by the N-BAR protein Endophilin
   authors: |
     Mim C, Cui H, Gawronski-Salerno JA, Frost A, Lyman E, Voth GA, Unger VM
   journal: __CELL__ 2012 Mar
@@ -352,7 +352,7 @@
   image: /static/img/pub/Mim_Cell_2012.jpg
   pmid: 22464326
     
-- title: "Membrane trafficking: decoding vesicle identity with contrasting chemistries."
+- title: Membrane trafficking: decoding vesicle identity with contrasting chemistries
   authors: |
     Frost A
   journal: __CURRENT BIOL__ 2011 Oct
@@ -366,7 +366,7 @@
   image: /static/img/pub/Frost_Curr_2011.jpg
   pmid: 21996503
 
-- title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis.
+- title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis
   authors: |
     Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, Frost A, Polleux F
   journal: __CELL__ 2009 Sep
@@ -393,7 +393,7 @@
   image: /static/img/pub/Guerrier_Cell_2009.jpg
   pmid: 19737524
 
-- title: 'The BAR domain superfamily: membrane-molding macromolecules'
+- title: The BAR domain superfamily: membrane-molding macromolecules
   authors: |
     Frost A, Unger VM, De Camilli P
   journal: __CELL__ 2009 Apr
@@ -407,7 +407,7 @@
   image: /static/img/pub/Frost_Cell_2009.jpg
   pmid: 19379681
 
-- title: 'Structural basis of membrane invagination by F-BAR domains.'
+- title: Structural basis of membrane invagination by F-BAR domains
   authors: |
     Frost A, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De Camilli P, Unger VM
   journal: __CELL__ 2008 Mar
@@ -436,7 +436,7 @@
   image: /static/img/pub/endocytosis_2014_DavidGoodsell.jpg
   pmid: 18329367
 
-- title: F-BAR proteins join the BAR family fold.
+- title: F-BAR proteins join the BAR family fold
   authors: |
     Frost A, De Camilli P, Unger VM
   journal: __STRUCTURE__ 2007 Jul
@@ -449,7 +449,7 @@
   image: /static/img/pub/Frost_Structure_2007.jpg 
   pmid: 17637334
 
-- title: GTP-dependent twisting of dynamin implicates constriction and tension in membrane fission.
+- title: GTP-dependent twisting of dynamin implicates constriction and tension in membrane fission
   authors: |
     Roux A, Uyhazi K, Frost A, De Camilli P
   journal: __NATURE__ 2006 Apr
