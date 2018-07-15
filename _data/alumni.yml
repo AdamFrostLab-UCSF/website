@@ -1,7 +1,7 @@
 - name: Dr. Marc Elgort
   image: /static/img/people/elgort.jpg
   new_position: Research and Design Scientist
-  new_location: Associated Regional and University Pathologists, Department of Pathology, University of Utah, Salt Lake City, Utah
+  new_location: Associated Regional and University Pathologists (ARUP) <br> Department of Pathology, University of Utah, Salt Lake City, Utah
 
 - name: Dr. John Gorzynski
   image: /static/img/people/gorzynski.png
@@ -28,3 +28,12 @@
   new_position: Research and Design Scientist
   new_location: Pfizer, Rinat Campus of South San Francisco, California
   
+- name: Dr. Mingyu Gu
+  image: /static/img/people/gu.jpg
+  new_position: TBD
+  new_location: mingygu (at) gmail.com
+
+- name: Nathaniel Talledge
+  image: /static/img/people/talledge.jpg
+  new_position: "**[Postdoctoral Scholar](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
+  nNew_email: n.talledge (at) biochem.utah.edu 
