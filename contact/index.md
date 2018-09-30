@@ -23,8 +23,8 @@ group: contact
 <div class="col m4">
 
   <h4>Adam Frost</h4>
-  Assistant Professor  <br>
-  **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Junior Faculty Endowed Chair <br>
+  Associate Professor (phew, tenure, finally...)  <br>
+  **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Junior Faculty Not-So-Junior-Anymore-Endowed Chair <br>
   Department of Biochemistry and Biophysics
   University of California, San Francisco <br>
   email: adam.frost (at) ucsf.edu <br>
@@ -52,7 +52,7 @@ group: contact
 
 ## Postdoctoral Fellows
 
-Please email inquiries about postdoctoral positions directly to Adam Frost. Candidates will be encouraged to explore applying for extramural fellowships to support their research.
+Please email inquiries about postdoctoral positions directly to Adam Frost. Candidates will be encouraged to apply for fellowships to support their research (as much for the writing practice as for the money). 
 
 <div class="divider"></div>
 
