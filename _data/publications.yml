@@ -1,3 +1,15 @@
+- title: Structures, Functions, and Dynamics of ESCRT-III/Vps4 Membrane Remodeling and Fission Complexes
+  authors: |
+    McCullough M, Frost A, Sundquist WI
+    <br>
+  journal:  __Annual Reviews Cell Dev Bio__ 2018 September <br>
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRT) pathway mediates cellular membrane remodeling and fission reactions. The pathway comprises five core complexes: ALIX, ESCRT-I, ESCRT-II, ESCRT-III, and Vps4. These soluble complexes are typically recruited to target membranes by site-specific adaptors that bind one or both of the early-acting ESCRT factors: ALIX and ESCRT-I/ESCRT-II. These factors, in turn, nucleate assembly of ESCRT-III subunits into membrane-bound filaments that recruit the AAA ATPase Vps4. Together, ESCRT-III filaments and Vps4 remodel and sever membranes. Here, we review recent advances in our understanding of the structures, activities, and mechanisms of the ESCRT-III and Vps4 machinery, including the first high-resolution structures of ESCRT-III filaments, the assembled Vps4 enzyme in complex with an ESCRT-III substrate, the discovery that ESCRT-III/Vps4 complexes can promote both inside-out and outside-in membrane fission reactions, and emerging mechanistic models for ESCRT-mediated membrane fission.
+    <br>**[Final Full Text](https://doi.org/10.1146/annurev-cellbio-100616-060600)** <br>
+  date: 201809
+  image: /static/img/pub/AnnReview_2018.png
+  pmid: 30095293
+  
 - title: FDM 3D Printing of High-Pressure, Heat-Resistant, Transparent Microfluidic Devices
   authors: |
     Romanov V, Samuel R, Chaharlang M, Jafek AR, Frost A, Gale BK
