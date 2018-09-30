@@ -30,6 +30,10 @@
   image: /static/img/research/biohub.png
   url: "https://czbiohub.org/investigators/"
 
+- name: Relay THERAPEUTICS
+  image: /static/img/research/relay-logo.png
+  url: "https://relaytx.com/"
+
 - name: HIV Release and Restriction
   image: /static/img/research/cheetah_top.png
   url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9564939&icde=41421671"
@@ -37,3 +41,4 @@
 - name: Regulated Mitochondrial Morphology
   image: /static/img/research/nigms.jpg
   url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9501224&icde=41421657"
+  
