@@ -1,3 +1,15 @@
+- title: FDM 3D Printing of High-Pressure, Heat-Resistant, Transparent Microfluidic Devices
+  authors: |
+    Romanov V, Samuel R, Chaharlang M, Jafek AR, Frost A, Gale BK
+    <br>
+  journal:  __Analytical Chemistry__ 2018 August <br>
+  abstract: |
+    Transparent surfaces within microfluidic devices are essential for accurate quantification of chemical, biological, and mechanical interactions. Here, we report how to create low-cost, rapid 3D-printed microfluidic devices that are optically free from artifacts and have transparent surfaces suitable for visualizing a variety of fluid phenomenon. The methodology described here can be used for creating high-pressure microfluidic systems (significantly higher than PDMS-glass bonding). We develop methods for annealing Poly-Lactic Acid (PLA) microfluidic devices demonstrating heat resistance typically not achievable with other plastic materials. We show DNA melting and subsequent fluorescent imaging analysis, opening the door to other high-temperature applications. The FDM techniques demonstrated here allow for fabrication of microfluidic devices for precise visualization of interfacial dynamics, whether mixing between two laminar streams or droplet tracking. In addition to these characterizations, we include a printer troubleshooting guide and printing recipes for device fabrication to facilitate FDM printing for microfluidic device development.
+    <br>**[Final Full Text](https://pubs.acs.org/doi/10.1021/acs.analchem.8b02356)** <br>
+  date: 201808
+  image: /static/img/pub/Romanov_2018.jog
+  pmid: 30071717
+
 - title: Structural basis of mitochondrial receptor binding and constriction by DRP1
   authors: |
     Kalia R, Wang RY, Yusuf A, Thomas PV, Agard DA, Shaw JM, and Frost A
