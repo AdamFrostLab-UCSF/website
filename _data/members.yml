@@ -9,16 +9,6 @@
   position: Laboratory Assistant
   email: loan.doan (at) ucsf.edu
 
-- name: Raghav Kalia
-  image: /static/img/people/kalia.jpg
-  position: "**[Biological Chemistry](http://www.bioscience.utah.edu/biological-chemistry/)** <br> Graduate Student"
-  email: raghav.kalia (at) biochem.utah.edu
-
-- name: Valentine Romanov
-  image: /static/img/people/romanov.jpg
-  position: "**[Mechanical Engineering](http://mech.utah.edu/academics/grads/current-students/) <br> Graduate Student ...and [noted artist](https://directorsblog.nih.gov/2016/09/29/snapshots-of-life-a-flare-for-the-dramatic/) <br> (Joint with [Dr. Bruce Gale](http://mech.utah.edu/faculty/bruce-gale/)**)"
-  email: vromanovaus (at) gmail.com
-
 - name: Lakshmi Miller-Vedam
   image: /static/img/people/millervedam.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
@@ -64,12 +54,12 @@
   position: "Postdoctoral Scholar <br> from **[Columbia University](http://franklab.cpmc.columbia.edu/franklab/)**"
   email: ming.sun (at) ucsf.edu
 
-- name: Dr. Rachael Di Santo
-  image: /static/img/people/DiSanto.jpg
-  position: "Postdoctoral Scholar <br> from the **[University of Dundee](http://www.lifesci.dundee.ac.uk/groups/mike_stark/)**"
-  email: rachael.disanto (at) ucsf.edu
-
 - name: Dr. Arthur Melo
   image: /static/img/people/melo.png
   position: "Postdoctoral Scholar <br> from the **[Max-Delbrück-Centrum für Molekulare Medizin (MDC)](https://www.mdc-berlin.de/daumke)**"
   email: arthur.alvesdemelo (at) ucsf.edu
+
+- name: Dr. Frank Moss
+  image: /static/img/people/moss.png
+  position: "Postdoctoral Scholar <br> from **[Stanford University](https://web.stanford.edu/group/boxer/)**"
+  email: frank.moss (at) ucsf.edu
