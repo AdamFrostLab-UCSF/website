@@ -8,7 +8,7 @@
   new_position: D.V.M. and Ph.D. Candidate, Department of Genetics
   new_location: Stanford University, Palo Alto, California
  
-- name: Seth Lilavivat
+- name: Mr. Seth Lilavivat
   image: /static/img/people/lilavivat.jpg
   new_position: Research and Design Scientist
   new_location: Illumina, San Diego, California
@@ -30,11 +30,25 @@
   
 - name: Dr. Mingyu Gu
   image: /static/img/people/gu.jpg
-  new_position: TBD
-  new_location: mingygu (at) gmail.com
+  new_position: Healthcare Associate
+  new_location: "**[University Hospital, University of Utah](https://healthcare.utah.edu/locations/hospital/)**"
 
-- name: Nathaniel Talledge
+- name: Dr. Nathaniel Talledge
   image: /static/img/people/talledge.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
   
+- name: Dr. Rachael Di Santo
+  image: /static/img/people/DiSanto.jpg
+  new_position: TBD
+  new_location: TBD
+  
+- name: Dr. Raghav Kalia
+  image: /static/img/people/kalia.jpg
+  new_position: Postdoctoral Scholar
+  new_location: "**[University of California, San Francisco](https://juliuslab.ucsf.edu/)**"
+  
+- name: Dr. Valentine Romanov
+  image: /static/img/people/romanov.jpg
+  new_position: Postdoctoral Scholar
+  new_location: "**[Victor Chang Cardia Research Institute](https://www.victorchang.edu.au/heart-research/mechanobiology)**"
