@@ -1,6 +1,6 @@
 - name: Dr. Marc Elgort
-  image: /static/img/people/elgort.jpg
-  new_position: Research and Design Scientist
+  image: /static/img/people/elgort2.png
+  new_position: Research and Development, Senior Scientist
   new_location: Associated Regional and University Pathologists (ARUP) <br> Department of Pathology, University of Utah, Salt Lake City, Utah
 
 - name: Dr. John Gorzynski
@@ -10,7 +10,7 @@
  
 - name: Mr. Seth Lilavivat
   image: /static/img/people/lilavivat.jpg
-  new_position: Research and Design Scientist
+  new_position: Research and Development, Scientist
   new_location: Illumina, San Diego, California
 
 - name: Dr. Peter Shen
@@ -25,7 +25,7 @@
   
 - name: Dr. Nicole Schirle
   image: /static/img/people/schirle.png
-  new_position: Research and Design Scientist
+  new_position: Research and Development, Scientist
   new_location: Pfizer, Rinat Campus of South San Francisco, California
   
 - name: Dr. Mingyu Gu
@@ -40,7 +40,7 @@
   
 - name: Dr. Rachael Di Santo
   image: /static/img/people/DiSanto.jpg
-  new_position: Research and Design Scientist
+  new_position: Research and Development, Scientist
   new_location: Synpromics, Edinburgh
   
 - name: Dr. Raghav Kalia
