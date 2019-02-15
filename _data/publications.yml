@@ -1,3 +1,15 @@
+- title: Functional role of PGAM5 multimeric assemblies and their polymerization into filaments
+  authors: |
+    Ruiz K, Thaker TM, Agnew C, Miller-Vedam L, Trenker R, Herrera C, Ingaramo M, Toso D, Frost A, Jura N
+    <br>
+  journal:  __Nature Communications__ 2019 January <br>
+  abstract: |
+    PGAM5 is a mitochondrial protein phosphatase whose genetic ablation in mice results in mitochondria-related disorders, including neurodegeneration. Functions of PGAM5 include regulation of mitophagy, cell death, metabolism and aging. However, mechanisms regulating PGAM5 activation and signaling are poorly understood. Using electron cryo-microscopy, we show that PGAM5 forms dodecamers in solution. We also present a crystal structure of PGAM5 that reveals the determinants of dodecamer formation. Furthermore, we observe PGAM5 dodecamer assembly into filaments both in vitro and in cells. We find that PGAM5 oligomerization into a dodecamer is not only essential for catalytic activation, but this form also plays a structural role on mitochondrial membranes, which is independent of phosphatase activity. Together, these findings suggest that modulation of the oligomerization of PGAM5 may be a regulatory switch of potential therapeutic interest.
+    <br>**[Final Full Text](https://www.nature.com/articles/s41467-019-08393-w)** <br>
+  date: 201901
+  image: /static/img/pub/pgam5_nature_communications_2019.png
+  pmid: 30705304
+
 - title: Structures, Functions, and Dynamics of ESCRT-III/Vps4 Membrane Remodeling and Fission Complexes
   authors: |
     McCullough M, Frost A, Sundquist WI
