@@ -1,7 +1,9 @@
 - title: eIF2B-catalyzed nucleotide exchange and phosphoregulation by the integrated stress response
   authors: |
-    Kenner LR*, Anand AA*,, Nguyen HC, Myasnikov AG, Klose CJ, McGeever LA, Tsai JC, Miller-Vedam LE, Walter P#, and Frost A#
+    Kenner LR#, Anand AA#,, Nguyen HC, Myasnikov AG, Klose CJ, McGeever LA, Tsai JC, Miller-Vedam LE, Walter P*, and Frost A*
     <br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors
   journal:  __Science__ 2019 May <br>
   abstract: |
     The integrated stress response (ISR) tunes the rate of protein synthesis. Control is exerted by phosphorylation of the general translation initiation factor eIF2. eIF2 is a guanosine triphosphatase that becomes activated by eIF2B, a two-fold symmetric and heterodecameric complex that functions as eIF2's dedicated nucleotide exchange factor. Phosphorylation converts eIF2 from a substrate into an inhibitor of eIF2B. We report cryo-electron microscopy structures of eIF2 bound to eIF2B in the dephosphorylated state. The structures reveal that the eIF2B decamer is a static platform upon which one or two flexible eIF2 trimers bind and align with eIF2B's bipartite catalytic centers to catalyze nucleotide exchange. Phosphorylation refolds eIF2α, allowing it to contact eIF2B at a different interface and, we surmise, thereby sequestering it into a nonproductive complex.
