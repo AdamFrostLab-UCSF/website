@@ -1,4 +1,4 @@
-- title: Open and cut ":" allosteric motion and membrane fission by dynamin superfamily proteins
+- title: Open and cut - allosteric motion and membrane fission by dynamin superfamily proteins
   authors: |
     Kalia R, Frost A
   journal:  __Molecular Biology of the Cell__ 2019 August <br>
@@ -6,7 +6,7 @@
     Cells have evolved diverse protein-based machinery to reshape, cut, or fuse their membrane-delimited compartments. Dynamin superfamily proteins are principal components of this machinery and use their ability to hydrolyze GTP and to polymerize into helices and rings to achieve these goals. Nucleotide-binding, hydrolysis, and exchange reactions drive significant conformational changes across the dynamin family, and these changes alter the shape and stability of supramolecular dynamin oligomers, as well as the ability of dynamins to bind receptors and membranes. Mutations that interfere with the conformational repertoire of these enzymes, and hence with membrane fission, exist in several inherited human diseases. Here, we discuss insights from new x-ray crystal structures and cryo-EM reconstructions that have enabled us to infer some of the allosteric dynamics for these proteins. Together, these studies help us to understand how dynamins perform mechanical work, as well as how specific mutants of dynamin family proteins exhibit pathogenic properties.
     <br>**[Final Full Text](https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E16-10-0709)**
   date: 201908
-  image: /static/img/pub/Kalia_MboC_2019.png
+  image: /static/img/pub/Kalia_MBoC_2019.png
   pmid: 31365329
 
 - title: A Tunable Microfluidic Device Enables Cargo Encapsulation by Cell‐ or Organelle‐Sized Lipid Vesicles Comprising Asymmetric Lipid Bilayers  
@@ -17,7 +17,7 @@
   journal:  __Advanced Biosystems__ 2019 July <br>
   abstract: |
     Cellular membranes play host to a wide variety of morphologically and chemically complex processes. Although model membranes, like liposomes, are already widely used to reconstitute and study these processes, better tools are needed for making model bilayers that faithfully mimic cellular membranes. Existing methods for fabricating cell‐sized (µm) or organelle‐sized (tens to hundreds of nanometers) lipid vesicles have distinctly different requirements. Of particular note for biology, it remains challenging for any technique to efficiently encapsulate fragile cargo molecules or to generate liposomes with stable, asymmetric lipid leaflets within the bilayer. Here a tunable microfluidic device and protocol for fabricating liposomes with desired diameters ranging from ≈10 µm to ≈100 nm are described. Lipid vesicle size is templated by the simple inclusion of a polycarbonate filter within the microfluidic system and tuned with flow rate. It is shown that the vesicles made with this device are stable, unilamellar, lipid asymmetric, and capable of supporting transmembrane protein assembly, peripheral membrane protein binding, as well as soluble cargo encapsulation (including designer nanocages for biotechnology applications). These fabricated vesicles provide a new platform for studying the biophysically rich processes found within lipid–lipid and lipid–protein systems typically associated with cellular membranes.
-    <br>**[Final Full Text](https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E16-10-0709)**
+    <br>**[Final Full Text](https://doi.org/10.1002/adbi.201900010)**
   date: 201907
   image: /static/img/pub/Romanov_AdvancedBiosystems_2019.png
   pmid: 31428671
