@@ -42,3 +42,10 @@
   image: /static/img/research/nigms.jpg
   url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9501224&icde=41421657"
   
+- name: Microscopic Lipid Dynamics: A New Experimental Approach
+  image: /static/img/research/pbbr.jpg
+  url: "http://pbbr.ucsf.edu/awards/awardees"
+  
+- name: Acquistion of a Glacios - Cryo Transmission Electron Microscope
+  image: /static/img/research/nigms.jpg
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9708145&icde=46247037&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC&pball="
