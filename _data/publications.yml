@@ -1,3 +1,14 @@
+- title: Exocyst structural changes associated with activation of tethering downstream of Rho/Cdc42 GTPases
+  authors: |
+    Rossi G, Lepore D, Kenner L, Czuchra AB, Plooster M, Frost A, Munson M, Brennwald P
+  journal:  __Journal of Cell Biology__ 2020 January <br>
+  abstract: |
+    The exocyst complex plays a critical role in determining both temporal and spatial dynamics of exocytic vesicle tethering and fusion with the plasma membrane. However, the mechanism by which the exocyst functions and how it is regulated remain poorly understood. Here we describe a novel biochemical assay for the examination of exocyst function in vesicle tethering. Importantly, the assay is stimulated by gain-of-function mutations in the Exo70 component of the exocyst, selected for their ability to bypass Rho/Cdc42 activation in vivo. Single-particle electron microscopy and 3D reconstructions of negatively stained exocyst complexes reveal a structural change in the mutant exocyst that exposes a binding site for the v-SNARE. We demonstrate a v-SNARE requirement in our tethering assay and increased v-SNARE binding to exocyst gain-of-function complexes. Together, these data suggest an allosteric mechanism for activation involving a conformational change in one subunit of the complex, which is relayed through the complex to regulate its biochemical activity in vitro, as well as overall function in vivo.
+    <br>**[Final Full Text](https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201904161)**
+  date: 202001
+  image: /static/img/pub/Kenner_JCB_2020.png
+  pmid: 31904797
+  
 - title: Open and cut - allosteric motion and membrane fission by dynamin superfamily proteins
   authors: |
     Kalia R, Frost A
