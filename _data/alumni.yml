@@ -52,3 +52,14 @@
   image: /static/img/people/romanov.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/heart-research/mechanobiology)**"
+
+- name: Lillian Kenner
+  image: /static/img/people/kenner.png
+  new_position: Postdoctoral Scholar
+  new_location: "**[Genentech](https://www.gene.com)**"
+
+- name: Dr. Michał Gabruk
+  image: /static/img/people/gabruk.png
+  new_position: Assistant Professor
+  new_location: **[Jagiellonian University](https://en.uj.edu.pl/en_GB/start)**"
+
