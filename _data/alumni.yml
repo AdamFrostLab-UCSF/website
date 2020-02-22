@@ -47,13 +47,12 @@
   image: /static/img/people/kalia.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[University of California, San Francisco](https://juliuslab.ucsf.edu/)**"
-  
 - name: Dr. Valentine Romanov
   image: /static/img/people/romanov.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/heart-research/mechanobiology)**"
 
-- name: Lillian Kenner
+- name: Dr. Lillian Kenner
   image: /static/img/people/kenner.png
   new_position: Postdoctoral Scholar
   new_location: "**[Genentech](https://www.gene.com)**"
