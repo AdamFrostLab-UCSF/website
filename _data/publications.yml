@@ -1,3 +1,14 @@
+- title: Assessment of the Nucleotide Modifications in the High-Resolution Cryo-Electron Microscopy Structure of the Escherichia Coli 50S Subunit
+  authors: |
+    Stojković V, Myasnikov AG, Young ID, Frost A, Fraser JS, Fujimori DG
+  journal:  __Nucleic Acids Research__ 2020 January <br>
+  abstract: |
+    Post-transcriptional ribosomal RNA (rRNA) modifications are present in all organisms, but their exact functional roles and positions are yet to be fully characterized. Modified nucleotides have been implicated in the stabilization of RNA structure and regulation of ribosome biogenesis and protein synthesis. In some instances, rRNA modifications can confer antibiotic resistance. High-resolution ribosome structures are thus necessary for precise determination of modified nucleotides' positions, a task that has previously been accomplished by X-ray crystallography. Here, we present a cryo-electron microscopy (cryo-EM) structure of the Escherichia coli 50S subunit at an average resolution of 2.2 Å as an additional approach for mapping modification sites. Our structure confirms known modifications present in 23S rRNA and additionally allows for localization of Mg2+ ions and their coordinated water molecules. Using our cryo-EM structure as a testbed, we developed a program for assessment of cryo-EM map quality. This program can be easily used on any RNA-containing cryo-EM structure, and an associated Coot plugin allows for visualization of validated modifications, making it highly accessible.
+    <br>**[Final Full Text](https://doi.org/10.1093/nar/gkaa037)**
+  date: 202001
+  image: /static/img/pub/Stojković_NAR_2020.png
+  pmid: 31989172
+
 - title: Exocyst structural changes associated with activation of tethering downstream of Rho/Cdc42 GTPases
   authors: |
     Rossi G, Lepore D, Kenner L, Czuchra AB, Plooster M, Frost A, Munson M, Brennwald P
@@ -8,7 +19,18 @@
   date: 202001
   image: /static/img/pub/Kenner_JCB_2020.png
   pmid: 31904797
-  
+
+- title: Current outcomes when optimizing ‘standard’ sample preparation for single‐particle cryo‐EM
+  authors: |
+    Carragher B, Cheng Y, Frost A, Glaeser RM, Lander GC, Nogales E, Wang H-W 
+  journal:  __Journal of Microscopy__ 2019 October <br>
+  abstract: |
+    Although high-resolution single-particle cryo-electron microscopy (cryo-EM) is now producing a rapid stream of breakthroughs in structural biology, it nevertheless remains the case that the preparation of suitable frozen-hydrated samples on electron microscopy grids is often quite challenging. Purified samples that are intact and structurally homogeneous - while still in the test tube - may not necessarily survive the standard methods of making extremely thin, aqueous films on grids. As a result, it is often necessary to try a variety of experimental conditions before finally finding an approach that is optimal for the specimen at hand. Here, we summarize some of our collective experiences to date in optimizing sample preparation, in the hope that doing so will be useful to others, especially those new to the field. We also hope that an open discussion of these common challenges will encourage the development of more generally applicable methodology. Our collective experiences span a diverse range of biochemical samples and most of the commonly used variations in how grids are currently prepared. Unfortunately, none of the currently used optimization methods can be said, in advance, to be the one that ultimately will work when a project first begins. Nevertheless, there are some preferred first steps to explore when facing specific problems that can be more generally recommended, based on our experience and that of many others in the cryo-EM field.
+    <br>**[Final Full Text](https://doi.org/10.1111/jmi.12834)**
+  date: 201910
+  image: /static/img/pub/Carragher_JMICRO_2019.png
+  pmid: 31553060
+
 - title: Open and cut - allosteric motion and membrane fission by dynamin superfamily proteins
   authors: |
     Kalia R, Frost A
