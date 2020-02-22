@@ -1,6 +1,7 @@
 - title: Assessment of the Nucleotide Modifications in the High-Resolution Cryo-Electron Microscopy Structure of the Escherichia Coli 50S Subunit
   authors: |
-    Stojković V, Myasnikov AG, Young ID, Frost A, Fraser JS, Fujimori DG
+    Stojković V, Myasnikov AG, Young ID, Frost A<sup>\*</sup>, Fraser JS<sup>\*</sup>, Fujimori DG<sup>\*</sup><br>
+    <sup>\*</sup> Co-corresponding authors 
   journal:  __Nucleic Acids Research__ 2020 January <br>
   abstract: |
     Post-transcriptional ribosomal RNA (rRNA) modifications are present in all organisms, but their exact functional roles and positions are yet to be fully characterized. Modified nucleotides have been implicated in the stabilization of RNA structure and regulation of ribosome biogenesis and protein synthesis. In some instances, rRNA modifications can confer antibiotic resistance. High-resolution ribosome structures are thus necessary for precise determination of modified nucleotides' positions, a task that has previously been accomplished by X-ray crystallography. Here, we present a cryo-electron microscopy (cryo-EM) structure of the Escherichia coli 50S subunit at an average resolution of 2.2 Å as an additional approach for mapping modification sites. Our structure confirms known modifications present in 23S rRNA and additionally allows for localization of Mg2+ ions and their coordinated water molecules. Using our cryo-EM structure as a testbed, we developed a program for assessment of cryo-EM map quality. This program can be easily used on any RNA-containing cryo-EM structure, and an associated Coot plugin allows for visualization of validated modifications, making it highly accessible.
