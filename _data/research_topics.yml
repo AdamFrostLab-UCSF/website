@@ -6,7 +6,7 @@
   image: /static/img/research/nih_top.png
   url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9117230&icde=33721722"
 
-- name: Structural and Functional Characterization of the Ribosome Quality Control Complex
+- name: Structural and Functional Characterization of the Ribosome-associated Quality Control (RQC) Complex
   image: /static/img/research/searle_top.png
   url: "http://www.searlescholars.net/person/602"
   
@@ -30,11 +30,11 @@
   image: /static/img/research/biohub.png
   url: "https://czbiohub.org/investigators/"
 
-- name: Relay THERAPEUTICS
+- name: Relay Therapeutics
   image: /static/img/research/relay-logo.png
   url: "https://relaytx.com/"
 
-- name: HIV Release and Restriction
+- name: ESCRT-III Structure and Function During HIV Release and Restriction
   image: /static/img/research/cheetah_top.png
   url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9564939&icde=41421671"
 
