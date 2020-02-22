@@ -2,7 +2,7 @@
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost_biosketch_2018.07.26.pdf
+  cv: /static/pdf/UCSFformat_cv_2020.02.21.pdf
 
 - name: Loan Doan
   image: /static/img/people/Doan.jpg
@@ -13,11 +13,6 @@
   image: /static/img/people/millervedam.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: lmillervedam (at) msg.ucsf.edu
-
-- name: Lillian Kenner
-  image: /static/img/people/kenner.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: lillian.kenner (at) ucsf.edu
 
 - name: Dr. Henry Nguyen
   image: /static/img/people/nguyen.png
@@ -63,8 +58,3 @@
   image: /static/img/people/moss.png
   position: "Postdoctoral Scholar <br> from **[Stanford University](https://web.stanford.edu/group/boxer/)**"
   email: frank.moss (at) ucsf.edu
-
-- name: Dr. Michał Gabruk
-  image: /static/img/people/gabruk.png
-  position: "Postdoctoral Scholar <br> from **[Jagiellonian University](https://en.uj.edu.pl/en_GB/start)**"
-  email: chloramfenikol (at) gmail.com 
