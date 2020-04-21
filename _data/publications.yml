@@ -1,3 +1,15 @@
+- title: Membrane Constriction and Thinning by Sequential ESCRT-III Polymerization
+  authors: |
+    Nguyen HC, Talledge N, McCullough J, Sharma A, Moss FR 3rd, Iwasa JH, Vershinin MD, Sundquist WI<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nature Structural and Molecular Biology__ 2020 April <br>
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRTs) mediate diverse membrane remodeling events. These typically require ESCRT-III proteins to stabilize negatively curved membranes; however, recent work has indicated that certain ESCRT-IIIs also participate in positive-curvature membrane-shaping reactions. ESCRT-IIIs polymerize into membrane-binding filaments, but the structural basis for negative versus positive membrane remodeling by these proteins remains poorly understood. To learn how certain ESCRT-IIIs shape positively curved membranes, we determined structures of human membrane-bound CHMP1B-only, membrane-bound CHMP1B + IST1, and IST1-only filaments by cryo-EM. Our structures show how CHMP1B first polymerizes into a single-stranded helical filament, shaping membranes into moderate-curvature tubules. Subsequently, IST1 assembles a second strand on CHMP1B, further constricting the membrane tube and reducing its diameter nearly to the fission point. Each step of constriction thins the underlying bilayer, lowering the barrier to membrane fission. Our structures reveal how a two-component, sequential polymerization mechanism drives membrane tubulation, constriction and bilayer thinning.
+    <br>**[Final Full Text](https://rdcu.be/b3qrq)**
+  date: 202004
+  image: /static/img/pub/Nguyen_NSNB_2020.png
+  pmid: 32251413
+
 - title: Assessment of the Nucleotide Modifications in the High-Resolution Cryo-Electron Microscopy Structure of the Escherichia Coli 50S Subunit
   authors: |
     Stojković V, Myasnikov AG, Young ID, Frost A<sup>\*</sup>, Fraser JS<sup>\*</sup>, Fujimori DG<sup>\*</sup><br>
