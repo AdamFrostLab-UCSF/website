@@ -1,3 +1,16 @@
+- title: LEM2 phase separation promotes ESCRT-mediated nuclear envelope reformation
+  authors: |
+    Von Appen A#, LaJoie D#, Johnson IE#, Trnka MJ, Pick SM, Burlingame AL, Ullman K<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nature__ 2020 April <br>
+  abstract: |
+    During cell division, remodelling of the nuclear envelope enables chromosome segregation by the mitotic spindle. The reformation of sealed nuclei requires ESCRTs (endosomal sorting complexes required for transport) and LEM2, a transmembrane ESCRT adaptor. Here we show how the ability of LEM2 to condense on microtubules governs the activation of ESCRTs and coordinated spindle disassembly. The LEM motif of LEM2 binds BAF, conferring on LEM2 an affinity for chromatin, while an adjacent low-complexity domain (LCD) promotes LEM2 phase separation. A proline–arginine-rich sequence within the LCD binds to microtubules and targets condensation of LEM2 to spindle microtubules that traverse the nascent nuclear envelope. Furthermore, the winged-helix domain of LEM2 activates the ESCRT-II/ESCRT-III hybrid protein CHMP7 to form co-oligomeric rings. Disruption of these events in human cells prevented the recruitment of downstream ESCRTs, compromised spindle disassembly, and led to defects in nuclear integrity and DNA damage. We propose that during nuclear reassembly LEM2 condenses into a liquid-like phase and coassembles with CHMP7 to form a macromolecular O-ring seal at the confluence between membranes, chromatin and the spindle. The properties of LEM2 described here, and the homologous architectures of related inner nuclear membrane proteins, suggest that phase separation may contribute to other critical envelope functions, including interphase repair and chromatin organization.
+    <br>**[Final Full Text](https://rdcu.be/b3RPA)**
+  date: 202004
+  image: /static/img/pub/VonAppen_NATURE_2020.png
+  pmid: 32251413 #this is wrong BTW, hasn't been updated yet. 
+
 - title: Membrane Constriction and Thinning by Sequential ESCRT-III Polymerization
   authors: |
     Nguyen HC, Talledge N, McCullough J, Sharma A, Moss FR 3rd, Iwasa JH, Vershinin MD, Sundquist WI<sup>\*</sup>, Frost A<sup>\*</sup><br>
