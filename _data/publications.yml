@@ -56,6 +56,7 @@
   journal:  __Nucleic Acids Research__ 2020 January <br>
   abstract: |
     Post-transcriptional ribosomal RNA (rRNA) modifications are present in all organisms, but their exact functional roles and positions are yet to be fully characterized. Modified nucleotides have been implicated in the stabilization of RNA structure and regulation of ribosome biogenesis and protein synthesis. In some instances, rRNA modifications can confer antibiotic resistance. High-resolution ribosome structures are thus necessary for precise determination of modified nucleotides' positions, a task that has previously been accomplished by X-ray crystallography. Here, we present a cryo-electron microscopy (cryo-EM) structure of the Escherichia coli 50S subunit at an average resolution of 2.2 Å as an additional approach for mapping modification sites. Our structure confirms known modifications present in 23S rRNA and additionally allows for localization of Mg2+ ions and their coordinated water molecules. Using our cryo-EM structure as a testbed, we developed a program for assessment of cryo-EM map quality. This program can be easily used on any RNA-containing cryo-EM structure, and an associated Coot plugin allows for visualization of validated modifications, making it highly accessible.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/695429v1)**
     <br>**[Final Full Text](https://doi.org/10.1093/nar/gkaa037)**
   date: 202001
   image: /static/img/pub/Stojković_NAR_2020.png
@@ -102,6 +103,7 @@
   journal:  __Advanced Biosystems__ 2019 July <br>
   abstract: |
     Cellular membranes play host to a wide variety of morphologically and chemically complex processes. Although model membranes, like liposomes, are already widely used to reconstitute and study these processes, better tools are needed for making model bilayers that faithfully mimic cellular membranes. Existing methods for fabricating cell‐sized (µm) or organelle‐sized (tens to hundreds of nanometers) lipid vesicles have distinctly different requirements. Of particular note for biology, it remains challenging for any technique to efficiently encapsulate fragile cargo molecules or to generate liposomes with stable, asymmetric lipid leaflets within the bilayer. Here a tunable microfluidic device and protocol for fabricating liposomes with desired diameters ranging from ≈10 µm to ≈100 nm are described. Lipid vesicle size is templated by the simple inclusion of a polycarbonate filter within the microfluidic system and tuned with flow rate. It is shown that the vesicles made with this device are stable, unilamellar, lipid asymmetric, and capable of supporting transmembrane protein assembly, peripheral membrane protein binding, as well as soluble cargo encapsulation (including designer nanocages for biotechnology applications). These fabricated vesicles provide a new platform for studying the biophysically rich processes found within lipid–lipid and lipid–protein systems typically associated with cellular membranes.
+    <br>**[Preprint](https://doi.org/10.1101/534586)**
     <br>**[Final Full Text](https://doi.org/10.1002/adbi.201900010)**
   date: 201907
   image: /static/img/pub/Romanov_AdvancedBiosystems_2019.png
@@ -115,6 +117,7 @@
   journal:  __Science__ 2019 May <br>
   abstract: |
     The integrated stress response (ISR) tunes the rate of protein synthesis. Control is exerted by phosphorylation of the general translation initiation factor eIF2. eIF2 is a guanosine triphosphatase that becomes activated by eIF2B, a two-fold symmetric and heterodecameric complex that functions as eIF2's dedicated nucleotide exchange factor. Phosphorylation converts eIF2 from a substrate into an inhibitor of eIF2B. We report cryo-electron microscopy structures of eIF2 bound to eIF2B in the dephosphorylated state. The structures reveal that the eIF2B decamer is a static platform upon which one or two flexible eIF2 trimers bind and align with eIF2B's bipartite catalytic centers to catalyze nucleotide exchange. Phosphorylation refolds eIF2α, allowing it to contact eIF2B at a different interface and, we surmise, thereby sequestering it into a nonproductive complex.
+    <br>**[Preprint](https://doi.org/10.1101/504654)**
     <br>**[Final Full Text](http://science.sciencemag.org/cgi/content/full/364/6439/491?ijkey=bfyYzDt7HKS5A&keytype=ref&siteid=sci)**
     <br>**[Preview](https://science.sciencemag.org/content/364/6439/447.16/tab-pdf)** <br>
   date: 201903
@@ -163,8 +166,8 @@
   journal:  __NATURE__ 2018 June <br>
   abstract: |
     Mitochondrial inheritance, genome maintenance and metabolic adaptation depend on organelle fission by dynamin-related protein 1 (DRP1) and its mitochondrial receptors. DRP1 receptors include the paralogues mitochondrial dynamics proteins of 49 and 51 kDa (MID49 and MID51) and mitochondrial fission factor (MFF); however, the mechanisms by which these proteins recruit and regulate DRP1 are unknown. Here we present a cryo-electron microscopy structure of full-length human DRP1 co-assembled with MID49 and an analysis of structure- and disease-based mutations. We report that GTP induces a marked elongation and rotation of the GTPase domain, bundle-signalling element and connecting hinge loops of DRP1. In this conformation, a network of multivalent interactions promotes the polymerization of a linear DRP1 filament with MID49 or MID51. After co-assembly, GTP hydrolysis and exchange lead to MID receptor dissociation, filament shortening and curling of DRP1 oligomers into constricted and closed rings. Together, these views of full-length, receptor- and nucleotide-bound conformations reveal how DRP1 performs mechanical work through nucleotide-driven allostery. 
-    <br>**[Final Full Text](https://rdcu.be/Xb8p)** <br>
-    **[Preprint](https://www.biorxiv.org/content/early/2017/08/07/172809)** <br>
+    <br>**[Preprint](https://www.biorxiv.org/content/early/2017/08/07/172809)** <br>
+    <br>**[Final Full Text](https://rdcu.be/Xb8p)**
   date: 201806
   image: /static/img/pub/DRP1.png
   pmid: 29899447
@@ -178,6 +181,7 @@
   abstract: |
     Eukaryotic cells employ the ribosome-associated quality control complex (RQC) to maintain homeostasis despite defects that cause ribosomes to stall. The RQC comprises the E3 ubiquitin ligase Ltn1p, the ATPase Cdc48p, Rqc1p, and Rqc2p. Upon ribosome stalling and splitting, the RQC assembles on the 60S species containing unreleased peptidyl-tRNA (60S:peptidyl–tRNA). Ltn1p and Rqc1p facilitate ubiquitination of the incomplete nascent chain, marking it for degradation. Rqc2p stabilizes Ltn1p on the 60S and recruits charged tRNAs to the 60S to catalyze elongation of the nascent protein with carboxy-terminal alanine and threonine extensions (CAT tails). By mobilizing the nascent chain, CAT tailing can expose lysine residues that are hidden in the exit tunnel, thereby supporting efficient ubiquitination. If the ubiquitin–proteasome system is overwhelmed or unavailable, CAT-tailed nascent chains can aggregate in the cytosol or within organelles like mitochondria. Here we identify Vms1p as a tRNA hydrolase that releases stalled polypeptides engaged by the RQC.
     <br>
+    **[Preprint](https://doi.org/10.1101/301341)**<br>
     **[Final Full Text](https://rdcu.be/TH5H)**<br>
   date: 201806
   image: /static/img/pub/Vms1_NATCOMMS_2018.png
