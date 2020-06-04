@@ -19,6 +19,7 @@
   journal:  __Nature Cell Biology__ 2020 May <br>
   abstract: |
     The dynamin GTPase is known to bundle actin filaments, but the underlying molecular mechanism and physiological relevance remain unclear. Our genetic analyses revealed a function of dynamin in propelling invasive membrane protrusions during myoblast fusion in vivo. Using biochemistry, total internal reflection fluorescence microscopy, electron microscopy and cryo-electron tomography, we show that dynamin bundles actin while forming a helical structure. At its full capacity, each dynamin helix captures 12-16 actin filaments on the outer rim of the helix. GTP hydrolysis by dynamin triggers disassembly of fully assembled dynamin helices, releasing free dynamin dimers/tetramers and facilitating Arp2/3-mediated branched actin polymerization. The assembly/disassembly cycles of dynamin promote continuous actin bundling to generate mechanically stiff actin super-bundles. Super-resolution and immunogold platinum replica electron microscopy revealed dynamin along actin bundles at the fusogenic synapse. These findings implicate dynamin as a unique multifilament actin-bundling protein that regulates the dynamics and mechanical strength of the actin cytoskeletal network.
+    <br>**[Preprint](https://doi.org/10.1101/586461)**
     <br>**[Final Full Text](https://www.nature.com/articles/s41556-020-0519-7)**
   date: 202005
   image: /static/img/pub/Zhang_NCB_2020.png
@@ -44,6 +45,7 @@
   journal:  __Nature Structural and Molecular Biology__ 2020 April <br>
   abstract: |
     The endosomal sorting complexes required for transport (ESCRTs) mediate diverse membrane remodeling events. These typically require ESCRT-III proteins to stabilize negatively curved membranes; however, recent work has indicated that certain ESCRT-IIIs also participate in positive-curvature membrane-shaping reactions. ESCRT-IIIs polymerize into membrane-binding filaments, but the structural basis for negative versus positive membrane remodeling by these proteins remains poorly understood. To learn how certain ESCRT-IIIs shape positively curved membranes, we determined structures of human membrane-bound CHMP1B-only, membrane-bound CHMP1B + IST1, and IST1-only filaments by cryo-EM. Our structures show how CHMP1B first polymerizes into a single-stranded helical filament, shaping membranes into moderate-curvature tubules. Subsequently, IST1 assembles a second strand on CHMP1B, further constricting the membrane tube and reducing its diameter nearly to the fission point. Each step of constriction thins the underlying bilayer, lowering the barrier to membrane fission. Our structures reveal how a two-component, sequential polymerization mechanism drives membrane tubulation, constriction and bilayer thinning.
+    <br>**[Final Full Text](https://doi.org/10.1101/798181)**
     <br>**[Final Full Text](https://rdcu.be/b3qrq)**
   date: 202004
   image: /static/img/pub/Nguyen_NSMB_2020.png
