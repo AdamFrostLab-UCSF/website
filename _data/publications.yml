@@ -45,7 +45,7 @@
   journal:  __Nature Structural and Molecular Biology__ 2020 April <br>
   abstract: |
     The endosomal sorting complexes required for transport (ESCRTs) mediate diverse membrane remodeling events. These typically require ESCRT-III proteins to stabilize negatively curved membranes; however, recent work has indicated that certain ESCRT-IIIs also participate in positive-curvature membrane-shaping reactions. ESCRT-IIIs polymerize into membrane-binding filaments, but the structural basis for negative versus positive membrane remodeling by these proteins remains poorly understood. To learn how certain ESCRT-IIIs shape positively curved membranes, we determined structures of human membrane-bound CHMP1B-only, membrane-bound CHMP1B + IST1, and IST1-only filaments by cryo-EM. Our structures show how CHMP1B first polymerizes into a single-stranded helical filament, shaping membranes into moderate-curvature tubules. Subsequently, IST1 assembles a second strand on CHMP1B, further constricting the membrane tube and reducing its diameter nearly to the fission point. Each step of constriction thins the underlying bilayer, lowering the barrier to membrane fission. Our structures reveal how a two-component, sequential polymerization mechanism drives membrane tubulation, constriction and bilayer thinning.
-    <br>**[Final Full Text](https://doi.org/10.1101/798181)**
+    <br>**[Preprint](https://doi.org/10.1101/798181)**
     <br>**[Final Full Text](https://rdcu.be/b3qrq)**
   date: 202004
   image: /static/img/pub/Nguyen_NSMB_2020.png
@@ -168,7 +168,7 @@
   journal:  __NATURE__ 2018 June <br>
   abstract: |
     Mitochondrial inheritance, genome maintenance and metabolic adaptation depend on organelle fission by dynamin-related protein 1 (DRP1) and its mitochondrial receptors. DRP1 receptors include the paralogues mitochondrial dynamics proteins of 49 and 51 kDa (MID49 and MID51) and mitochondrial fission factor (MFF); however, the mechanisms by which these proteins recruit and regulate DRP1 are unknown. Here we present a cryo-electron microscopy structure of full-length human DRP1 co-assembled with MID49 and an analysis of structure- and disease-based mutations. We report that GTP induces a marked elongation and rotation of the GTPase domain, bundle-signalling element and connecting hinge loops of DRP1. In this conformation, a network of multivalent interactions promotes the polymerization of a linear DRP1 filament with MID49 or MID51. After co-assembly, GTP hydrolysis and exchange lead to MID receptor dissociation, filament shortening and curling of DRP1 oligomers into constricted and closed rings. Together, these views of full-length, receptor- and nucleotide-bound conformations reveal how DRP1 performs mechanical work through nucleotide-driven allostery. 
-    <br>**[Preprint](https://www.biorxiv.org/content/early/2017/08/07/172809)** <br>
+    <br>**[Preprint](https://www.biorxiv.org/content/early/2017/08/07/172809)**
     <br>**[Final Full Text](https://rdcu.be/Xb8p)**
   date: 201806
   image: /static/img/pub/DRP1.png
