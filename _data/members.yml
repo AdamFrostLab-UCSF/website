@@ -1,60 +1,35 @@
-- name: "**[Dr. Adam Frost](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
+- name: "**[Dr. Adam Frost (he/his/him)](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
   image: /static/img/people/frost.jpg
-  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
+  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)** | **[The Other Kind of MD/PhD](https://www.youtube.com/watch?v=xbERFs0VjLg)**"
   email: occams.mustache (at) gmail.com
   cv: /static/pdf/AdamFrost_biosketch_2020.06.pdf
 
-- name: Loan Doan
+- name: Loan Doan (she/her/hers)
   image: /static/img/people/Doan.jpg
   position: Laboratory Assistant
   email: loan.doan (at) ucsf.edu
 
-- name: Lakshmi Miller-Vedam
+- name: Lakshmi Miller-Vedam (she/her/hers)
   image: /static/img/people/millervedam.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: lmillervedam (at) msg.ucsf.edu
-
-- name: Dr. Henry Nguyen
-  image: /static/img/people/nguyen.png
-  position: "Postdoctoral Scholar <br> from **[Yale University](https://medicine.yale.edu/lab/xiong/)**"
-  email: nguyen.henry.c (at) gmail.com
-
-- name: Dr. Alexander Von Appen
-  image: /static/img/people/vonappen.png
-  position: "Postdoctoral Scholar <br> from **[EMBL](http://becklab.net/)**"
-  email: alexandervonappen (at) gmx.de
-
-- name: Isabel Johnson
-  image: /static/img/people/johnson.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
-  email: isabel.johnson93 (at) gmail.com
-  
-- name: Conor Howard
+ 
+- name: Conor Howard (he/his/him)
   image: /static/img/people/howard.png
   position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
   email: conor.howard (at) ucsf.edu
 
-- name: Paul Thomas
+- name: Paul Thomas (he/his/him)
   image: /static/img/people/thomas.png
   position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
   email: paul.thomas (at) ucsf.edu
 
-- name: Dr. Halil Aydin
-  image: /static/img/people/aydin.png
-  position: "Postdoctoral Scholar <br> from the **[University of Toronto](https://leelab-utoronto.com/)**"
-  email: halil.aydin (at) ucsf.edu
-  
-- name: Dr. Ming Sun
-  image: /static/img/people/sun.png
-  position: "Postdoctoral Scholar <br> from **[Columbia University](http://franklab.cpmc.columbia.edu/franklab/)**"
-  email: ming.sun (at) ucsf.edu
-
-- name: Dr. Arthur Melo
+- name: Dr. Arthur Melo (he/his/him)
   image: /static/img/people/melo.png
   position: "Postdoctoral Scholar <br> from the **[Max-Delbrück-Centrum für Molekulare Medizin (MDC)](https://www.mdc-berlin.de/daumke)**"
   email: arthur.alvesdemelo (at) ucsf.edu
 
-- name: Dr. Frank Moss
+- name: Dr. Frank Moss (he/his/him)
   image: /static/img/people/moss.png
   position: "Postdoctoral Scholar <br> from **[Stanford University](https://web.stanford.edu/group/boxer/)**"
   email: frank.moss (at) ucsf.edu
