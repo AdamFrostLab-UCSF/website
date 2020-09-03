@@ -47,6 +47,7 @@
   image: /static/img/people/kalia.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[University of California, San Francisco](https://juliuslab.ucsf.edu/)**"
+  
 - name: Dr. Valentine Romanov
   image: /static/img/people/romanov.jpg
   new_position: Postdoctoral Scholar
@@ -61,4 +62,28 @@
   image: /static/img/people/gabruk.png
   new_position: Assistant Professor
   new_location: "**[Jagiellonian University](https://en.uj.edu.pl/en_GB/start)**"
+
+- name: Dr. Ming Sun
+  image: /static/img/people/sun.png
+  new_position: Research and Development, Scientist 
+  new_location: "**[Beam Therapeutics](https://beamtx.com/)**"
   
+- name: Dr. Isabel Johnson
+  image: /static/img/people/johnson.png
+  new_position: Research and Development, Scientist 
+  new_location: "**[Inflammatix](https://inflammatix.com/)**"
+   
+- name: Dr. Henry Nguyen
+  image: /static/img/people/nguyen.png
+  new_position: Research and Development, Scientist 
+  new_location: "**[Asher Bio](https://www.asherbio.com/)**"
+   
+- name: Dr. Halil Aydin
+  image: /static/img/people/aydin.png
+  new_position: Assistant Professor
+  new_location: "**[UC Boulder, Biochemistry](https://www.colorado.edu/biochemistry/)**"
+  
+- name: Dr. Alexander Von Appen
+  image: /static/img/people/vonappen.png
+  new_position: Assistant Professor
+  new_location: "**[Max Planck Institute, Dresden](https://www.mpi-cbg.de/home/)**"
