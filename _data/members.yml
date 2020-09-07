@@ -1,8 +1,7 @@
-- name: "**[Dr. Adam Frost (he/his/him)](https://www.youtube.com/watch?v=JyAW7KRfSNE)**"
+- name: Adam Frost (he/his/him)
   image: /static/img/people/frost.jpg
-  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)** | **[The Other Kind of MD/PhD](https://www.youtube.com/watch?v=xbERFs0VjLg)**"
+  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: occams.mustache (at) gmail.com
-  cv: /static/pdf/AdamFrost_biosketch_2020.06.pdf
 
 - name: Loan Doan (she/her/hers)
   image: /static/img/people/Doan.jpg
