@@ -87,3 +87,8 @@
   image: /static/img/people/vonappen.png
   new_position: Assistant Professor
   new_location: "**[Max Planck Institute, Dresden](https://www.mpi-cbg.de/home/)**"
+
+- name: Dr. Frank Moss (he/his/him)
+  image: /static/img/people/moss.png
+  new_position: Scientist 
+  new_location: **[SLAC @ Stanford University](https://www6.slac.stanford.edu/)**"
