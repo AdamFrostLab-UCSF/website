@@ -47,7 +47,12 @@
   image: /static/img/people/kalia.jpg
   new_position: Postdoctoral Scholar
   new_location: "**[University of California, San Francisco](https://juliuslab.ucsf.edu/)**"
-  
+
+- name: Dr. Ali Yusuf
+  image: /static/img/people/yusuf.jpg
+  new_position: Medical Resident
+  new_location: California, San Francisco
+ 
 - name: Dr. Valentine Romanov
   image: /static/img/people/romanov.jpg
   new_position: Postdoctoral Scholar
