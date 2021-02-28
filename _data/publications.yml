@@ -1,6 +1,6 @@
-- title: Photocatalytic plant LPOR forms helical lattices that shape membranes for 1 chlorophyll synthesis
+- title: Photocatalytic plant LPOR forms helical lattices that shape membranes for chlorophyll synthesis
   authors: |
-    Nguyen H<sup>\*</sup><br>, Melo AA, Kruk J, Frost A<sup>\*</sup><br>, Gabruk M<sup>\*</sup><br>
+    Nguyen H<sup>\*</sup>, Melo AA, Kruk J, Frost A<sup>\*</sup>, Gabruk M<sup>\*</sup><br>
   journal:  __Nature Plants__ 2021 in press <br>
   abstract: |
     Chlorophyll (Chl) biosynthesis, crucial to life on Earth, is tightly regulated because its precursors are phototoxic. In flowering plants, the enzyme Light-dependent Protochlorophyllide OxidoReductase (LPOR) captures photons to catalyze the penultimate reaction: the reduction of a double-bond within protochlorophyllide (Pchlide) to generate chlorophyllide (Chlide). In darkness, LPOR oligomerizes to facilitate photon energy transfer and catalysis. However, the complete 3D structure of LPOR, the higher-order architecture of LPOR oligomers, and the implications of these self-assembled states for catalysis, including how LPOR positions Pchlide and the cofactor NADPH, remain unknown. Here we report the atomic structure of LPOR assemblies by electron cryo-microscopy (cryoEM). LPOR polymerizes with its substrates into helical filaments around constricted lipid bilayer tubes. Portions of LPOR and Pchlide insert into the outer membrane leaflet, targeting the product, Chlide, to the membrane for the final reaction site of chlorophyll biosynthesis. In addition to its crucial photocatalytic role, we show that in darkness LPOR filaments directly shape membranes into high-curvature tubules with the spectral properties of the prolamellar body, whose light-triggered disassembly provides lipids for thylakoid assembly. Our structure of the catalytic site, moreover, challenges previously proposed reaction mechanisms. Together, our results reveal a new and unexpected synergy between photosynthetic membrane biogenesis and chlorophyll synthesis in plants orchestrated by LPOR.
@@ -14,7 +14,7 @@
     Brandman O and Frost A
   journal:  __Molecular Cell__ 2021 Jan <br>
   abstract: |
-    CAT tailing is an ancient and conserved form of peptide synthesis that protects cells from incomplete and potentially toxic translation products. Filbeck et al. (2020) and Crowe-McAuliffe et al. (2020) use structural, genetic, and biochemical approaches to elucidate the mechanisms driving C-terminal tailing.
+    CAT tailing is an ancient and conserved form of peptide synthesis that protects cells from incomplete and potentially toxic translation products. Filbeck et al. (2020) and Crowe-McAuliffe et al. (2020) use structural, genetic, and biochemical approaches to elucidate the mechanisms driving CAT tailing.
     <br>**[Final Full Text](10.1016/j.molcel.2020.12.032)**
   date: 202101
   image: /static/img/pub/BrandmanFrost_MolCell_2021.png
@@ -33,7 +33,7 @@
 
 - title: Structural and mechanistic basis of the EMC-dependent biogenesis of distinct transmembrane clients
   authors: |
-    Miller-Vedam LE#, Bräuning B#, Popova KD#, Schirle Oakdale NT, Bonnar JL, Prabu JR, Boydston EA, Sevillano N, Shurtleff MJ, Stroud RM, Craik CS, Schulman BA<sup>\*</sup><br>, Frost A<sup>\*</sup><br>, Weissman JS<sup>\*</sup><br>
+    Miller-Vedam LE#, Bräuning B#, Popova KD#, Schirle Oakdale NT, Bonnar JL, Prabu JR, Boydston EA, Sevillano N, Shurtleff MJ, Stroud RM, Craik CS, Schulman BA<sup>\*</sup>, Frost A<sup>\*</sup>, Weissman JS<sup>\*</sup><br>
     <sup>\#</sup> Co-first authors <br>
     <sup>\*</sup> Co-corresponding authors 
   journal:  __eLife__ 2020 Nov <br>
