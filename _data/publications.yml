@@ -1,3 +1,60 @@
+- title: Photocatalytic plant LPOR forms helical lattices that shape membranes for 1 chlorophyll synthesis
+  authors: |
+    Nguyen H<sup>\*</sup><br>, Melo AA, Kruk J, Frost A<sup>\*</sup><br>, Gabruk M<sup>\*</sup><br>
+  journal:  __Nature Plants__ 2021 in press <br>
+  abstract: |
+    Chlorophyll (Chl) biosynthesis, crucial to life on Earth, is tightly regulated because its precursors are phototoxic. In flowering plants, the enzyme Light-dependent Protochlorophyllide OxidoReductase (LPOR) captures photons to catalyze the penultimate reaction: the reduction of a double-bond within protochlorophyllide (Pchlide) to generate chlorophyllide (Chlide). In darkness, LPOR oligomerizes to facilitate photon energy transfer and catalysis. However, the complete 3D structure of LPOR, the higher-order architecture of LPOR oligomers, and the implications of these self-assembled states for catalysis, including how LPOR positions Pchlide and the cofactor NADPH, remain unknown. Here we report the atomic structure of LPOR assemblies by electron cryo-microscopy (cryoEM). LPOR polymerizes with its substrates into helical filaments around constricted lipid bilayer tubes. Portions of LPOR and Pchlide insert into the outer membrane leaflet, targeting the product, Chlide, to the membrane for the final reaction site of chlorophyll biosynthesis. In addition to its crucial photocatalytic role, we show that in darkness LPOR filaments directly shape membranes into high-curvature tubules with the spectral properties of the prolamellar body, whose light-triggered disassembly provides lipids for thylakoid assembly. Our structure of the catalytic site, moreover, challenges previously proposed reaction mechanisms. Together, our results reveal a new and unexpected synergy between photosynthetic membrane biogenesis and chlorophyll synthesis in plants orchestrated by LPOR.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257774v2)**
+  date: 202101
+  image: /static/img/pub/NguyenGabruk_NatPlants_2021.png
+  pmid: 33417855
+
+- title: Primordial Protein Tails
+  authors: |
+    Brandman O and Frost A
+  journal:  __Molecular Cell__ 2021 Jan <br>
+  abstract: |
+    CAT tailing is an ancient and conserved form of peptide synthesis that protects cells from incomplete and potentially toxic translation products. Filbeck et al. (2020) and Crowe-McAuliffe et al. (2020) use structural, genetic, and biochemical approaches to elucidate the mechanisms driving C-terminal tailing.
+    <br>**[Final Full Text](10.1016/j.molcel.2020.12.032)**
+  date: 202101
+  image: /static/img/pub/BrandmanFrost_MolCell_2021.png
+  pmid: 33417855
+  
+- title: Comparative host-coronavirus protein interaction networks reveal pan-viral disease mechanisms
+  authors: |
+    UCSF QBI Coronavirus Consortium
+  journal:  __Science__ 2020 Dec <br>
+  abstract: |
+    The COVID-19 pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a grave threat to public health and the global economy. SARS-CoV-2 is closely related to the more lethal but less transmissible coronaviruses SARS-CoV-1 and Middle East respiratory syndrome coronavirus (MERS-CoV). Here, we have carried out comparative viral-human protein-protein interaction and viral protein localization analyses for all three viruses. Subsequent functional genetic screening identified host factors that functionally impinge on coronavirus proliferation, including Tom70, a mitochondrial chaperone protein that interacts with both SARS-CoV-1 and SARS-CoV-2 ORF9b, an interaction we structurally characterized using cryo-electron microscopy. Combining genetically validated host factors with both COVID-19 patient genetic data and medical billing records identified molecular mechanisms and potential drug treatments that merit further molecular and clinical study.
+    <br>**[Final Full Text](https://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=33060197)**
+  date: 202012
+  image: /static/img/pub/Gordon_Science_2020.jpg
+  pmid: 33060197
+
+- title: Structural and mechanistic basis of the EMC-dependent biogenesis of distinct transmembrane clients
+  authors: |
+    Miller-Vedam LE#, Bräuning B#, Popova KD#, Schirle Oakdale NT, Bonnar JL, Prabu JR, Boydston EA, Sevillano N, Shurtleff MJ, Stroud RM, Craik CS, Schulman BA<sup>\*</sup><br>, Frost A<sup>\*</sup><br>, Weissman JS<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __eLife__ 2020 Nov <br>
+  abstract: |
+    Membrane protein biogenesis in the endoplasmic reticulum (ER) is complex and failure-prone. The ER membrane protein complex (EMC), comprising eight conserved subunits, has emerged as a central player in this process. Yet, we have limited understanding of how EMC enables insertion and integrity of diverse clients, from tail-anchored to polytopic transmembrane proteins. Here, yeast and human EMC cryo-EM structures reveal conserved intricate assemblies and human-specific features associated with pathologies. Structure-based functional studies distinguish between two separable EMC activities, as an insertase regulating tail-anchored protein levels and a broader role in polytopic membrane protein biogenesis. These depend on mechanistically coupled yet spatially distinct regions including two lipid-accessible membrane cavities which confer client-specific regulation, and a non-insertase EMC function mediated by the EMC lumenal domain. Our studies illuminate the structural and mechanistic basis of EMC’s multifunctionality and point to its role in differentially regulating the biogenesis of distinct client protein classes.
+    <br>**[Final Full Text](https://elifesciences.org/articles/62611)**
+  date: 202011
+  image: /static/img/pub/Lakshmi_eLIFE_2020.jpg
+  pmid: 33236988
+
+- title: GIGYF2 and 4EHP Inhibit Translation Initiation of Defective Messenger RNAs to Assist Ribosome-Associated Quality Control
+  authors: |
+    Hickey KL, Dickson K, Cogan JZ, Replogle JM, Schoof M, D'Orazio KN, Sinha NK, Hussmann JA, Jost M, Frost A, Green R, Weissman JS, Kostova KK
+  journal:  __Molecular Cell__ 2020 Sep <br>
+  abstract: |
+    Ribosome-associated quality control (RQC) pathways protect cells from toxicity caused by incomplete protein products resulting from translation of damaged or problematic mRNAs. Extensive work in yeast has identified highly conserved mechanisms that lead to degradation of faulty mRNA and partially synthesized polypeptides. Here we used CRISPR-Cas9-based screening to search for additional RQC strategies in mammals. We found that failed translation leads to specific inhibition of translation initiation on that message. This negative feedback loop is mediated by two translation inhibitors, GIGYF2 and 4EHP. Model substrates and growth-based assays established that inhibition of additional rounds of translation acts in concert with known RQC pathways to prevent buildup of toxic proteins. Inability to block translation of faulty mRNAs and subsequent accumulation of partially synthesized polypeptides could explain the neurodevelopmental and neuropsychiatric disorders observed in mice and humans with compromised GIGYF2 function.
+    <br>**[Final Full Text](10.1016/j.molcel.2020.07.007)**
+  date: 202009
+  image: /static/img/pub/Hickey_MolCell_2020.jpg
+  pmid: 32726578
+
 - title: LEM2 phase separation promotes ESCRT-mediated nuclear envelope reformation
   authors: |
     Von Appen A#, LaJoie D#, Johnson IE#, Trnka MJ, Pick SM, Burlingame AL, Ullman K<sup>\*</sup>, Frost A<sup>\*</sup><br>
