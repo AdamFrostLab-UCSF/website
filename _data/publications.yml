@@ -5,9 +5,22 @@
   abstract: |
     Chlorophyll (Chl) biosynthesis, crucial to life on Earth, is tightly regulated because its precursors are phototoxic. In flowering plants, the enzyme Light-dependent Protochlorophyllide OxidoReductase (LPOR) captures photons to catalyze the penultimate reaction: the reduction of a double-bond within protochlorophyllide (Pchlide) to generate chlorophyllide (Chlide). In darkness, LPOR oligomerizes to facilitate photon energy transfer and catalysis. However, the complete 3D structure of LPOR, the higher-order architecture of LPOR oligomers, and the implications of these self-assembled states for catalysis, including how LPOR positions Pchlide and the cofactor NADPH, remain unknown. Here we report the atomic structure of LPOR assemblies by electron cryo-microscopy (cryoEM). LPOR polymerizes with its substrates into helical filaments around constricted lipid bilayer tubes. Portions of LPOR and Pchlide insert into the outer membrane leaflet, targeting the product, Chlide, to the membrane for the final reaction site of chlorophyll biosynthesis. In addition to its crucial photocatalytic role, we show that in darkness LPOR filaments directly shape membranes into high-curvature tubules with the spectral properties of the prolamellar body, whose light-triggered disassembly provides lipids for thylakoid assembly. Our structure of the catalytic site, moreover, challenges previously proposed reaction mechanisms. Together, our results reveal a new and unexpected synergy between photosynthetic membrane biogenesis and chlorophyll synthesis in plants orchestrated by LPOR.
     <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257774v2)**
-  date: 202101
+    <br>**[Final Full Text](https://rdcu.be/ciX2V)**
+    <br>**[News & Views](https://www.nature.com/articles/s41477-021-00900-6)**    
+  date: 202104
   image: /static/img/pub/NguyenGabruk_NatPlants_2021.png
   pmid: 33417855
+
+- title: eIF2B conformation and assembly state regulate the integrated stress response
+  authors: |
+    Schoof M, Boone M, Wang L, Lawrence R, Frost A<sup>\*</sup>, Gabruk M<sup>\*</sup><br>
+  journal:  __eLife__ 2021 Mar <br>
+  abstract: |
+    The integrated stress response (ISR) is activated by phosphorylation of the translation initiation factor eIF2 in response to various stress conditions. Phosphorylated eIF2 (eIF2-P) inhibits eIF2's nucleotide exchange factor eIF2B, a twofold symmetric heterodecamer assembled from subcomplexes. Here, we monitor and manipulate eIF2B assembly in vitro and in vivo. In the absence of eIF2B's α-subunit, the ISR is induced because unassembled eIF2B tetramer subcomplexes accumulate in cells. Upon addition of the small-molecule ISR inhibitor ISRIB, eIF2B tetramers assemble into active octamers. Surprisingly, ISRIB inhibits the ISR even in the context of fully assembled eIF2B decamers, revealing allosteric communication between the physically distant eIF2, eIF2-P, and ISRIB binding sites. Cryo-electron microscopy structures suggest a rocking motion in eIF2B that couples these binding sites. eIF2-P binding converts eIF2B decamers into 'conjoined tetramers' with diminished substrate binding and enzymatic activity. Canonical eIF2-P-driven ISR activation thus arises due to this change in eIF2B's conformational state.
+    <br>**[Fell Text](https://elifesciences.org/articles/65703)**
+  date: 202103
+  image: /static/img/pub/Schoof_ELIFE_2021.jpg
+  pmid: 33688831
 
 - title: Primordial protein tails
   authors: |
