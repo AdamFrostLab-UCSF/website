@@ -1,7 +1,30 @@
+- title: Ribosome-associated quality control and CAT tailing
+  authors: |
+    Howard C and Frost A
+  journal:  __Critical Reviews in Biochemistry and Molecular Biology__ 2021 July <br>
+  abstract: |
+    Translation is the set of mechanisms by which ribosomes decode genetic messages as they synthesize polypeptides of a defined amino acid sequence. While the ribosome has been honed by evolution for high-fidelity translation, errors are inevitable. Aberrant mRNAs, mRNA structure, defective ribosomes, interactions between nascent proteins and the ribosomal exit tunnel, and insufficient cellular resources, including low tRNA levels, can lead to functionally irreversible stalls. Life thus depends on quality control mechanisms that detect, disassemble and recycle stalled translation intermediates. Ribosome-associated Quality Control (RQC) recognizes aberrant ribosome states and targets their potentially toxic polypeptides for degradation. Here we review recent advances in our understanding of RQC in bacteria, fungi, and metazoans. We focus in particular on an unusual modification made to the nascent chain known as a “CAT tail”, or Carboxy-terminal Alanine and Threonine tail, and the mechanisms by which ancient RQC proteins catalyze CAT-tail synthesis.
+    <br>**[Final Full Text](https://www.tandfonline.com/doi/full/10.1080/10409238.2021.1938507)**
+  date: 202105
+  image: /static/img/pub/ConorHoward_CR_2021.png
+  pmid: 34233554
+  
+- title: Practical considerations for using K3 cameras in CDS mode for high-resolution and high-throughput single particle cryo-EM
+  authors: |
+    Sun M<sup>\*</sup>, Azumaya CM<sup>\*</sup>, Tse E<sup>\*</sup>, Bulkley DP, Harrington MB, Gilbert G, Frost A, Southworth D, Verba KA, Cheng Y, Agard DA<br>
+  journal:  __Journal of Structural Biology__ 2021 May <br>
+  abstract: |
+    Detector technology plays a pivotal role in high-resolution and high-throughput cryo-EM structure determination. Compared with the first-generation, single-electron counting direct detection camera (Gatan K2), the latest K3 camera is faster, larger, and now offers a correlated-double sampling mode (CDS). Importantly this results in a higher DQE and improved throughput compared to its predecessor. In this study, we focused on optimizing camera data collection parameters for daily use within a cryo-EM facility and explored the balance between throughput and resolution. In total, eight data sets of murine heavy-chain apoferritin were collected at different dose rates and magnifications, using 9-hole image shift data collection strategies. The performance of the camera was characterized by the quality of the resultant 3D reconstructions. Our results demonstrated that the Gatan K3 operating in CDS mode outperformed standard (nonCDS) mode in terms of reconstruction resolution in all tested conditions with 8 electrons per pixel per second being the optimal dose rate. At low magnification (64kx) we were able to achieve reconstruction resolutions of 149% of the physical Nyquist limit (1.8 Å with a 1.346 Å physical pixel size). Low magnification allows more particles to be collected per image, aiding analysis of heterogeneous samples requiring large data sets. At moderate magnification (105kx, 0.834 Å physical pixel size) we achieved a resolution of 1.65 Å within 8-h of data collection, a condition optimal for achieving high-resolution on well behaved samples. Our results also show that for an optimal sample like apoferritin, one can achieve better than 2.5 Å resolution with 5 min of data collection. Together, our studies validate the most efficient ways of imaging protein complexes using the K3 direct detector and will greatly benefit the cryo-EM community.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.11.08.372763v1)**
+    <br>**[Final Full Text](https://doi.org/10.1016/j.jsb.2021.107745)**
+  date: 202105
+  image: /static/img/pub/MingSun_JSB_2021.png
+  pmid: 33984504
+
 - title: Photocatalytic plant LPOR forms helical lattices that shape membranes for chlorophyll synthesis
   authors: |
     Nguyen H<sup>\*</sup>, Melo AA, Kruk J, Frost A<sup>\*</sup>, Gabruk M<sup>\*</sup><br>
-  journal:  __Nature Plants__ 2021 in press <br>
+  journal:  __Nature Plants__ 2021 Apr <br>
   abstract: |
     Chlorophyll (Chl) biosynthesis, crucial to life on Earth, is tightly regulated because its precursors are phototoxic. In flowering plants, the enzyme Light-dependent Protochlorophyllide OxidoReductase (LPOR) captures photons to catalyze the penultimate reaction: the reduction of a double-bond within protochlorophyllide (Pchlide) to generate chlorophyllide (Chlide). In darkness, LPOR oligomerizes to facilitate photon energy transfer and catalysis. However, the complete 3D structure of LPOR, the higher-order architecture of LPOR oligomers, and the implications of these self-assembled states for catalysis, including how LPOR positions Pchlide and the cofactor NADPH, remain unknown. Here we report the atomic structure of LPOR assemblies by electron cryo-microscopy (cryoEM). LPOR polymerizes with its substrates into helical filaments around constricted lipid bilayer tubes. Portions of LPOR and Pchlide insert into the outer membrane leaflet, targeting the product, Chlide, to the membrane for the final reaction site of chlorophyll biosynthesis. In addition to its crucial photocatalytic role, we show that in darkness LPOR filaments directly shape membranes into high-curvature tubules with the spectral properties of the prolamellar body, whose light-triggered disassembly provides lipids for thylakoid assembly. Our structure of the catalytic site, moreover, challenges previously proposed reaction mechanisms. Together, our results reveal a new and unexpected synergy between photosynthetic membrane biogenesis and chlorophyll synthesis in plants orchestrated by LPOR.
     <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257774v2)**
