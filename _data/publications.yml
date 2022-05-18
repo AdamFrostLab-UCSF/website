@@ -1,3 +1,47 @@
+- title: A structural biology community assessment of AlphaFold 2 applications
+  authors: |
+    Akdel M, et al. 
+  journal:  __BioRxiv__ 2022 Jun <br>
+  abstract: |
+    Most proteins fold into 3D structures that determine how they function and orchestrate the biological processes of the cell. Recent developments in computational methods have led to protein structure predictions that have reached the accuracy of experimentally determined models. While this has been independently verified, the implementation of these methods across structural biology applications remains to be tested. Here, we evaluate the use of AlphaFold 2 (AF2) predictions in the study of characteristic structural elements; the impact of missense variants; function and ligand binding site predictions; modelling of interactions; and modelling of experimental structural data. For 11 proteomes, an average of 25% additional residues can be confidently modelled when compared to homology modelling, identifying structural features rarely seen in the PDB. AF2-based predictions of protein disorder and protein complexes surpass state-of-the-art tools and AF2 models can be used across diverse applications equally well compared to experimentally determined structures, when the confidence metrics are critically considered. In summary, we find that these advances are likely to have a transformative impact in structural biology and broader life science research.
+    <br>**[PrePrint](https://doi.org/10.1101/2021.09.26.461876)**
+  date: 202206
+  image: /static/img/pub/AF2_assessment_NSMB_202206.jpg
+  pmid: NaN
+
+- title: Directed evolution of the rRNA methylating enzyme Cfr reveals molecular basis of antibiotic resistance
+  authors: |
+    Boone M, Wang L, Lawrence R, Frost A, Walter P, Schoof M
+  journal:  __Elife__ 2022 Apr <br>
+  abstract: |
+    In eukaryotic cells, stressors reprogram the cellular proteome by activating the integrated stress response (ISR). In its canonical form, stress-sensing kinases phosphorylate the eukaryotic translation initiation factor eIF2 (eIF2-P), which ultimately leads to reduced levels of ternary complex required for initiation of mRNA translation. Previously we showed that translational control is primarily exerted through a conformational switch in eIF2's nucleotide exchange factor, eIF2B, which shifts from its active A-State conformation to its inhibited I-State conformation upon eIF2-P binding, resulting in reduced nucleotide exchange on eIF2 (Schoof et al. 2021). Here, we show functionally and structurally how a single histidine to aspartate point mutation in eIF2B's β subunit (H160D) mimics the effects of eIF2-P binding by promoting an I-State like conformation, resulting in eIF2-P independent activation of the ISR. These findings corroborate our previously proposed A/I-State model of allosteric ISR regulation.
+    <br>**[Final Full Text](https://doi.org/10.7554/elife.76171)**
+  date: 202204
+  image: /static/img/pub/Wang_Boone_Schoof_eLIFEH160D_202204.png
+  pmid: 35416150
+  
+- title: Directed evolution of the rRNA methylating enzyme Cfr reveals molecular basis of antibiotic resistance
+  authors: |
+    Tsai K, Stojković V, Noda-Garcia L, Young ID, Myasnikov AG, Kleinman J, Palla A, Floor SN, Frost A, Fraser JS, Tawfik DS, Fujimori DG
+  journal:  __Elife__ 2022 Jan <br>
+  abstract: |
+    Alteration of antibiotic binding sites through modification of ribosomal RNA (rRNA) is a common form of resistance to ribosome-targeting antibiotics. The rRNA-modifying enzyme Cfr methylates an adenosine nucleotide within the peptidyl transferase center, resulting in the C-8 methylation of A2503 (m8A2503). Acquisition of cfr results in resistance to eight classes of ribosome-targeting antibiotics. Despite the prevalence of this resistance mechanism, it is poorly understood whether and how bacteria modulate Cfr methylation to adapt to antibiotic pressure. Moreover, direct evidence for how m8A2503 alters antibiotic binding sites within the ribosome is lacking. In this study, we performed directed evolution of Cfr under antibiotic selection to generate Cfr variants that confer increased resistance by enhancing methylation of A2503 in cells. Increased rRNA methylation is achieved by improved expression and stability of Cfr through transcriptional and post-transcriptional mechanisms, which may be exploited by pathogens under antibiotic stress as suggested by natural isolates. Using a variant that achieves near-stoichiometric methylation of rRNA, we determined a 2.2 Å cryo-electron microscopy structure of the Cfr-modified ribosome. Our structure reveals the molecular basis for broad resistance to antibiotics and will inform the design of new antibiotics that overcome resistance mediated by Cfr.
+    <br>**[Final Full Text](https://doi.org/10.7554/elife.70017)**
+  date: 202201
+  image: /static/img/pub/Tsai_Cfr_eLIFE202201.jpg
+  pmid: 35015630
+  
+- title: Viral evasion of the integrated stress response through antagonism of eIF2-P binding to eIF2B
+  authors: |
+    Schoof M, Wang L, Cogan JZ, Lawrence RE, Boone M, Wuerth JD, Frost A, Walter P
+  journal:  __Nature Communications__ 2021 Dec <br>
+  abstract: |
+    Viral infection triggers activation of the integrated stress response (ISR). In response to viral double-stranded RNA (dsRNA), RNA-activated protein kinase (PKR) phosphorylates the translation initiation factor eIF2, converting it from a translation initiator into a potent translation inhibitor and this restricts the synthesis of viral proteins. Phosphorylated eIF2 (eIF2-P) inhibits translation by binding to eIF2’s dedicated, heterodecameric nucleotide exchange factor eIF2B and conformationally inactivating it. We show that the NSs protein of Sandfly Fever Sicilian virus (SFSV) allows the virus to evade the ISR. Mechanistically, NSs tightly binds to eIF2B (KD = 30 nM), blocks eIF2-P binding, and rescues eIF2B GEF activity. Cryo-EM structures demonstrate that SFSV NSs and eIF2-P directly compete, with the primary NSs contacts to eIF2Bα mediated by five ‘aromatic fingers’. NSs binding preserves eIF2B activity by maintaining eIF2B’s conformation in its active A-State.
+    <br>**[Final Full Text](https://www.nature.com/articles/s41467-021-26164-4)**
+  date: 202112
+  image: /static/img/pub/Schoof_Wang_NSs_NatComm.png
+  pmid: 34876554
+
 - title: Ribosome-associated quality control and CAT tailing
   authors: |
     Howard C and Frost A
@@ -5,7 +49,7 @@
   abstract: |
     Translation is the set of mechanisms by which ribosomes decode genetic messages as they synthesize polypeptides of a defined amino acid sequence. While the ribosome has been honed by evolution for high-fidelity translation, errors are inevitable. Aberrant mRNAs, mRNA structure, defective ribosomes, interactions between nascent proteins and the ribosomal exit tunnel, and insufficient cellular resources, including low tRNA levels, can lead to functionally irreversible stalls. Life thus depends on quality control mechanisms that detect, disassemble and recycle stalled translation intermediates. Ribosome-associated Quality Control (RQC) recognizes aberrant ribosome states and targets their potentially toxic polypeptides for degradation. Here we review recent advances in our understanding of RQC in bacteria, fungi, and metazoans. We focus in particular on an unusual modification made to the nascent chain known as a “CAT tail”, or Carboxy-terminal Alanine and Threonine tail, and the mechanisms by which ancient RQC proteins catalyze CAT-tail synthesis.
     <br>**[Final Full Text](https://www.tandfonline.com/doi/full/10.1080/10409238.2021.1938507)**
-  date: 202105
+  date: 202107
   image: /static/img/pub/ConorHoward_CR_2021.png
   pmid: 34233554
   
