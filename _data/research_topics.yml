@@ -15,7 +15,7 @@
   url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9128643&icde=33721746"
 
 - name: New Concepts for Understanding and Treating Neurogenerative Disease
-  image: /static/img/research/pbbr.jpg
+  image: /static/img/research/pbbr.png
   url: "http://pbbr.ucsf.edu/awards/awardees"
 
 - name: The Structural Basis of Regulated Sphingolipid Synthesis
@@ -43,9 +43,13 @@
   url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9501224&icde=41421657"
   
 - name: Microscopic Lipid Dynamics - A New Experimental Approach
-  image: /static/img/research/pbbr.jpg
+  image: /static/img/research/pbbr.png
   url: "http://pbbr.ucsf.edu/awards/awardees"
   
-- name: Acquistion of a Glacios - Cryo Transmission Electron Microscope
+- name: Acquistion of a 200keV Glacios - Cryo Transmission Electron Microscope
   image: /static/img/research/nigms.jpg
   url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9708145&icde=46247037&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC&pball="
+
+- name: Altos Labs
+  image: /static/img/research/ALTOS_Logo_Primary.jpg
+  url: "https://altoslabs.com/team/principal-investigators-bay-area/adam-frost/"
