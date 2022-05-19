@@ -32,11 +32,6 @@
   image: /static/img/people/gu.jpg
   new_position: Healthcare Associate
   new_location: "**[University Hospital, University of Utah](https://healthcare.utah.edu/locations/hospital/)**"
-
-- name: Dr. Nathaniel Talledge
-  image: /static/img/people/talledge.jpg
-  new_position: Postdoctoral Scholar
-  new_location: "**[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
   
 - name: Dr. Rachael Di Santo
   image: /static/img/people/DiSanto.jpg
@@ -97,3 +92,20 @@
   image: /static/img/people/moss.png
   new_position: Scientist 
   new_location: "**[SLAC@Stanford University](https://www6.slac.stanford.edu/)**"
+  
+  - name: Lakshmi Miller-Vedam
+  image: /static/img/people/millervedam.png
+  new_position: Scientist
+  new_location: "**[Relay Therapeutics](https://relaytx.com/)**"
+ 
+- name: Conor Howard
+  image: /static/img/people/howard.png
+  new_position: Scientist
+  new_location: "**[Octant Bio](https://www.octant.bio/)**"
+
+- name: Paul Thomas
+  image: /static/img/people/thomas.png
+  new_position: Scientist
+  new_location: "**[Vaccine Research Center - NIAID](https://www.niaid.nih.gov/research/peter-kwong-phd-structural-biology-section)**"
+
+
