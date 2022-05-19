@@ -1,21 +1,21 @@
 - name: Dr. Marc Elgort
   image: /static/img/people/elgort2.png
-  new_position: Research and Development, Senior Scientist
+  new_position: Research Director
   new_location: Associated Regional and University Pathologists (ARUP) <br> Department of Pathology, University of Utah, Salt Lake City, Utah
 
 - name: Dr. John Gorzynski
   image: /static/img/people/gorzynski.png
-  new_position: D.V.M. and Ph.D. Candidate, Department of Genetics
+  new_position: D.V.M./Ph.D. Department of Genetics and Vetrinary Medicine
   new_location: Stanford University, Palo Alto, California
  
-- name: Mr. Seth Lilavivat
+- name: Seth Lilavivat
   image: /static/img/people/lilavivat.jpg
-  new_position: Research and Development, Scientist
+  new_position: Scientist
   new_location: Illumina, San Diego, California
 
 - name: Dr. Peter Shen
   image: /static/img/people/shen.jpg
-  new_position: Assistant Professor of Biochemistry
+  new_position: Associate Professor of Biochemistry
   new_location: University of Utah, Salt Lake City, Utah
 
 - name: Dr. Kimberly Dickson
@@ -25,17 +25,17 @@
   
 - name: Dr. Nicole Schirle
   image: /static/img/people/schirle.png
-  new_position: Research and Development, Scientist
+  new_position: Scientist
   new_location: Gilead, Foster City, California
   
 - name: Dr. Mingyu Gu
   image: /static/img/people/gu.jpg
-  new_position: Healthcare Associate
+  new_position: Family Medicine
   new_location: "**[University Hospital, University of Utah](https://healthcare.utah.edu/locations/hospital/)**"
   
 - name: Dr. Rachael Di Santo
   image: /static/img/people/DiSanto.jpg
-  new_position: Research and Development, Scientist
+  new_position: Scientist
   new_location: Synpromics, Edinburgh
   
 - name: Dr. Raghav Kalia
@@ -45,7 +45,7 @@
 
 - name: Dr. Ali Yusuf
   image: /static/img/people/yusuf.jpg
-  new_position: Medical Resident
+  new_position: Internal Medicine
   new_location: California, San Francisco
  
 - name: Dr. Valentine Romanov
@@ -65,17 +65,17 @@
 
 - name: Dr. Ming Sun
   image: /static/img/people/sun.png
-  new_position: Research and Development, Scientist 
+  new_position: Scientist 
   new_location: "**[Beam Therapeutics](https://beamtx.com/)**"
   
 - name: Dr. Isabel Johnson
   image: /static/img/people/johnson.png
-  new_position: Research and Development, Scientist 
+  new_position: Scientist 
   new_location: "**[Inflammatix](https://inflammatix.com/)**"
    
 - name: Dr. Henry Nguyen
   image: /static/img/people/nguyen.png
-  new_position: Research and Development, Scientist 
+  new_position: Scientist 
   new_location: "**[Asher Bio](https://www.asherbio.com/)**"
    
 - name: Dr. Halil Aydin
@@ -92,20 +92,18 @@
   image: /static/img/people/moss.png
   new_position: Scientist 
   new_location: "**[SLAC@Stanford University](https://www6.slac.stanford.edu/)**"
-  
-  - name: Lakshmi Miller-Vedam
-  image: /static/img/people/millervedam.png
-  new_position: Scientist
-  new_location: "**[Relay Therapeutics](https://relaytx.com/)**"
- 
-- name: Conor Howard
+   
+- name: Dr. Conor Howard
   image: /static/img/people/howard.png
   new_position: Scientist
   new_location: "**[Octant Bio](https://www.octant.bio/)**"
 
-- name: Paul Thomas
+- name: Dr. Lakshmi Miller-Vedam
+  image: /static/img/people/millervedam.png
+  new_position: Scientist
+  new_location: "**[Relay Therapeutics](https://relaytx.com/)**"
+
+- name: Dr. Paul Thomas
   image: /static/img/people/thomas.png
   new_position: Scientist
   new_location: "**[Vaccine Research Center - NIAID](https://www.niaid.nih.gov/research/peter-kwong-phd-structural-biology-section)**"
-
-
