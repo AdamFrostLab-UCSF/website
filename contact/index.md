@@ -12,7 +12,7 @@ group: contact
 
 <div class="col m4">
 
-  <h4>UCSF Lab Area </h4>
+  <h4>UCSF Lab Location </h4>
   Genentech Hall <br>
   Fourth Floor, Lab S476A <br>
   Office S472F <br>
@@ -23,11 +23,11 @@ group: contact
 <div class="col m4">
 
   <h4>Adam Frost</h4>
-  Altos Labs Principal Investigator & Adjunct UCSF Professor <br>
-  Formerly **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Jr Endowed Chair <br>
-  Department of Biochemistry and Biophysics
+  Altos Labs Founding Principal Investigator <br> Adjunct UCSF Professor <br>
+  Former **[Herbert Boyer](http://www.gene.com/about-us/leadership/our-founders)** Jr Endowed Chair of <br>
+  Biochemistry and Biophysics
   University of California, San Francisco <br>
-  email: adam.frost (at) ucsf.edu -or- afrost@altoslabs.com <br>
+  email: adam.frost (at) ucsf.edu <br> afrost (at) altoslabs.com <br>
 
 </div>
 
@@ -36,7 +36,7 @@ group: contact
   <h4> Melissa Kyrimis</h4>
   Executive Assistant <br>
   Email: mkyrimis (at) altoslabs.com  <br>
-  Phone: Do people still use phones? <br>
+  Phone: Do we still use phones? <br>
 
 </div>
 
@@ -52,7 +52,7 @@ group: contact
 
 ## Postdoctoral Scientists
 
-Please email inquiries about postdoctoral positions directly to Adam Frost.
+Please email inquiries about postdoctoral and senior scientist positions directly to Adam Frost.
 
 <div class="divider"></div>
 
