@@ -1,27 +1,17 @@
 - name: Adam Frost (he/his/him)
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
-  email: occams.mustache (at) gmail.com
-
+  email: afrost (at) altoslabs.com -or- adam.frost (at) ucsf.edu
+  
 - name: Loan Doan (she/her/hers)
   image: /static/img/people/Doan.jpg
-  position: Laboratory Assistant
-  email: loan.doan (at) ucsf.edu
-
-- name: Lakshmi Miller-Vedam (she/her/hers)
-  image: /static/img/people/millervedam.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: lmillervedam (at) msg.ucsf.edu
- 
-- name: Conor Howard (he/his/him)
-  image: /static/img/people/howard.png
-  position: "**[Tetrad](http://tetrad.ucsf.edu/)** Graduate Student" 
-  email: conor.howard (at) ucsf.edu
-
-- name: Paul Thomas (he/his/him)
-  image: /static/img/people/thomas.png
-  position: "**[Biophysics](http://biophysics.ucsf.edu/)** Graduate Student"
-  email: paul.thomas (at) ucsf.edu
+  position: Laboratory Associate
+  email: ldoan (at) altoslabs.com
+  
+- name: Dr. Nathaniel Talledge
+  image: /static/img/people/talledge.jpg
+  position: "Scientific Lab Manager <br> from Utah Biochemistry, UCSF Biophysics and the **[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
+  email: ntalledge (at) altoslabs.com
 
 - name: Dr. Arthur Melo (he/his/him)
   image: /static/img/people/melo.png
@@ -31,14 +21,15 @@
 - name: Dr. Tsanwen Lu (he/his/him)
   image: /static/img/people/lu.png
   position: "Postdoctoral Scholar from **[UCSD](https://chemistry.ucsd.edu/faculty/profiles/taylor_susan_s.html)** <br> with **[Peter Walter](http://walterlab.ucsf.edu/)**"
-  email: tsanwen.lu (at) ucsf.edu
-
+  email: tlu (at) altoslabs.com
+  
 - name: Nathaniel Dempsey (he/his/him)
   image: /static/img/people/dempsey2.png
   position: Research Associate
-  email: nathaniel.dempsey (at) ucsf.edu
+  email: ndempsey (at) altoslabs.com
 
 - name: Deepa Rajan (she/her/hers)
   image: /static/img/people/DeepaRajan_bw.png
-  position: "**[MD/PhD](https://mstp.ucsf.edu/students)** Graduate Student"
+  position: "**[MD/PhD](https://mstp.ucsf.edu/students)** Graduate Student with **[Wallace Marshall](https://cellgeometry.ucsf.edu/)**""
   email: deepa.rajan (at) ucsf.edu
+  
