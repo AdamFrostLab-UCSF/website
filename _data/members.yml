@@ -1,34 +1,34 @@
-- name: Adam Frost (he/his/him)
+- name: Adam Frost (they)
   image: /static/img/people/frost.jpg
   position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
   email: afrost (at) altoslabs.com -or- adam.frost (at) ucsf.edu
   
-- name: Loan Doan (she/her/hers)
+- name: Loan Doan (she)
   image: /static/img/people/Doan.jpg
   position: Laboratory Associate
   email: ldoan (at) altoslabs.com
   
-- name: Dr. Nathaniel Talledge
+- name: Dr. Nathaniel Talledge (he)
   image: /static/img/people/talledge.jpg
   position: "Scientific Lab Manager <br> from Utah Biochemistry, UCSF Biophysics and the **[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
   email: ntalledge (at) altoslabs.com
 
-- name: Dr. Arthur Melo (he/his/him)
+- name: Dr. Arthur Melo (he)
   image: /static/img/people/melo.png
   position: "Postdoctoral Scholar <br> from the **[Max-Delbrück-Centrum für Molekulare Medizin (MDC)](https://www.mdc-berlin.de/daumke)**"
   email: arthur.alvesdemelo (at) ucsf.edu
 
-- name: Dr. Tsanwen Lu (he/his/him)
+- name: Dr. Tsanwen Lu (he)
   image: /static/img/people/lu.png
   position: "Postdoctoral Scholar from **[UCSD](https://chemistry.ucsd.edu/faculty/profiles/taylor_susan_s.html)** <br> with **[Peter Walter](http://walterlab.ucsf.edu/)**"
   email: tlu (at) altoslabs.com
   
-- name: Nathaniel Dempsey (he/his/him)
+- name: Nathaniel Dempsey (he)
   image: /static/img/people/dempsey2.png
   position: Research Associate
   email: ndempsey (at) altoslabs.com
 
-- name: Deepa Rajan (she/her/hers)
+- name: Deepa Rajan (she)
   image: /static/img/people/DeepaRajan_bw.png
   position: "Graduate Student with the **[MD/PhD](https://mstp.ucsf.edu/students)** Program <br> and with **[Wallace Marshall](https://cellgeometry.ucsf.edu/)**"
   email: deepa.rajan (at) ucsf.edu
