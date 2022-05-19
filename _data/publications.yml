@@ -1,21 +1,21 @@
 - title: Brominated Lipid Probes Expose Structural Asymmetries in Constricted Membranes
   authors: |
-    Moss III FR, Lincoff J, Tucker M, Mohammed A, Grabe M, Frost A 
+    Moss III FR, Lincoff J, Tucker M, Mohammed A, Grabe M<sup>\*</sup>, Frost A<sup>\*</sup> 
   journal:  __BioRxiv__ 2021 Dec <br>
   abstract: |
     Lipids in biological membranes are thought to be functionally organized, but few experimental tools can probe nanoscale membrane structure. Using brominated lipids as contrast probes for cryo-EM and a model ESCRT-III membrane remodeling system, we observed leaflet-level and protein-localized lipid structural patterns within highly constricted and thinned membrane nanotubes. These nanotubes differed markedly from protein-free, flat bilayers in leaflet thickness, lipid diffusion rates, and lipid compositional and conformational asymmetries. Simulations and cryo-EM imaging of brominated SDPC showed how a pair of phenylalanine residues scored the outer leaflet with a helical hydrophobic defect where polyunsaturated docosahexaenoyl (DHA) tails accumulated at the bilayer surface. Combining cryo-EM of halogenated lipids with molecular dynamics thus enables new characterizations of the composition and structure of membranes on molecular length scales.
-    <br>**[PrePrint](https://www.biorxiv.org/content/10.1101/2021.08.24.457428v2)**
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2021.08.24.457428v2)**
   date: 202206
   image: /static/img/pub/Moss_Lincoff_Grabe_NSMB2022.06.png
   pmid: NaN
 
 - title: Structure and functionality of a multimeric human COQ7:COQ9 complex
   authors: |
-    Manicki M, Aydin H, Abriata LA, Overmyer KA, Guerra RM, Coon JJ, Dal Peraro M, Frost A, Pagliarini DJ 
+    Manicki M, Aydin H, Abriata LA, Overmyer KA, Guerra RM, Coon JJ, Dal Peraro M, Frost A<sup>\*</sup>, Pagliarini DJ<sup>\*</sup> 
   journal:  __BioRxiv__ 2021 Nov <br>
   abstract: |
     Coenzyme Q (CoQ, ubiquinone) is a redox-active lipid essential for core metabolic pathways and antioxidant defense. CoQ is synthesized upon the mitochondrial inner membrane by an ill-defined ‘complex Q’ metabolon. Here we present a structure and functional analyses of a substrate- and NADH-bound oligomeric complex comprised of two complex Q subunits: the hydroxylase COQ7, which performs the penultimate step in CoQ biosynthesis, and the prenyl lipid-binding protein COQ9. We reveal that COQ7 adopts a modified ferritin-like fold with an extended hydrophobic access channel whose substrate binding capacity is enhanced by COQ9. Using molecular dynamics simulations, we further show that two COQ7:COQ9 heterodimers form a curved tetramer that deforms the membrane, potentially opening a pathway for CoQ intermediates to translocate from within the bilayer to the proteins’ lipid-binding sites. Two such tetramers assemble into a soluble octamer, closed like a capsid, with lipids captured within. Together, these observations indicate that COQ7 and COQ9 cooperate to access hydrophobic precursors and coordinate subsequent synthesis steps toward producing mature CoQ.
-    <br>**[PrePrint](https://www.biorxiv.org/content/10.1101/2021.11.15.468694v1)**
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.468694v1)**
   date: 202206
   image: /static/img/pub/Aydin_Pagliarini_COQ.png
   pmid: NaN
@@ -26,18 +26,18 @@
   journal:  __BioRxiv__ 2021 Sept <br>
   abstract: |
     Most proteins fold into 3D structures that determine how they function and orchestrate the biological processes of the cell. Recent developments in computational methods have led to protein structure predictions that have reached the accuracy of experimentally determined models. While this has been independently verified, the implementation of these methods across structural biology applications remains to be tested. Here, we evaluate the use of AlphaFold 2 (AF2) predictions in the study of characteristic structural elements; the impact of missense variants; function and ligand binding site predictions; modelling of interactions; and modelling of experimental structural data. For 11 proteomes, an average of 25% additional residues can be confidently modelled when compared to homology modelling, identifying structural features rarely seen in the PDB. AF2-based predictions of protein disorder and protein complexes surpass state-of-the-art tools and AF2 models can be used across diverse applications equally well compared to experimentally determined structures, when the confidence metrics are critically considered. In summary, we find that these advances are likely to have a transformative impact in structural biology and broader life science research.
-    <br>**[PrePrint](https://doi.org/10.1101/2021.09.26.461876)**
+    <br>**[Preprint](https://doi.org/10.1101/2021.09.26.461876)**
   date: 202206
   image: /static/img/pub/AF2_assessment_NSMB_202206.png
   pmid: NaN
   
 - title: CryoEM and AI reveal a structure of SARS-CoV-2 Nsp2, a multifunctional protein involved in key host processes
   authors: |
-    Gupta M, et al. 
+    Gupta M & UCSF QBI Coronavirus Consortium 
   journal:  __BioRxiv__ 2021 May <br>
   abstract: |
     The SARS-CoV-2 protein Nsp2 has been implicated in a wide range of viral processes, but its exact functions, and the structural basis of those functions, remain unknown. Here, we report an atomic model for full-length Nsp2 obtained by combining cryo-electron microscopy with deep learning-based structure prediction from AlphaFold2. The resulting structure reveals a highly-conserved zinc ion-binding site, suggesting a role for Nsp2 in RNA binding. Mapping emerging mutations from variants of SARS-CoV-2 on the resulting structure shows potential host-Nsp2 interaction regions. Using structural analysis together with affinity tagged purification mass spectrometry experiments, we identify Nsp2 mutants that are unable to interact with the actin-nucleation-promoting WASH protein complex or with GIGYF2, an inhibitor of translation initiation and modulator of ribosome-associated quality control. Our work suggests a potential role of Nsp2 in linking viral transcription within the viral replication-transcription complexes (RTC) to the translation initiation of the viral message. Collectively, the structure reported here, combined with mutant interaction mapping, provides a foundation for functional studies of this evolutionary conserved coronavirus protein and may assist future drug design.
-    <br>**[PrePrint](https://doi.org/10.1101/2021.05.10.443524)**
+    <br>**[Preprint](https://doi.org/10.1101/2021.05.10.443524)**
   date: 202206
   image: /static/img/pub/Gupta_Verba_NSP2_NSMB2022.png
   pmid: NaN
@@ -88,7 +88,7 @@
   
 - title: Practical considerations for using K3 cameras in CDS mode for high-resolution and high-throughput single particle cryo-EM
   authors: |
-    Sun M<sup>\*</sup>, Azumaya CM<sup>\*</sup>, Tse E<sup>\*</sup>, Bulkley DP, Harrington MB, Gilbert G, Frost A, Southworth D, Verba KA, Cheng Y, Agard DA<br>
+    Sun M<sup>\*</sup>, Azumaya CM<sup>\*</sup>, Tse E<sup>\*</sup>, Bulkley DP, Harrington MB, Gilbert G, Frost A<sup>\*</sup>, Southworth D<sup>\*</sup>, Verba KA<sup>\*</sup>, Cheng Y, Agard DA<br>
   journal:  __Journal of Structural Biology__ 2021 May <br>
   abstract: |
     Detector technology plays a pivotal role in high-resolution and high-throughput cryo-EM structure determination. Compared with the first-generation, single-electron counting direct detection camera (Gatan K2), the latest K3 camera is faster, larger, and now offers a correlated-double sampling mode (CDS). Importantly this results in a higher DQE and improved throughput compared to its predecessor. In this study, we focused on optimizing camera data collection parameters for daily use within a cryo-EM facility and explored the balance between throughput and resolution. In total, eight data sets of murine heavy-chain apoferritin were collected at different dose rates and magnifications, using 9-hole image shift data collection strategies. The performance of the camera was characterized by the quality of the resultant 3D reconstructions. Our results demonstrated that the Gatan K3 operating in CDS mode outperformed standard (nonCDS) mode in terms of reconstruction resolution in all tested conditions with 8 electrons per pixel per second being the optimal dose rate. At low magnification (64kx) we were able to achieve reconstruction resolutions of 149% of the physical Nyquist limit (1.8 Å with a 1.346 Å physical pixel size). Low magnification allows more particles to be collected per image, aiding analysis of heterogeneous samples requiring large data sets. At moderate magnification (105kx, 0.834 Å physical pixel size) we achieved a resolution of 1.65 Å within 8-h of data collection, a condition optimal for achieving high-resolution on well behaved samples. Our results also show that for an optimal sample like apoferritin, one can achieve better than 2.5 Å resolution with 5 min of data collection. Together, our studies validate the most efficient ways of imaging protein complexes using the K3 direct detector and will greatly benefit the cryo-EM community.
@@ -222,7 +222,7 @@
   image: /static/img/pub/Nguyen_NSMB_2020.png
   pmid: 32251413
 
-- title: Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the Escherichia Coli 50S subunit
+- title: Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the E. coli 50S subunit
   authors: |
     Stojković V, Myasnikov AG, Young ID, Frost A<sup>\*</sup>, Fraser JS<sup>\*</sup>, Fujimori DG<sup>\*</sup><br>
     <sup>\*</sup> Co-corresponding authors 
