@@ -16,7 +16,7 @@ group: contact
   Genentech Hall <br>
   Fourth Floor, Lab S476A <br>
   Office S472F <br>
-  **[glorious SF](https://youtu.be/cX45Qae1xCE)**
+  SF **[in all her glory](https://youtu.be/cX45Qae1xCE)**
 
 </div>
 
@@ -45,8 +45,8 @@ group: contact
 
 <div class="divider"> </div>
 
-## UCSF+Altos Labs Graduate Programs:  
-  **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools—from bioinformatics to cryoEM—to quantify biological processes in living biological systems using physics and chemistry. 
+## UCSF + Altos Labs Graduate Programs:  
+  **[Biophysics](http://biophysics.ucsf.edu/)**: The Biophysics Graduate Program (BP) at the University of California, San Francisco (UCSF) prepares scientists to leverage new and emerging research tools, from bioinformatics to cryoEM, to quantify biological processes in living biological systems using physics and chemistry. 
 
   **[Tetrad](http://tetrad.ucsf.edu/)**: The Tetrad graduate program offers diverse training in Biochemistry, Molecular Biology, Cell Biology, Developmental Biology and Genetics.
 
@@ -56,7 +56,7 @@ Please email inquiries about postdoctoral and senior scientist positions directl
 
 <div class="divider"></div>
 
-## USPS Mail and Shipping to the UCSF Frost Lab
+## USPS Mail and Shipping to the UCSF Lab
 
 <div class="section">
 <div class="row">
