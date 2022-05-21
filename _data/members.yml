@@ -4,13 +4,13 @@
   email: afrost (at) altoslabs.com -or- adam.frost (at) ucsf.edu
   
 - name: Loan Doan (she)
-  image: /static/img/people/Doan.jpg
-  position: Laboratory Associate
+  image: /static/img/people/LoanDoan2022.jpg
+  position: Research Associate
   email: ldoan (at) altoslabs.com
   
 - name: Dr. Nathaniel Talledge (he)
-  image: /static/img/people/talledge.jpg
-  position: "Scientific Lab Manager <br> from Utah Biochemistry, UCSF Biophysics and the **[University of Minnesota](https://www.virology.umn.edu/bio/virology/louis-mansky)**"
+  image: /static/img/people/NTalledge2022.jpeg
+  position: "Scientific Lab Manager from **[U of Utah](https://medicine.utah.edu/biochemistry/)"", **[UCSF](https://msg.ucsf.edu/people/adam-frost-phd-md)**, and **[U of Minnesota](https://med.umn.edu/bio/microbiology/louis-mansky)** <br> **[Google Scholar Profile](https://scholar.google.com/citations?user=ETwweb0AAAAJ&hl=en)**"
   email: ntalledge (at) altoslabs.com
 
 - name: Dr. Arthur Melo (he)
@@ -30,5 +30,10 @@
 
 - name: Deepa Rajan (she)
   image: /static/img/people/DeepaRajan_bw.png
-  position: "Graduate Student with the **[MD/PhD](https://mstp.ucsf.edu/students)** Program <br> and with **[Wallace Marshall](https://cellgeometry.ucsf.edu/)**"
+  position: "Graduate Student with the **[MD/PhD](https://mstp.ucsf.edu/students)** Program <br> with **[Wallace Marshall](https://cellgeometry.ucsf.edu/)**"
   email: deepa.rajan (at) ucsf.edu
+
+- name: Nadia Herrera Rajan (she)
+  image: /static/img/people/NadiaHerrera2022.jpeg
+  position: "Scientist from **[CalTech](https://reeslab.caltech.edu/)**, **[UCSF](https://msg.ucsf.edu/stroud-lab)** <br> with **[Jodi Nunnari](https://altoslabs.com/team/principal-investigators-bay-area/jodi-nunnari/)** <br> **[Google Scholar Profile](https://scholar.google.com/citations?user=FI7fd9oAAAAJ&hl=en&authuser=2)**"
+  email: nherrera (at) altoslabs.com
