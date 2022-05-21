@@ -42,6 +42,17 @@
   image: /static/img/pub/Gupta_Verba_NSP2_NSMB2022.png
   pmid: NaN
 
+- title: The ESCRT-III proteins IST1 and CHMP1B assemble around nucleic acids
+  authors: |
+    Talledge N<sup>\#</sup>, McCullough J<sup>\#</sup>, Wenzel D, Nguyen HC, Lalonde MS, Bajorek M, Skalicky J, Frost A<sup>\*</sup>, Sundquist WI<sup>\*</sup>
+  journal:  __BioRxiv__ 2018 Aug <br>
+  abstract: |
+    ESCRT-III proteins can promote inside-out or outside-in membrane tubulation and fission. In addition, several observations suggest that ESCRT factors may also associate with nucleic acids during development, different stages of the cell cycle, and during retro-transposition of parasitic nucleic acids like LINE1 elements. Two ESCRT-III subunits, IST1 (aka CHMP8) and CHMP1B, can coassemble as an external protein coat around liposomes in vitro and around recycling endosomal tubules in living cells. Here we show that recombinant IST1 and CHMP1B can also copolymerize into double stranded filaments that surround nucleic acids. Electron cryo-microscopy reconstructions of nucleic acid-bound IST1-CHMP1B copolymers revealed that the polynucleotides track along a binding groove formed between filaments of the inner CHMP1B strand. The well-ordered structures also reveal that the C-terminal tails of CHMP1B subunits extrude through the outer IST1 layer to the tube exterior. As a result, the MIT domain binding motifs of both CHMP1B and IST1 are arrayed on the outer surface of the copolymer, where they could bind and recruit MIT domain-containing co-factors, such as the SPASTIN ATPase or the USP8 ubiquitin protease. Our structure raises the possibility that ESCRT-III proteins may form nucleic acid complexes in mammalian cells.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/386532v1)**
+  date: 202206
+  image: /static/img/pub/Talledge_nucleic_acids.jpg
+  pmid: NaN
+
 - title: A point mutation in the nucleotide exchange factor eIF2B constitutively activates the integrated stress response by allosteric modulation
   authors: |
     Boone M, Wang L, Lawrence R, Frost A, Walter P, Schoof M
