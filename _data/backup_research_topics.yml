@@ -1,1 +1,55 @@
+- name: Membrane Remodeling by the ESCRT Pathway and HIV Pathogenesis
+  image: /static/img/research/cheetah_top.png
+  url: "http://cheetah.biochem.utah.edu/"
+  
+- name: Toward Atomic Resolution of Membranes and Membrane-Associated Machines
+  image: /static/img/research/nih_top.png
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9117230&icde=33721722"
 
+- name: Structural and Functional Characterization of the Ribosome-associated Quality Control (RQC) Complex
+  image: /static/img/research/searle_top.png
+  url: "http://www.searlescholars.net/person/602"
+  
+- name: Structure and Function of the Exocyst Complex
+  image: /static/img/research/nigms.jpg
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9128643&icde=33721746"
+
+- name: New Concepts for Understanding and Treating Neurogenerative Disease
+  image: /static/img/research/pbbr.png
+  url: "http://pbbr.ucsf.edu/awards/awardees"
+
+- name: The Structural Basis of Regulated Sphingolipid Synthesis
+  image: /static/img/research/aaf.jpg
+  url: "http://www.americanasthmafoundation.org/2016-aaf-awards"
+
+- name: HHMI Faculty Scholars - Structural Cell Biology
+  image: /static/img/research/scientists-climbing.jpg
+  url: "http://media.hhmi.org/FacultyScholars2016-gallery/"
+
+- name: Chan Zuckerberg Biohub Investigators
+  image: /static/img/research/biohub.png
+  url: "https://czbiohub.org/investigators/"
+
+- name: Relay Therapeutics
+  image: /static/img/research/relay-logo.png
+  url: "https://relaytx.com/"
+
+- name: ESCRT-III Structure and Function During HIV Release and Restriction
+  image: /static/img/research/cheetah_top.png
+  url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9564939&icde=41421671"
+
+- name: Regulated Mitochondrial Morphology
+  image: /static/img/research/nigms.jpg
+  url: "https://projectreporter.nih.gov/project_info_details.cfm?aid=9501224&icde=41421657"
+  
+- name: Microscopic Lipid Dynamics - A New Experimental Approach
+  image: /static/img/research/pbbr.png
+  url: "http://pbbr.ucsf.edu/awards/awardees"
+  
+- name: Acquistion of a 200keV Glacios - Cryo Transmission Electron Microscope
+  image: /static/img/research/nigms.jpg
+  url: "https://projectreporter.nih.gov/project_info_description.cfm?aid=9708145&icde=46247037&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC&pball="
+
+- name: Altos Labs
+  image: /static/img/research/ALTOS_Logo_Primary.jpg
+  url: "https://altoslabs.com/team/principal-investigators-bay-area/adam-frost/"
