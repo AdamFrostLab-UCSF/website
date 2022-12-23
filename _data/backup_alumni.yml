@@ -1,1 +1,110 @@
+- name: Dr. Marc Elgort
+  image: /static/img/people/elgort2.png
+  new_position: R&D Director
+  new_location: Associated Regional and University Pathologists (ARUP) <br> Institute for Clinical and Experimental Pathology, University of Utah, Salt Lake City, Utah
+
+- name: Dr. John Gorzynski
+  image: /static/img/people/John_Gorzynski.png
+  new_position: Genetics and Cardiovascular Medicine
+  new_location: Stanford University, Palo Alto, California
+ 
+- name: Seth Lilavivat
+  image: /static/img/people/lilavivat.jpg
+  new_position: Scientist
+  new_location: Illumina, San Diego, California
+
+- name: Dr. Peter Shen
+  image: /static/img/people/shen.jpg
+  new_position: Associate Professor of Biochemistry
+  new_location: University of Utah, Salt Lake City, Utah
+
+- name: Dr. Kimberly Dickson
+  image: /static/img/people/dickson.png
+  new_position: Associate Professor of Biochemistry
+  new_location: Lawrence University, Appleton, Wisconsin
+  
+- name: Dr. Nicole Schirle
+  image: /static/img/people/Nicki_Schirle.jpg
+  new_position: Senior Scientist
+  new_location: Gilead, Foster City, California
+  
+- name: Dr. Mingyu Gu
+  image: /static/img/people/gu.jpg
+  new_position: Family Medicine
+  new_location: "**[University Hospital, University of Utah](https://healthcare.utah.edu/locations/hospital/)**"
+  
+- name: Dr. Rachael Di Santo
+  image: /static/img/people/DiSanto.jpg
+  new_position: Scientist
+  new_location: Synpromics, Edinburgh
+  
+- name: Dr. Raghav Kalia
+  image: /static/img/people/kalia.jpg
+  new_position: Postdoctoral Scholar
+  new_location: "**[University of California, San Francisco](https://juliuslab.ucsf.edu/)**"
+
+- name: Dr. Ali Yusuf
+  image: /static/img/people/yusuf.jpg
+  new_position: Internal Medicine
+  new_location: San Francisco, California
+ 
+- name: Dr. Valentine Romanov
+  image: /static/img/people/romanov.jpg
+  new_position: Research Staff Scientist
+  new_location: "**[Victor Chang Cardiac Research Institute](https://www.victorchang.edu.au/heart-research/mechanobiology)**"
+
+- name: Dr. Lillian Kenner
+  image: /static/img/people/kenner.png
+  new_position: Postdoctoral Scholar
+  new_location: "**[Genentech](https://www.gene.com)**"
+
+- name: Dr. Michał Gabruk
+  image: /static/img/people/gabruk.png
+  new_position: Assistant Professor
+  new_location: "**[Jagiellonian University](https://en.uj.edu.pl/en_GB/start)**"
+
+- name: Dr. Ming Sun
+  image: /static/img/people/sun.png
+  new_position: Scientist 
+  new_location: "**[Beam Therapeutics](https://beamtx.com/)**"
+  
+- name: Dr. Isabel Johnson
+  image: /static/img/people/johnson.png
+  new_position: Scientist 
+  new_location: "**[Lycia Therapeutics](https://lyciatx.com/)**"
+   
+- name: Dr. Henry Nguyen
+  image: /static/img/people/nguyen.png
+  new_position: Scientist 
+  new_location: "**[Asher Bio](https://www.asherbio.com/)**"
+   
+- name: Dr. Halil Aydin
+  image: /static/img/people/aydin.png
+  new_position: Assistant Professor
+  new_location: "**[UC Boulder, Biochemistry](https://www.colorado.edu/biochemistry/)**"
+  
+- name: Dr. Alexander Von Appen
+  image: /static/img/people/vonappen.png
+  new_position: Assistant Professor
+  new_location: "**[Max Planck Institute, Dresden](https://www.mpi-cbg.de/home/)**"
+
+- name: Dr. Frank Moss
+  image: /static/img/people/moss.png
+  new_position: Scientist 
+  new_location: "**[SLAC@Stanford University](https://www6.slac.stanford.edu/)**"
+   
+- name: Dr. Conor Howard
+  image: /static/img/people/howard.png
+  new_position: Scientist
+  new_location: "**[Octant Bio](https://www.octant.bio/)**"
+
+- name: Dr. Lakshmi Miller-Vedam
+  image: /static/img/people/millervedam.png
+  new_position: Scientist
+  new_location: "**[Relay Therapeutics](https://relaytx.com/)**"
+
+- name: Dr. Paul Thomas
+  image: /static/img/people/thomas.png
+  new_position: Scientist
+  new_location: "**[Vaccine Research Center - NIAID](https://www.niaid.nih.gov/research/peter-kwong-phd-structural-biology-section)**"
 
