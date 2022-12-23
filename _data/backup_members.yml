@@ -1,1 +1,40 @@
+- name: Adam Frost (they)
+  image: /static/img/people/frost.jpg
+  position: "**[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=QHQFeWwAAAAJ)**"
+  email: afrost (at) altoslabs.com -or- adam.frost (at) ucsf.edu
+  
+- name: Loan Doan (she)
+  image: /static/img/people/LoanDoan2022.jpg
+  position: Research Associate
+  email: ldoan (at) altoslabs.com
+  
+- name: Dr. Nathaniel Talledge (he)
+  image: /static/img/people/NTalledge2022.jpeg.jpg
+  position: "Scientific Lab Manager <br> **[U of Utah](https://medicine.utah.edu/biochemistry/)**, **[UCSF](https://msg.ucsf.edu/people/adam-frost-phd-md)**, and **[U of Minnesota](https://med.umn.edu/bio/microbiology/louis-mansky)** <br> **[Google Scholar Profile](https://scholar.google.com/citations?user=ETwweb0AAAAJ&hl=en)**"
+  email: ntalledge (at) altoslabs.com
+
+- name: Dr. Arthur Melo (he)
+  image: /static/img/people/melo.png
+  position: "Postdoctoral Scholar <br> from the **[Max-Delbrück-Centrum für Molekulare Medizin (MDC)](https://www.mdc-berlin.de/daumke)**"
+  email: arthur.alvesdemelo (at) ucsf.edu
+
+- name: Dr. Tsanwen Lu (he)
+  image: /static/img/people/lu.png
+  position: "Scientist from **[UCSD](https://chemistry.ucsd.edu/faculty/profiles/taylor_susan_s.html)** <br> with **[Peter Walter](https://altoslabs.com/team/scientific-leadership/peter-walter/)**"
+  email: tlu (at) altoslabs.com
+  
+- name: Nathaniel Dempsey (he)
+  image: /static/img/people/dempsey2.png
+  position: Research Associate
+  email: ndempsey (at) altoslabs.com
+
+- name: Deepa Rajan (she)
+  image: /static/img/people/DeepaRajan2022.JPG
+  position: "**[MD/PhD](https://mstp.ucsf.edu/students)** student <br> with **[Wallace Marshall](https://cellgeometry.ucsf.edu/)**"
+  email: deepa.rajan (at) ucsf.edu
+
+- name: Nadia Herrera (she)
+  image: /static/img/people/NadiaHerrera2022.png
+  position: "Scientist from **[Cal-Tech](https://reeslab.caltech.edu/)** & **[UCSF](https://msg.ucsf.edu/stroud-lab)** <br> with **[Jodi Nunnari](https://altoslabs.com/team/principal-investigators-bay-area/jodi-nunnari/)** <br> **[Google Scholar Profile](https://scholar.google.com/citations?user=FI7fd9oAAAAJ&hl=en&authuser=2)**"
+  email: nherrera (at) altoslabs.com
 
