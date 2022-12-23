@@ -1,1 +1,825 @@
+- title: Brominated Lipid Probes Expose Structural Asymmetries in Constricted Membranes
+  authors: |
+    Moss III FR, Lincoff J, Tucker M, Mohammed A, Grabe M<sup>\*</sup>, Frost A<sup>\*</sup> 
+  journal:  __BioRxiv__ 2021 Dec <br>
+  abstract: |
+    Lipids in biological membranes are thought to be functionally organized, but few experimental tools can probe nanoscale membrane structure. Using brominated lipids as contrast probes for cryo-EM and a model ESCRT-III membrane remodeling system, we observed leaflet-level and protein-localized lipid structural patterns within highly constricted and thinned membrane nanotubes. These nanotubes differed markedly from protein-free, flat bilayers in leaflet thickness, lipid diffusion rates, and lipid compositional and conformational asymmetries. Simulations and cryo-EM imaging of brominated SDPC showed how a pair of phenylalanine residues scored the outer leaflet with a helical hydrophobic defect where polyunsaturated docosahexaenoyl (DHA) tails accumulated at the bilayer surface. Combining cryo-EM of halogenated lipids with molecular dynamics thus enables new characterizations of the composition and structure of membranes on molecular length scales.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2021.08.24.457428v2)**
+  date: 202206
+  image: /static/img/pub/Moss_Lincoff_Grabe_NSMB2022.06.png
+  pmid: NaN
+
+- title: Structure and functionality of a multimeric human COQ7:COQ9 complex
+  authors: |
+    Manicki M, Aydin H, Abriata LA, Overmyer KA, Guerra RM, Coon JJ, Dal Peraro M, Frost A<sup>\*</sup>, Pagliarini DJ<sup>\*</sup> 
+  journal:  __BioRxiv__ 2021 Nov <br>
+  abstract: |
+    Coenzyme Q (CoQ, ubiquinone) is a redox-active lipid essential for core metabolic pathways and antioxidant defense. CoQ is synthesized upon the mitochondrial inner membrane by an ill-defined ‘complex Q’ metabolon. Here we present a structure and functional analyses of a substrate- and NADH-bound oligomeric complex comprised of two complex Q subunits: the hydroxylase COQ7, which performs the penultimate step in CoQ biosynthesis, and the prenyl lipid-binding protein COQ9. We reveal that COQ7 adopts a modified ferritin-like fold with an extended hydrophobic access channel whose substrate binding capacity is enhanced by COQ9. Using molecular dynamics simulations, we further show that two COQ7:COQ9 heterodimers form a curved tetramer that deforms the membrane, potentially opening a pathway for CoQ intermediates to translocate from within the bilayer to the proteins’ lipid-binding sites. Two such tetramers assemble into a soluble octamer, closed like a capsid, with lipids captured within. Together, these observations indicate that COQ7 and COQ9 cooperate to access hydrophobic precursors and coordinate subsequent synthesis steps toward producing mature CoQ.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2021.11.15.468694v1)**
+  date: 202206
+  image: /static/img/pub/Aydin_Pagliarini_COQ.png
+  pmid: NaN
+  
+- title: A structural biology community assessment of AlphaFold2 applications
+  authors: |
+    Akdel M, et al. 
+  journal:  __BioRxiv__ 2021 Sept <br>
+  abstract: |
+    Most proteins fold into 3D structures that determine how they function and orchestrate the biological processes of the cell. Recent developments in computational methods have led to protein structure predictions that have reached the accuracy of experimentally determined models. While this has been independently verified, the implementation of these methods across structural biology applications remains to be tested. Here, we evaluate the use of AlphaFold 2 (AF2) predictions in the study of characteristic structural elements; the impact of missense variants; function and ligand binding site predictions; modelling of interactions; and modelling of experimental structural data. For 11 proteomes, an average of 25% additional residues can be confidently modelled when compared to homology modelling, identifying structural features rarely seen in the PDB. AF2-based predictions of protein disorder and protein complexes surpass state-of-the-art tools and AF2 models can be used across diverse applications equally well compared to experimentally determined structures, when the confidence metrics are critically considered. In summary, we find that these advances are likely to have a transformative impact in structural biology and broader life science research.
+    <br>**[Preprint](https://doi.org/10.1101/2021.09.26.461876)**
+  date: 202206
+  image: /static/img/pub/AF2_assessment_NSMB_202206.png
+  pmid: NaN
+  
+- title: CryoEM and AI reveal a structure of SARS-CoV-2 Nsp2, a multifunctional protein involved in key host processes
+  authors: |
+    Gupta M & UCSF QBI Coronavirus Consortium 
+  journal:  __BioRxiv__ 2021 May <br>
+  abstract: |
+    The SARS-CoV-2 protein Nsp2 has been implicated in a wide range of viral processes, but its exact functions, and the structural basis of those functions, remain unknown. Here, we report an atomic model for full-length Nsp2 obtained by combining cryo-electron microscopy with deep learning-based structure prediction from AlphaFold2. The resulting structure reveals a highly-conserved zinc ion-binding site, suggesting a role for Nsp2 in RNA binding. Mapping emerging mutations from variants of SARS-CoV-2 on the resulting structure shows potential host-Nsp2 interaction regions. Using structural analysis together with affinity tagged purification mass spectrometry experiments, we identify Nsp2 mutants that are unable to interact with the actin-nucleation-promoting WASH protein complex or with GIGYF2, an inhibitor of translation initiation and modulator of ribosome-associated quality control. Our work suggests a potential role of Nsp2 in linking viral transcription within the viral replication-transcription complexes (RTC) to the translation initiation of the viral message. Collectively, the structure reported here, combined with mutant interaction mapping, provides a foundation for functional studies of this evolutionary conserved coronavirus protein and may assist future drug design.
+    <br>**[Preprint](https://doi.org/10.1101/2021.05.10.443524)**
+  date: 202206
+  image: /static/img/pub/Gupta_Verba_NSP2_NSMB2022.png
+  pmid: NaN
+
+- title: The ESCRT-III proteins IST1 and CHMP1B assemble around nucleic acids
+  authors: |
+    Talledge N<sup>\#</sup>, McCullough J<sup>\#</sup>, Wenzel D, Nguyen HC, Lalonde MS, Bajorek M, Skalicky J, Frost A<sup>\*</sup>, Sundquist WI<sup>\*</sup>
+  journal:  __BioRxiv__ 2018 Aug <br>
+  abstract: |
+    ESCRT-III proteins can promote inside-out or outside-in membrane tubulation and fission. In addition, several observations suggest that ESCRT factors may also associate with nucleic acids during development, different stages of the cell cycle, and during retro-transposition of parasitic nucleic acids like LINE1 elements. Two ESCRT-III subunits, IST1 (aka CHMP8) and CHMP1B, can coassemble as an external protein coat around liposomes in vitro and around recycling endosomal tubules in living cells. Here we show that recombinant IST1 and CHMP1B can also copolymerize into double stranded filaments that surround nucleic acids. Electron cryo-microscopy reconstructions of nucleic acid-bound IST1-CHMP1B copolymers revealed that the polynucleotides track along a binding groove formed between filaments of the inner CHMP1B strand. The well-ordered structures also reveal that the C-terminal tails of CHMP1B subunits extrude through the outer IST1 layer to the tube exterior. As a result, the MIT domain binding motifs of both CHMP1B and IST1 are arrayed on the outer surface of the copolymer, where they could bind and recruit MIT domain-containing co-factors, such as the SPASTIN ATPase or the USP8 ubiquitin protease. Our structure raises the possibility that ESCRT-III proteins may form nucleic acid complexes in mammalian cells.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/386532v1)**
+  date: 202206
+  image: /static/img/pub/Talledge_nucleic_acids.jpg
+  pmid: NaN
+
+- title: A point mutation in the nucleotide exchange factor eIF2B constitutively activates the integrated stress response by allosteric modulation
+  authors: |
+    Boone M, Wang L, Lawrence R, Frost A, Walter P, Schoof M
+  journal:  __Elife__ 2022 Apr <br>
+  abstract: |
+    In eukaryotic cells, stressors reprogram the cellular proteome by activating the integrated stress response (ISR). In its canonical form, stress-sensing kinases phosphorylate the eukaryotic translation initiation factor eIF2 (eIF2-P), which ultimately leads to reduced levels of ternary complex required for initiation of mRNA translation. Previously we showed that translational control is primarily exerted through a conformational switch in eIF2's nucleotide exchange factor, eIF2B, which shifts from its active A-State conformation to its inhibited I-State conformation upon eIF2-P binding, resulting in reduced nucleotide exchange on eIF2 (Schoof et al. 2021). Here, we show functionally and structurally how a single histidine to aspartate point mutation in eIF2B's β subunit (H160D) mimics the effects of eIF2-P binding by promoting an I-State like conformation, resulting in eIF2-P independent activation of the ISR. These findings corroborate our previously proposed A/I-State model of allosteric ISR regulation.
+    <br>**[Final Full Text](https://doi.org/10.7554/elife.76171)**
+  date: 202204
+  image: /static/img/pub/Wang_Boone_Schoof_eLIFEH160D_202204.png
+  pmid: 35416150
+  
+- title: Directed evolution of the rRNA methylating enzyme Cfr reveals molecular basis of antibiotic resistance
+  authors: |
+    Tsai K, Stojković V, Noda-Garcia L, Young ID, Myasnikov AG, Kleinman J, Palla A, Floor SN, Frost A, Fraser JS, Tawfik DS, Fujimori DG
+  journal:  __Elife__ 2022 Jan <br>
+  abstract: |
+    Alteration of antibiotic binding sites through modification of ribosomal RNA (rRNA) is a common form of resistance to ribosome-targeting antibiotics. The rRNA-modifying enzyme Cfr methylates an adenosine nucleotide within the peptidyl transferase center, resulting in the C-8 methylation of A2503 (m8A2503). Acquisition of cfr results in resistance to eight classes of ribosome-targeting antibiotics. Despite the prevalence of this resistance mechanism, it is poorly understood whether and how bacteria modulate Cfr methylation to adapt to antibiotic pressure. Moreover, direct evidence for how m8A2503 alters antibiotic binding sites within the ribosome is lacking. In this study, we performed directed evolution of Cfr under antibiotic selection to generate Cfr variants that confer increased resistance by enhancing methylation of A2503 in cells. Increased rRNA methylation is achieved by improved expression and stability of Cfr through transcriptional and post-transcriptional mechanisms, which may be exploited by pathogens under antibiotic stress as suggested by natural isolates. Using a variant that achieves near-stoichiometric methylation of rRNA, we determined a 2.2 Å cryo-electron microscopy structure of the Cfr-modified ribosome. Our structure reveals the molecular basis for broad resistance to antibiotics and will inform the design of new antibiotics that overcome resistance mediated by Cfr.
+    <br>**[Final Full Text](https://doi.org/10.7554/elife.70017)**
+  date: 202201
+  image: /static/img/pub/Tsai_Cfr_eLIFE202201.jpg
+  pmid: 35015630
+  
+- title: Viral evasion of the integrated stress response through antagonism of eIF2-P binding to eIF2B
+  authors: |
+    Schoof M, Wang L, Cogan JZ, Lawrence RE, Boone M, Wuerth JD, Frost A, Walter P
+  journal:  __Nature Communications__ 2021 Dec <br>
+  abstract: |
+    Viral infection triggers activation of the integrated stress response (ISR). In response to viral double-stranded RNA (dsRNA), RNA-activated protein kinase (PKR) phosphorylates the translation initiation factor eIF2, converting it from a translation initiator into a potent translation inhibitor and this restricts the synthesis of viral proteins. Phosphorylated eIF2 (eIF2-P) inhibits translation by binding to eIF2’s dedicated, heterodecameric nucleotide exchange factor eIF2B and conformationally inactivating it. We show that the NSs protein of Sandfly Fever Sicilian virus (SFSV) allows the virus to evade the ISR. Mechanistically, NSs tightly binds to eIF2B (KD = 30 nM), blocks eIF2-P binding, and rescues eIF2B GEF activity. Cryo-EM structures demonstrate that SFSV NSs and eIF2-P directly compete, with the primary NSs contacts to eIF2Bα mediated by five ‘aromatic fingers’. NSs binding preserves eIF2B activity by maintaining eIF2B’s conformation in its active A-State.
+    <br>**[Final Full Text](https://www.nature.com/articles/s41467-021-26164-4)**
+  date: 202112
+  image: /static/img/pub/Schoof_Wang_NSs_NatComm.png
+  pmid: 34876554
+
+- title: Ribosome-associated quality control and CAT tailing
+  authors: |
+    Howard C and Frost A
+  journal:  __Critical Reviews in Biochemistry and Molecular Biology__ 2021 July <br>
+  abstract: |
+    Translation is the set of mechanisms by which ribosomes decode genetic messages as they synthesize polypeptides of a defined amino acid sequence. While the ribosome has been honed by evolution for high-fidelity translation, errors are inevitable. Aberrant mRNAs, mRNA structure, defective ribosomes, interactions between nascent proteins and the ribosomal exit tunnel, and insufficient cellular resources, including low tRNA levels, can lead to functionally irreversible stalls. Life thus depends on quality control mechanisms that detect, disassemble and recycle stalled translation intermediates. Ribosome-associated Quality Control (RQC) recognizes aberrant ribosome states and targets their potentially toxic polypeptides for degradation. Here we review recent advances in our understanding of RQC in bacteria, fungi, and metazoans. We focus in particular on an unusual modification made to the nascent chain known as a “CAT tail”, or Carboxy-terminal Alanine and Threonine tail, and the mechanisms by which ancient RQC proteins catalyze CAT-tail synthesis.
+    <br>**[Final Full Text](https://www.tandfonline.com/doi/full/10.1080/10409238.2021.1938507)**
+  date: 202107
+  image: /static/img/pub/ConorHoward_CR_2021.png
+  pmid: 34233554
+  
+- title: Practical considerations for using K3 cameras in CDS mode for high-resolution and high-throughput single particle cryo-EM
+  authors: |
+    Sun M<sup>\*</sup>, Azumaya CM<sup>\*</sup>, Tse E<sup>\*</sup>, Bulkley DP, Harrington MB, Gilbert G, Frost A<sup>\*</sup>, Southworth D<sup>\*</sup>, Verba KA<sup>\*</sup>, Cheng Y, Agard DA<br>
+  journal:  __Journal of Structural Biology__ 2021 May <br>
+  abstract: |
+    Detector technology plays a pivotal role in high-resolution and high-throughput cryo-EM structure determination. Compared with the first-generation, single-electron counting direct detection camera (Gatan K2), the latest K3 camera is faster, larger, and now offers a correlated-double sampling mode (CDS). Importantly this results in a higher DQE and improved throughput compared to its predecessor. In this study, we focused on optimizing camera data collection parameters for daily use within a cryo-EM facility and explored the balance between throughput and resolution. In total, eight data sets of murine heavy-chain apoferritin were collected at different dose rates and magnifications, using 9-hole image shift data collection strategies. The performance of the camera was characterized by the quality of the resultant 3D reconstructions. Our results demonstrated that the Gatan K3 operating in CDS mode outperformed standard (nonCDS) mode in terms of reconstruction resolution in all tested conditions with 8 electrons per pixel per second being the optimal dose rate. At low magnification (64kx) we were able to achieve reconstruction resolutions of 149% of the physical Nyquist limit (1.8 Å with a 1.346 Å physical pixel size). Low magnification allows more particles to be collected per image, aiding analysis of heterogeneous samples requiring large data sets. At moderate magnification (105kx, 0.834 Å physical pixel size) we achieved a resolution of 1.65 Å within 8-h of data collection, a condition optimal for achieving high-resolution on well behaved samples. Our results also show that for an optimal sample like apoferritin, one can achieve better than 2.5 Å resolution with 5 min of data collection. Together, our studies validate the most efficient ways of imaging protein complexes using the K3 direct detector and will greatly benefit the cryo-EM community.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.11.08.372763v1)**
+    <br>**[Final Full Text](https://doi.org/10.1016/j.jsb.2021.107745)**
+  date: 202105
+  image: /static/img/pub/MingSun_JSB_2021.png
+  pmid: 33984504
+
+- title: Photocatalytic plant LPOR forms helical lattices that shape membranes for chlorophyll synthesis
+  authors: |
+    Nguyen H<sup>\*</sup>, Melo AA, Kruk J, Frost A<sup>\*</sup>, Gabruk M<sup>\*</sup><br>
+  journal:  __Nature Plants__ 2021 Apr <br>
+  abstract: |
+    Chlorophyll (Chl) biosynthesis, crucial to life on Earth, is tightly regulated because its precursors are phototoxic. In flowering plants, the enzyme Light-dependent Protochlorophyllide OxidoReductase (LPOR) captures photons to catalyze the penultimate reaction: the reduction of a double-bond within protochlorophyllide (Pchlide) to generate chlorophyllide (Chlide). In darkness, LPOR oligomerizes to facilitate photon energy transfer and catalysis. However, the complete 3D structure of LPOR, the higher-order architecture of LPOR oligomers, and the implications of these self-assembled states for catalysis, including how LPOR positions Pchlide and the cofactor NADPH, remain unknown. Here we report the atomic structure of LPOR assemblies by electron cryo-microscopy (cryoEM). LPOR polymerizes with its substrates into helical filaments around constricted lipid bilayer tubes. Portions of LPOR and Pchlide insert into the outer membrane leaflet, targeting the product, Chlide, to the membrane for the final reaction site of chlorophyll biosynthesis. In addition to its crucial photocatalytic role, we show that in darkness LPOR filaments directly shape membranes into high-curvature tubules with the spectral properties of the prolamellar body, whose light-triggered disassembly provides lipids for thylakoid assembly. Our structure of the catalytic site, moreover, challenges previously proposed reaction mechanisms. Together, our results reveal a new and unexpected synergy between photosynthetic membrane biogenesis and chlorophyll synthesis in plants orchestrated by LPOR.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257774v2)**
+    <br>**[Final Full Text](https://rdcu.be/ciX2V)**
+    <br>**[News & Views](https://www.nature.com/articles/s41477-021-00900-6)**    
+  date: 202104
+  image: /static/img/pub/NguyenGabruk_NatPlants_2021.png
+  pmid: 33875834
+
+- title: eIF2B conformation and assembly state regulate the integrated stress response
+  authors: |
+    Schoof M, Boone M, Wang L, Lawrence R, Frost A<sup>\*</sup>, Walter P<sup>\*</sup><br>
+  journal:  __eLife__ 2021 Mar <br>
+  abstract: |
+    The integrated stress response (ISR) is activated by phosphorylation of the translation initiation factor eIF2 in response to various stress conditions. Phosphorylated eIF2 (eIF2-P) inhibits eIF2's nucleotide exchange factor eIF2B, a twofold symmetric heterodecamer assembled from subcomplexes. Here, we monitor and manipulate eIF2B assembly in vitro and in vivo. In the absence of eIF2B's α-subunit, the ISR is induced because unassembled eIF2B tetramer subcomplexes accumulate in cells. Upon addition of the small-molecule ISR inhibitor ISRIB, eIF2B tetramers assemble into active octamers. Surprisingly, ISRIB inhibits the ISR even in the context of fully assembled eIF2B decamers, revealing allosteric communication between the physically distant eIF2, eIF2-P, and ISRIB binding sites. Cryo-electron microscopy structures suggest a rocking motion in eIF2B that couples these binding sites. eIF2-P binding converts eIF2B decamers into 'conjoined tetramers' with diminished substrate binding and enzymatic activity. Canonical eIF2-P-driven ISR activation thus arises due to this change in eIF2B's conformational state.
+    <br>**[preprint](https://www.biorxiv.org/content/10.1101/2020.12.28.424567v1)**
+    <br>**[Full Text](https://elifesciences.org/articles/65703)**
+  date: 202103
+  image: /static/img/pub/Schoof_ELIFE_2021.jpg
+  pmid: 33688831
+
+- title: Primordial protein tails
+  authors: |
+    Brandman O and Frost A
+  journal:  __Molecular Cell__ 2021 Jan <br>
+  abstract: |
+    CAT tailing is an ancient and conserved form of peptide synthesis that protects cells from incomplete and potentially toxic translation products. Filbeck et al. (2020) and Crowe-McAuliffe et al. (2020) use structural, genetic, and biochemical approaches to elucidate the mechanisms driving CAT tailing.
+    <br>**[Final Full Text](https://doi.org/10.1016/j.molcel.2020.12.032)**
+  date: 202101
+  image: /static/img/pub/BrandmanFrost_2_MolCell_2021.png
+  pmid: 33417855
+  
+- title: Comparative host-coronavirus protein interaction networks reveal pan-viral disease mechanisms
+  authors: |
+    UCSF QBI Coronavirus Consortium
+  journal:  __Science__ 2020 Dec <br>
+  abstract: |
+    The COVID-19 pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a grave threat to public health and the global economy. SARS-CoV-2 is closely related to the more lethal but less transmissible coronaviruses SARS-CoV-1 and Middle East respiratory syndrome coronavirus (MERS-CoV). Here, we have carried out comparative viral-human protein-protein interaction and viral protein localization analyses for all three viruses. Subsequent functional genetic screening identified host factors that functionally impinge on coronavirus proliferation, including Tom70, a mitochondrial chaperone protein that interacts with both SARS-CoV-1 and SARS-CoV-2 ORF9b, an interaction we structurally characterized using cryo-electron microscopy. Combining genetically validated host factors with both COVID-19 patient genetic data and medical billing records identified molecular mechanisms and potential drug treatments that merit further molecular and clinical study.
+    <br>**[Final Full Text](https://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=33060197)**
+  date: 202012
+  image: /static/img/pub/Gordon_Science_2020.jpg
+  pmid: 33060197
+
+- title: Structural and mechanistic basis of the EMC-dependent biogenesis of distinct transmembrane clients
+  authors: |
+    Miller-Vedam LE#, Bräuning B#, Popova KD#, Schirle Oakdale NT, Bonnar JL, Prabu JR, Boydston EA, Sevillano N, Shurtleff MJ, Stroud RM, Craik CS, Schulman BA<sup>\*</sup>, Frost A<sup>\*</sup>, Weissman JS<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __eLife__ 2020 Nov <br>
+  abstract: |
+    Membrane protein biogenesis in the endoplasmic reticulum (ER) is complex and failure-prone. The ER membrane protein complex (EMC), comprising eight conserved subunits, has emerged as a central player in this process. Yet, we have limited understanding of how EMC enables insertion and integrity of diverse clients, from tail-anchored to polytopic transmembrane proteins. Here, yeast and human EMC cryo-EM structures reveal conserved intricate assemblies and human-specific features associated with pathologies. Structure-based functional studies distinguish between two separable EMC activities, as an insertase regulating tail-anchored protein levels and a broader role in polytopic membrane protein biogenesis. These depend on mechanistically coupled yet spatially distinct regions including two lipid-accessible membrane cavities which confer client-specific regulation, and a non-insertase EMC function mediated by the EMC lumenal domain. Our studies illuminate the structural and mechanistic basis of EMC’s multifunctionality and point to its role in differentially regulating the biogenesis of distinct client protein classes.
+    <br>**[Final Full Text](https://elifesciences.org/articles/62611)**
+  date: 202011
+  image: /static/img/pub/Lakshmi_eLIFE_2020.jpg
+  pmid: 33236988
+
+- title: GIGYF2 and 4EHP inhibit translation initiation of defective messenger RNAs to assist ribosome-associated quality control
+  authors: |
+    Hickey KL, Dickson K, Cogan JZ, Replogle JM, Schoof M, D'Orazio KN, Sinha NK, Hussmann JA, Jost M, Frost A, Green R, Weissman JS, Kostova KK
+  journal:  __Molecular Cell__ 2020 Sep <br>
+  abstract: |
+    Ribosome-associated quality control (RQC) pathways protect cells from toxicity caused by incomplete protein products resulting from translation of damaged or problematic mRNAs. Extensive work in yeast has identified highly conserved mechanisms that lead to degradation of faulty mRNA and partially synthesized polypeptides. Here we used CRISPR-Cas9-based screening to search for additional RQC strategies in mammals. We found that failed translation leads to specific inhibition of translation initiation on that message. This negative feedback loop is mediated by two translation inhibitors, GIGYF2 and 4EHP. Model substrates and growth-based assays established that inhibition of additional rounds of translation acts in concert with known RQC pathways to prevent buildup of toxic proteins. Inability to block translation of faulty mRNAs and subsequent accumulation of partially synthesized polypeptides could explain the neurodevelopmental and neuropsychiatric disorders observed in mice and humans with compromised GIGYF2 function.
+    <br>**[Final Full Text](10.1016/j.molcel.2020.07.007)**
+  date: 202009
+  image: /static/img/pub/Hickey_MolCell_2020.jpg
+  pmid: 32726578
+
+- title: LEM2 phase separation promotes ESCRT-mediated nuclear envelope reformation
+  authors: |
+    Von Appen A#, LaJoie D#, Johnson IE#, Trnka MJ, Pick SM, Burlingame AL, Ullman K<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nature__ 2020 June <br>
+  abstract: |
+    During cell division, remodelling of the nuclear envelope enables chromosome segregation by the mitotic spindle. The reformation of sealed nuclei requires ESCRTs (endosomal sorting complexes required for transport) and LEM2, a transmembrane ESCRT adaptor. Here we show how the ability of LEM2 to condense on microtubules governs the activation of ESCRTs and coordinated spindle disassembly. The LEM motif of LEM2 binds BAF, conferring on LEM2 an affinity for chromatin, while an adjacent low-complexity domain (LCD) promotes LEM2 phase separation. A proline–arginine-rich sequence within the LCD binds to microtubules and targets condensation of LEM2 to spindle microtubules that traverse the nascent nuclear envelope. Furthermore, the winged-helix domain of LEM2 activates the ESCRT-II/ESCRT-III hybrid protein CHMP7 to form co-oligomeric rings. Disruption of these events in human cells prevented the recruitment of downstream ESCRTs, compromised spindle disassembly, and led to defects in nuclear integrity and DNA damage. We propose that during nuclear reassembly LEM2 condenses into a liquid-like phase and coassembles with CHMP7 to form a macromolecular O-ring seal at the confluence between membranes, chromatin and the spindle. The properties of LEM2 described here, and the homologous architectures of related inner nuclear membrane proteins, suggest that phase separation may contribute to other critical envelope functions, including interphase repair and chromatin organization.
+    <br>**[Preprint](https://doi.org/10.1101/577460)**
+    <br>**[Final Full Text](https://rdcu.be/b3RPA)**
+  date: 202006
+  image: /static/img/pub/VonAppen_NATURE_2020.png
+  pmid: 32494070
+
+- title: Dynamin regulates the dynamics and mechanical strength of the actin cytoskeleton as a multifilament actin-bundling protein
+  authors: |
+    Zhang R, Lee DM, Jimah JR, Gerassimov N, Yang C, Kim S, Luvsanjav D, Winkelman J, Mettlen M, Abrams ME, Kalia R, Keene P, Pandey P, Ravaux B, Kim JH, Ditlev JA, Zhang G, Rosen MK, Frost A, Alto NM, Gardel M, Schmid SL, Svitkina TM, Hinshaw JE, Chen EH
+    <sup>\#</sup> Co-first authors <br>
+  journal:  __Nature Cell Biology__ 2020 May <br>
+  abstract: |
+    The dynamin GTPase is known to bundle actin filaments, but the underlying molecular mechanism and physiological relevance remain unclear. Our genetic analyses revealed a function of dynamin in propelling invasive membrane protrusions during myoblast fusion in vivo. Using biochemistry, total internal reflection fluorescence microscopy, electron microscopy and cryo-electron tomography, we show that dynamin bundles actin while forming a helical structure. At its full capacity, each dynamin helix captures 12-16 actin filaments on the outer rim of the helix. GTP hydrolysis by dynamin triggers disassembly of fully assembled dynamin helices, releasing free dynamin dimers/tetramers and facilitating Arp2/3-mediated branched actin polymerization. The assembly/disassembly cycles of dynamin promote continuous actin bundling to generate mechanically stiff actin super-bundles. Super-resolution and immunogold platinum replica electron microscopy revealed dynamin along actin bundles at the fusogenic synapse. These findings implicate dynamin as a unique multifilament actin-bundling protein that regulates the dynamics and mechanical strength of the actin cytoskeletal network.
+    <br>**[Preprint](https://doi.org/10.1101/586461)**
+    <br>**[Final Full Text](https://www.nature.com/articles/s41556-020-0519-7)**
+  date: 202005
+  image: /static/img/pub/Zhang_NCB_2020.png
+  pmid: 32451441
+
+- title: Anisotropic ESCRT-III architecture governs helical membrane tube formation
+  authors: |
+    Moser von Filseck J, Barberi L<sup>\*</sup>, Talledge N, Johnson IE, Frost A, Lenz M, Roux A<sup>\*</sup>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nature Communications__ 2020 May <br>
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRTs) mediate diverse membrane remodeling events. These typically require ESCRT-III proteins to stabilize negatively curved membranes; however, recent work has indicated that certain ESCRT-IIIs also participate in positive-curvature membrane-shaping reactions. ESCRT-IIIs polymerize into membrane-binding filaments, but the structural basis for negative versus positive membrane remodeling by these proteins remains poorly understood. To learn how certain ESCRT-IIIs shape positively curved membranes, we determined structures of human membrane-bound CHMP1B-only, membrane-bound CHMP1B + IST1, and IST1-only filaments by cryo-EM. Our structures show how CHMP1B first polymerizes into a single-stranded helical filament, shaping membranes into moderate-curvature tubules. Subsequently, IST1 assembles a second strand on CHMP1B, further constricting the membrane tube and reducing its diameter nearly to the fission point. Each step of constriction thins the underlying bilayer, lowering the barrier to membrane fission. Our structures reveal how a two-component, sequential polymerization mechanism drives membrane tubulation, constriction and bilayer thinning.
+    <br>**[Preprint](https://doi.org/10.1101/716308)**
+    <br>**[Final Full Text](https://doi.org/10.1038/s41467-020-15327-4)**
+  date: 202005
+  image: /static/img/pub/VonFilseck_NATURECOMMUNICATIONS_2020.png
+  pmid: 32471995
+
+- title: Membrane constriction and thinning by sequential ESCRT-III polymerization
+  authors: |
+    Nguyen HC, Talledge N, McCullough J, Sharma A, Moss FR 3rd, Iwasa JH, Vershinin MD, Sundquist WI<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nature Structural and Molecular Biology__ 2020 April <br>
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRTs) mediate diverse membrane remodeling events. These typically require ESCRT-III proteins to stabilize negatively curved membranes; however, recent work has indicated that certain ESCRT-IIIs also participate in positive-curvature membrane-shaping reactions. ESCRT-IIIs polymerize into membrane-binding filaments, but the structural basis for negative versus positive membrane remodeling by these proteins remains poorly understood. To learn how certain ESCRT-IIIs shape positively curved membranes, we determined structures of human membrane-bound CHMP1B-only, membrane-bound CHMP1B + IST1, and IST1-only filaments by cryo-EM. Our structures show how CHMP1B first polymerizes into a single-stranded helical filament, shaping membranes into moderate-curvature tubules. Subsequently, IST1 assembles a second strand on CHMP1B, further constricting the membrane tube and reducing its diameter nearly to the fission point. Each step of constriction thins the underlying bilayer, lowering the barrier to membrane fission. Our structures reveal how a two-component, sequential polymerization mechanism drives membrane tubulation, constriction and bilayer thinning.
+    <br>**[Preprint](https://doi.org/10.1101/798181)**
+    <br>**[Final Full Text](https://rdcu.be/b3qrq)**
+  date: 202004
+  image: /static/img/pub/Nguyen_NSMB_2020.png
+  pmid: 32251413
+
+- title: Assessment of the nucleotide modifications in the high-resolution cryo-electron microscopy structure of the E. coli 50S subunit
+  authors: |
+    Stojković V, Myasnikov AG, Young ID, Frost A<sup>\*</sup>, Fraser JS<sup>\*</sup>, Fujimori DG<sup>\*</sup><br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Nucleic Acids Research__ 2020 January <br>
+  abstract: |
+    Post-transcriptional ribosomal RNA (rRNA) modifications are present in all organisms, but their exact functional roles and positions are yet to be fully characterized. Modified nucleotides have been implicated in the stabilization of RNA structure and regulation of ribosome biogenesis and protein synthesis. In some instances, rRNA modifications can confer antibiotic resistance. High-resolution ribosome structures are thus necessary for precise determination of modified nucleotides' positions, a task that has previously been accomplished by X-ray crystallography. Here, we present a cryo-electron microscopy (cryo-EM) structure of the Escherichia coli 50S subunit at an average resolution of 2.2 Å as an additional approach for mapping modification sites. Our structure confirms known modifications present in 23S rRNA and additionally allows for localization of Mg2+ ions and their coordinated water molecules. Using our cryo-EM structure as a testbed, we developed a program for assessment of cryo-EM map quality. This program can be easily used on any RNA-containing cryo-EM structure, and an associated Coot plugin allows for visualization of validated modifications, making it highly accessible.
+    <br>**[Preprint](https://www.biorxiv.org/content/10.1101/695429v1)**
+    <br>**[Final Full Text](https://doi.org/10.1093/nar/gkaa037)**
+  date: 202001
+  image: /static/img/pub/Stojković_NAR_2020.png
+  pmid: 31989172
+
+- title: Exocyst structural changes associated with activation of tethering downstream of Rho/Cdc42 GTPases
+  authors: |
+    Rossi G, Lepore D, Kenner L, Czuchra AB, Plooster M, Frost A, Munson M, Brennwald P
+  journal:  __Journal of Cell Biology__ 2020 January <br>
+  abstract: |
+    The exocyst complex plays a critical role in determining both temporal and spatial dynamics of exocytic vesicle tethering and fusion with the plasma membrane. However, the mechanism by which the exocyst functions and how it is regulated remain poorly understood. Here we describe a novel biochemical assay for the examination of exocyst function in vesicle tethering. Importantly, the assay is stimulated by gain-of-function mutations in the Exo70 component of the exocyst, selected for their ability to bypass Rho/Cdc42 activation in vivo. Single-particle electron microscopy and 3D reconstructions of negatively stained exocyst complexes reveal a structural change in the mutant exocyst that exposes a binding site for the v-SNARE. We demonstrate a v-SNARE requirement in our tethering assay and increased v-SNARE binding to exocyst gain-of-function complexes. Together, these data suggest an allosteric mechanism for activation involving a conformational change in one subunit of the complex, which is relayed through the complex to regulate its biochemical activity in vitro, as well as overall function in vivo.
+    <br>**[Final Full Text](https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201904161)**
+  date: 202001
+  image: /static/img/pub/Kenner_JCB_2020.png
+  pmid: 31904797
+
+- title: Current outcomes when optimizing ‘standard’ sample preparation for single‐particle cryo‐EM
+  authors: |
+    Carragher B, Cheng Y, Frost A, Glaeser RM, Lander GC, Nogales E, Wang H-W 
+  journal:  __Journal of Microscopy__ 2019 October <br>
+  abstract: |
+    Although high-resolution single-particle cryo-electron microscopy (cryo-EM) is now producing a rapid stream of breakthroughs in structural biology, it nevertheless remains the case that the preparation of suitable frozen-hydrated samples on electron microscopy grids is often quite challenging. Purified samples that are intact and structurally homogeneous - while still in the test tube - may not necessarily survive the standard methods of making extremely thin, aqueous films on grids. As a result, it is often necessary to try a variety of experimental conditions before finally finding an approach that is optimal for the specimen at hand. Here, we summarize some of our collective experiences to date in optimizing sample preparation, in the hope that doing so will be useful to others, especially those new to the field. We also hope that an open discussion of these common challenges will encourage the development of more generally applicable methodology. Our collective experiences span a diverse range of biochemical samples and most of the commonly used variations in how grids are currently prepared. Unfortunately, none of the currently used optimization methods can be said, in advance, to be the one that ultimately will work when a project first begins. Nevertheless, there are some preferred first steps to explore when facing specific problems that can be more generally recommended, based on our experience and that of many others in the cryo-EM field.
+    <br>**[Final Full Text](https://doi.org/10.1111/jmi.12834)**
+  date: 201910
+  image: /static/img/pub/Carragher_JMICRO_2019.png
+  pmid: 31553060
+
+- title: Open and cut - allosteric motion and membrane fission by dynamin superfamily proteins
+  authors: |
+    Kalia R, Frost A
+  journal:  __Molecular Biology of the Cell__ 2019 August <br>
+  abstract: |
+    Cells have evolved diverse protein-based machinery to reshape, cut, or fuse their membrane-delimited compartments. Dynamin superfamily proteins are principal components of this machinery and use their ability to hydrolyze GTP and to polymerize into helices and rings to achieve these goals. Nucleotide-binding, hydrolysis, and exchange reactions drive significant conformational changes across the dynamin family, and these changes alter the shape and stability of supramolecular dynamin oligomers, as well as the ability of dynamins to bind receptors and membranes. Mutations that interfere with the conformational repertoire of these enzymes, and hence with membrane fission, exist in several inherited human diseases. Here, we discuss insights from new x-ray crystal structures and cryo-EM reconstructions that have enabled us to infer some of the allosteric dynamics for these proteins. Together, these studies help us to understand how dynamins perform mechanical work, as well as how specific mutants of dynamin family proteins exhibit pathogenic properties.
+    <br>**[Final Full Text](https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E16-10-0709)**
+  date: 201908
+  image: /static/img/pub/Kalia_MBoC_2019.png
+  pmid: 31365329
+
+- title: A tunable microfluidic device enables cargo encapsulation by cell‐ or organelle‐sized lipid vesicles comprising asymmetric lipid bilayers  
+  authors: |
+    Romanov V<sup>\#</sup>, McCullough J<sup>\#</sup>, Gale BK<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Advanced Biosystems__ 2019 July <br>
+  abstract: |
+    Cellular membranes play host to a wide variety of morphologically and chemically complex processes. Although model membranes, like liposomes, are already widely used to reconstitute and study these processes, better tools are needed for making model bilayers that faithfully mimic cellular membranes. Existing methods for fabricating cell‐sized (µm) or organelle‐sized (tens to hundreds of nanometers) lipid vesicles have distinctly different requirements. Of particular note for biology, it remains challenging for any technique to efficiently encapsulate fragile cargo molecules or to generate liposomes with stable, asymmetric lipid leaflets within the bilayer. Here a tunable microfluidic device and protocol for fabricating liposomes with desired diameters ranging from ≈10 µm to ≈100 nm are described. Lipid vesicle size is templated by the simple inclusion of a polycarbonate filter within the microfluidic system and tuned with flow rate. It is shown that the vesicles made with this device are stable, unilamellar, lipid asymmetric, and capable of supporting transmembrane protein assembly, peripheral membrane protein binding, as well as soluble cargo encapsulation (including designer nanocages for biotechnology applications). These fabricated vesicles provide a new platform for studying the biophysically rich processes found within lipid–lipid and lipid–protein systems typically associated with cellular membranes.
+    <br>**[Preprint](https://doi.org/10.1101/534586)**
+    <br>**[Final Full Text](https://doi.org/10.1002/adbi.201900010)**
+  date: 201907
+  image: /static/img/pub/Romanov_AdvancedBiosystems_2019.png
+  pmid: 31428671
+
+- title: eIF2B-catalyzed nucleotide exchange and phosphoregulation by the integrated stress response
+  authors: |
+    Kenner LR<sup>\#</sup>, Anand AA<sup>\#</sup>, Nguyen HC, Myasnikov AG, Klose CJ, McGeever LA, Tsai JC, Miller-Vedam LE, Walter P<sup>\*</sup>, Frost A<sup>\*</sup><br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __Science__ 2019 May <br>
+  abstract: |
+    The integrated stress response (ISR) tunes the rate of protein synthesis. Control is exerted by phosphorylation of the general translation initiation factor eIF2. eIF2 is a guanosine triphosphatase that becomes activated by eIF2B, a two-fold symmetric and heterodecameric complex that functions as eIF2's dedicated nucleotide exchange factor. Phosphorylation converts eIF2 from a substrate into an inhibitor of eIF2B. We report cryo-electron microscopy structures of eIF2 bound to eIF2B in the dephosphorylated state. The structures reveal that the eIF2B decamer is a static platform upon which one or two flexible eIF2 trimers bind and align with eIF2B's bipartite catalytic centers to catalyze nucleotide exchange. Phosphorylation refolds eIF2α, allowing it to contact eIF2B at a different interface and, we surmise, thereby sequestering it into a nonproductive complex.
+    <br>**[Preprint](https://doi.org/10.1101/504654)**
+    <br>**[Final Full Text](http://science.sciencemag.org/cgi/content/full/364/6439/491?ijkey=bfyYzDt7HKS5A&keytype=ref&siteid=sci)**
+    <br>**[Preview](https://science.sciencemag.org/content/364/6439/447.16/tab-pdf)** <br>
+  date: 201903
+  image: /static/img/pub/Kenner_eIF2B_science_2019.png
+  pmid: 31048491
+
+- title: Functional role of PGAM5 multimeric assemblies and their polymerization into filaments
+  authors: |
+    Ruiz K, Thaker TM, Agnew C, Miller-Vedam L, Trenker R, Herrera C, Ingaramo M, Toso D, Frost A, Jura N<br>
+  journal:  __Nature Communications__ 2019 January <br>
+  abstract: |
+    PGAM5 is a mitochondrial protein phosphatase whose genetic ablation in mice results in mitochondria-related disorders, including neurodegeneration. Functions of PGAM5 include regulation of mitophagy, cell death, metabolism and aging. However, mechanisms regulating PGAM5 activation and signaling are poorly understood. Using electron cryo-microscopy, we show that PGAM5 forms dodecamers in solution. We also present a crystal structure of PGAM5 that reveals the determinants of dodecamer formation. Furthermore, we observe PGAM5 dodecamer assembly into filaments both in vitro and in cells. We find that PGAM5 oligomerization into a dodecamer is not only essential for catalytic activation, but this form also plays a structural role on mitochondrial membranes, which is independent of phosphatase activity. Together, these findings suggest that modulation of the oligomerization of PGAM5 may be a regulatory switch of potential therapeutic interest.
+    <br>**[Final Full Text](https://www.nature.com/articles/s41467-019-08393-w)** <br>
+  date: 201901
+  image: /static/img/pub/pgam5_nature_communications_2019.png
+  pmid: 30705304
+
+- title: Structures, functions, and dynamics of ESCRT-III/Vps4 membrane remodeling and fission complexes
+  authors: |
+    McCullough M, Frost A, Sundquist WI
+    <br>
+  journal:  __Annual Reviews Cell Dev Bio__ 2018 September <br>
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRT) pathway mediates cellular membrane remodeling and fission reactions. The pathway comprises five core complexes: ALIX, ESCRT-I, ESCRT-II, ESCRT-III, and Vps4. These soluble complexes are typically recruited to target membranes by site-specific adaptors that bind one or both of the early-acting ESCRT factors: ALIX and ESCRT-I/ESCRT-II. These factors, in turn, nucleate assembly of ESCRT-III subunits into membrane-bound filaments that recruit the AAA ATPase Vps4. Together, ESCRT-III filaments and Vps4 remodel and sever membranes. Here, we review recent advances in our understanding of the structures, activities, and mechanisms of the ESCRT-III and Vps4 machinery, including the first high-resolution structures of ESCRT-III filaments, the assembled Vps4 enzyme in complex with an ESCRT-III substrate, the discovery that ESCRT-III/Vps4 complexes can promote both inside-out and outside-in membrane fission reactions, and emerging mechanistic models for ESCRT-mediated membrane fission.
+    <br>**[Final Full Text](https://doi.org/10.1146/annurev-cellbio-100616-060600)** <br>
+  date: 201809
+  image: /static/img/pub/AnnReview_2018.png
+  pmid: 30095293
+  
+- title: FDM 3D printing of high-pressure, heat-resistant, transparent microfluidic devices
+  authors: |
+    Romanov V, Samuel R, Chaharlang M, Jafek AR, Frost A, Gale BK
+    <br>
+  journal:  __Analytical Chemistry__ 2018 August <br>
+  abstract: |
+    Transparent surfaces within microfluidic devices are essential for accurate quantification of chemical, biological, and mechanical interactions. Here, we report how to create low-cost, rapid 3D-printed microfluidic devices that are optically free from artifacts and have transparent surfaces suitable for visualizing a variety of fluid phenomenon. The methodology described here can be used for creating high-pressure microfluidic systems (significantly higher than PDMS-glass bonding). We develop methods for annealing Poly-Lactic Acid (PLA) microfluidic devices demonstrating heat resistance typically not achievable with other plastic materials. We show DNA melting and subsequent fluorescent imaging analysis, opening the door to other high-temperature applications. The FDM techniques demonstrated here allow for fabrication of microfluidic devices for precise visualization of interfacial dynamics, whether mixing between two laminar streams or droplet tracking. In addition to these characterizations, we include a printer troubleshooting guide and printing recipes for device fabrication to facilitate FDM printing for microfluidic device development.
+    <br>**[Final Full Text](https://pubs.acs.org/doi/10.1021/acs.analchem.8b02356)** <br>
+  date: 201808
+  image: /static/img/pub/Romanov_2018.jpg
+  pmid: 30071717
+
+- title: Structural basis of mitochondrial receptor binding and constriction by DRP1
+  authors: |
+    Kalia R, Wang RY, Yusuf A, Thomas PV, Agard DA, Shaw JM, and Frost A
+    <br>
+  journal:  __NATURE__ 2018 June <br>
+  abstract: |
+    Mitochondrial inheritance, genome maintenance and metabolic adaptation depend on organelle fission by dynamin-related protein 1 (DRP1) and its mitochondrial receptors. DRP1 receptors include the paralogues mitochondrial dynamics proteins of 49 and 51 kDa (MID49 and MID51) and mitochondrial fission factor (MFF); however, the mechanisms by which these proteins recruit and regulate DRP1 are unknown. Here we present a cryo-electron microscopy structure of full-length human DRP1 co-assembled with MID49 and an analysis of structure- and disease-based mutations. We report that GTP induces a marked elongation and rotation of the GTPase domain, bundle-signalling element and connecting hinge loops of DRP1. In this conformation, a network of multivalent interactions promotes the polymerization of a linear DRP1 filament with MID49 or MID51. After co-assembly, GTP hydrolysis and exchange lead to MID receptor dissociation, filament shortening and curling of DRP1 oligomers into constricted and closed rings. Together, these views of full-length, receptor- and nucleotide-bound conformations reveal how DRP1 performs mechanical work through nucleotide-driven allostery. 
+    <br>**[Preprint](https://www.biorxiv.org/content/early/2017/08/07/172809)**
+    <br>**[Final Full Text](https://rdcu.be/Xb8p)**
+  date: 201806
+  image: /static/img/pub/DRP1.png
+  pmid: 29899447
+  
+- title: Vms1p is a release factor for the ribosome-associated quality control complex
+  authors: |
+    Zurita Rendón O<sup>\#</sup>, Fredrickson EK<sup>\#</sup>, Howard CJ<sup>\#</sup>, Van Vranken J, Fogarty S, Tolley ND, Kalia R, Osuna BA, Shen PS, Hill CP, Frost A<sup>\*</sup>, Rutter J<sup>\*</sup> <br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __NATURE COMMUNICATIONS__ 2018 June
+  abstract: |
+    Eukaryotic cells employ the ribosome-associated quality control complex (RQC) to maintain homeostasis despite defects that cause ribosomes to stall. The RQC comprises the E3 ubiquitin ligase Ltn1p, the ATPase Cdc48p, Rqc1p, and Rqc2p. Upon ribosome stalling and splitting, the RQC assembles on the 60S species containing unreleased peptidyl-tRNA (60S:peptidyl–tRNA). Ltn1p and Rqc1p facilitate ubiquitination of the incomplete nascent chain, marking it for degradation. Rqc2p stabilizes Ltn1p on the 60S and recruits charged tRNAs to the 60S to catalyze elongation of the nascent protein with carboxy-terminal alanine and threonine extensions (CAT tails). By mobilizing the nascent chain, CAT tailing can expose lysine residues that are hidden in the exit tunnel, thereby supporting efficient ubiquitination. If the ubiquitin–proteasome system is overwhelmed or unavailable, CAT-tailed nascent chains can aggregate in the cytosol or within organelles like mitochondria. Here we identify Vms1p as a tRNA hydrolase that releases stalled polypeptides engaged by the RQC.
+    <br>
+    **[Preprint](https://doi.org/10.1101/301341)**<br>
+    **[Final Full Text](https://rdcu.be/TH5H)**<br>
+  date: 201806
+  image: /static/img/pub/Vms1_NATCOMMS_2018.png
+  pmid: 29875445
+  
+- title: The ER membrane protein complex interacts cotranslationally to enable biogenesis of multipass membrane proteins
+  authors: |
+    Shurtleff MJ<sup>\#</sup>, Itzhak DN<sup>\#</sup>,Hussmann JA, Schirle Oakdale NT, Costa EA, Jonikas M, Weibezahn J, Popova KD, Jan CH, Sinitcyn P, Vembar SS, Hernandez H, Cox J, Burlingame AL, Brodsky J, Frost A, Borner GH<sup>\*</sup>, Weissman JS<sup>\*</sup> <br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __ELIFE__ 2018 May
+  abstract: |
+    The endoplasmic reticulum (ER) supports biosynthesis of proteins with diverse transmembrane domain (TMD) lengths and hydrophobicity. Features in transmembrane domains such as charged residues in ion channels are often functionally important, but could pose a challenge during cotranslational membrane insertion and folding. Our systematic proteomic approaches in both yeast and human cells revealed that the ER membrane protein complex (EMC) binds to and promotes the biogenesis of a range of multipass transmembrane proteins, with a particular enrichment for transporters. Proximity-specific ribosome profiling demonstrates that the EMC engages clients cotranslationally and immediately following clusters of TMDs enriched for charged residues. The EMC can remain associated after completion of translation, which both protects clients from premature degradation and allows recruitment of substrate-specific and general chaperones. Thus, the EMC broadly enables the biogenesis of multipass transmembrane proteins containing destabilizing features, thereby mitigating the trade-off between function and stability.
+    <br>
+    **[Final Full Text](https://doi.org/10.7554/eLife.37018)**<br>
+  date: 201805
+  image: /static/img/pub/Shurtleff_ELIFE_2018.png
+  pmid: 29809151
+  
+- title: Structure of the nucleotide exchange factor eIF2B reveals mechanism of memory-enhancing molecule
+  authors: |
+    Tsai, JC<sup>\#</sup>, Miller-Vedam LE<sup>\#</sup>, Anand AA<sup>\#</sup>, Jaishankar P, Nguyen HC, Frost A<sup>\*</sup>, Walter P<sup>\*</sup> <br>
+    <sup>\#</sup> Co-first authors <br>
+    <sup>\*</sup> Co-corresponding authors 
+  journal:  __SCIENCE__ 2018 Mar
+  abstract: |
+    Regulation by the integrated stress response (ISR) converges on the phosphorylation of translation initiation factor eIF2 in response to a variety of stresses. Phosphorylation converts eIF2 from a substrate to a competitive inhibitor of its dedicated guanine nucleotide exchange factor, eIF2B, thereby inhibiting translation. ISRIB, a drug-like eIF2B activator, reverses the effects of eIF2 phosphorylation, and in rodents it enhances cognition and corrects cognitive deficits after brain injury. To determine its mechanism of action, we solved an atomic-resolution structure of ISRIB bound in a deep cleft within decameric human eIF2B by cryo–electron microscopy. Formation of fully active, decameric eIF2B holoenzyme depended on the assembly of two identical tetrameric subcomplexes, and ISRIB promoted this step by cross-bridging a central symmetry interface. Thus, regulation of eIF2B assembly emerges as a rheostat for eIF2B activity that tunes translation during the ISR and that can be further modulated by ISRIB.
+    <br>
+    **[Final Full Text](http://science.sciencemag.org/cgi/content/full/359/6383/eaaq0939?ijkey=Rxlq/lKGw9Ud.&keytype=ref&siteid=sci)**<br>
+    **[Preview](http://science.sciencemag.org/content/359/6383/1480.8)**<br>
+    **[Preprint](https://www.biorxiv.org/content/early/2017/11/24/222257)**
+  date: 201803
+  image: /static/img/pub/Frost_Walter_ISRIB.jpg
+  pmid: 29599213
+
+- title: Structural inhibition of dynamin-mediated membrane fission by endophilin
+  authors: |
+    Hohendahl A, Talledge N, Galli V, Shen PS, Humbert F, De Camilli P, Frost A<sup>\*</sup>, Roux A<sup>\*</sup> <br>
+    <sup>\*</sup> Co-corresponding authors
+  journal:  __ELIFE__ 2017 Sept
+  abstract: |
+    Dynamin, which mediates membrane fission during endocytosis, binds endophilin and other members of the Bin-Amphiphysin-Rvs (BAR) protein family. How endophilin influences endocytic membrane fission is still unclear. Here we show that dynamin-mediated membrane fission is potently inhibited in vitro when an excess of endophilin co-assembles with dynamin around membrane tubules. We further show by electron microscopy that endophilin intercalates between turns of the dynamin helix and impairs fission by preventing trans interactions between dynamin rungs that are thought to play critical roles in membrane constriction. In living cells, overexpression of endophilin delayed both fission and transferrin uptake. Together, our observations suggest that while endophilin helps shape endocytic tubules and recruit dynamin to endocytic sites, it can also block membrane fission when present in excess by inhibiting inter-dynamin interactions. The sequence of recruitment and the relative stoichiometry of the two proteins may be critical to regulated endocytic fission.
+    <br>
+    **[Final Full Text](https://elifesciences.org/articles/26856)**<br>
+  date: 201709
+  image: /static/img/pub/Talledge_eLife_2017.png
+  pmid: 28933693
+  
+- title: In vitro analysis of RQC activities provides insights into the mechanism and function of CAT tailing
+  authors: |
+    Osuna BA, Howard CJ, Subheksha KC, Frost A<sup>\*</sup>, Weinberg DE<sup>\*</sup> <br>
+    <sup>\*</sup> Co-corresponding authors
+  journal:  __ELIFE__ 2017 Jul
+  abstract: |
+    Ribosomes can stall during translation due to defects in the mRNA template or translation machinery, leading to the production of incomplete proteins. The Ribosome-associated Quality control Complex (RQC) engages stalled ribosomes and targets nascent polypeptides for proteasomal degradation. However, how each RQC component contributes to this process remains unclear. Here we demonstrate that key RQC activities-Ltn1p-dependent ubiquitination and Rqc2p-mediated Carboxy-terminal Alanine and Threonine (CAT) tail elongation-can be recapitulated in vitro with a yeast cell-free system. Using this approach, we determined that CAT tailing is mechanistically distinct from canonical translation, that Ltn1p-mediated ubiquitination depends on the poorly characterized RQC component Rqc1p, and that the process of CAT tailing enables robust ubiquitination of the nascent polypeptide. These findings establish a novel system to study the RQC and provide a framework for understanding how RQC factors coordinate their activities to facilitate clearance of incompletely synthesized proteins.
+    <br>
+    **[Final Full Text](https://elifesciences.org/articles/27949)**<br>
+  date: 201707
+  image: /static/img/pub/Osuna_Elife_2017.png
+  pmid: 28718767
+
+- title: CAT-tailing as a fail-safe mechanism for efficient degradation of stalled nascent polypeptides
+  authors: |
+    Kostova KK, Hickey KL, Osuna BA, Hussmann JA, Frost A, Weinberg DE, Weissman JS
+  journal:  __SCIENCE__ 2017 Jul
+  abstract: |
+    Ribosome stalling leads to recruitment of the ribosome quality control complex (RQC), which targets the partially synthesized polypeptide for proteasomal degradation through the action of the ubiquitin ligase Ltn1p. A second core RQC component, Rqc2p, modifies the nascent polypeptide by adding a carboxyl-terminal alanine and threonine (CAT) tail through a noncanonical elongation reaction. Here we examined the role of CAT-tailing in nascent-chain degradation in budding yeast. We found that Ltn1p efficiently accessed only nascent-chain lysines immediately proximal to the ribosome exit tunnel. For substrates without Ltn1p-accessible lysines, CAT-tailing enabled degradation by exposing lysines sequestered in the ribosome exit tunnel. Thus, CAT-tails do not serve as a degron, but rather provide a fail-safe mechanism that expands the range of RQC-degradable substrates.
+    <br>
+    **[Final Full Text](http://science.sciencemag.org/content/357/6349/414.full)**<br>
+  date: 201707
+  image: /static/img/pub/Kostova_Science_2017.png
+  pmid: 28751611
+  
+- title: LEM2 recruits CHMP7 for ESCRT-mediated nuclear envelope closure in fission yeast and human cells
+  authors: |
+    Gu M, LaJoie D, Chen OS, Von Appen A, Ladinsky MS, Redd MJ, Nikolova L, Bjorkman PJ, Sundquist WI<sup>\*</sup>, Ullman KS<sup>
+    \*</sup>, Frost A<sup>\*</sup>  
+    <sup>\*</sup> Co-corresponding authors
+  journal:  __PROC NATL ACA SCI USA__ 2017 Feb
+  abstract: |
+    Endosomal sorting complexes required for transport III (ESCRT-III) proteins have been implicated in sealing the nuclear envelope in mammals, spindle pole body dynamics in fission yeast, and surveillance of defective nuclear pore complexes in budding yeast. Here, we report that Lem2p (LEM2), a member of the LEM (Lap2-Emerin-Man1) family of inner nuclear membrane proteins, and the ESCRT-II/ESCRT-III hybrid protein Cmp7p (CHMP7), work together to recruit additional ESCRT-III proteins to holes in the nuclear membrane. In Schizosaccharomyces pombe, deletion of the ATPase vps4 leads to severe defects in nuclear morphology and integrity. These phenotypes are suppressed by loss-of-function mutations that arise spontaneously in lem2 or cmp7, implying that these proteins may function upstream in the same pathway. Building on these genetic interactions, we explored the role of LEM2 during nuclear envelope reformation in human cells. We found that CHMP7 and LEM2 enrich at the same region of the chromatin disk periphery during this window of cell division and that CHMP7 can bind directly to the C-terminal domain of LEM2 in vitro. We further found that, during nuclear envelope formation, recruitment of the ESCRT factors CHMP7, CHMP2A, and IST1/CHMP8 all depend on LEM2 in human cells. We conclude that Lem2p/LEM2 is a conserved nuclear site-specific adaptor that recruits Cmp7p/CHMP7 and downstream ESCRT factors to the nuclear envelope.
+    <br>
+    **[Final Full Text](http://www.pnas.org/content/114/11/E2166)**<br>
+    **[Preprint](https://www.biorxiv.org/content/early/2017/02/16/049312)**    
+  date: 201702
+  image: /static/img/pub/Gu_PNAS_2017.jpg
+  pmid: 28242692
+
+- title: Cell Biology - Double agents for mitochondrial division
+  authors: |
+    McBride HM and Frost A
+  journal: __NATURE__ 2016 Nov
+  abstract: |
+    Mitochondrial organelles — the energy powerhouses of the cell — must divide and fuse dynamically to function. It emerges that two distinct dynamin enzymes enable mitochondrial division.
+  date: 201611
+  image: /static/img/pub/Mcbride_Frost_Nature_2016.jpg
+  pmid: 27880759
+  
+- title: Membrane fission by dynamin - what we know and what we need to know
+  authors: |
+    Antonny B, Burd C, De Camilli P, Chen E, Daumke O, Faelber K, Ford M, Frolov VA, Frost A, Hinshaw JE, Kirchhausen T, Kozlov MM, Lenz M, Low HH, McMahon H, Merrifield C, Pollard TD, Robinson PJ, Roux A, Schmid S
+  journal: __EMBO J__ 2016 Nov
+  abstract: |
+    The large GTPase dynamin is the first protein shown to catalyze membrane fission. Dynamin and its related proteins are essential to many cell functions, from endocytosis to organelle division and fusion, and it plays a critical role in many physiological functions such as synaptic transmission and muscle contraction. Research of the past three decades has focused on understanding how dynamin works. In this review, we present the basis for an emerging consensus on how dynamin functions. Three properties of dynamin are strongly supported by experimental data: first, dynamin oligomerizes into a helical polymer; second, dynamin oligomer constricts in the presence of GTP; and third, dynamin catalyzes membrane fission upon GTP hydrolysis. We present the two current models for fission, essentially diverging in how GTP energy is spent. We further discuss how future research might solve the remaining open questions presently under discussion.
+    
+    This review paper emerged from the the most delightful scientific event of my career so far: a week of thinking, drinking, debating and discussing at **[Les Treilles](http://www.les-treilles.com/en/)**.
+    Special thanks to **[Aurelien Roux](http://cms2.unige.ch/sciences/biochimie/-Aurelien-Roux-Lab-.html)**, **[Oliver Daumke](https://www.youtube.com/watch?v=4apAvzMNMY8)**, and **[Pietro De Camilli](https://medicine.yale.edu/lab/decamilli/)** for leading the effort. 
+  date: 201611
+  image: /static/img/pub/Roux_EMBO_2016.png
+  pmid: 27670760
+
+- title: A Golgi rhomboid protease Rbd2 recruits Cdc48 to cleave yeast SREBP
+  authors: |
+    Hwang J, Ribbens D, Raychaudhuri S, Ciarns L, Gu H, Frost A, Urban S, Espenshade PJ
+  journal: __EMBO J__ 2016 Nov
+  abstract: |
+    Hypoxic growth of fungi requires sterol regulatory element-binding protein (SREBP) transcription factors, and human opportunistic fungal pathogens require SREBP activation for virulence. Proteolytic release of fission yeast SREBPs from the membrane in response to low oxygen requires the Golgi membrane-anchored Dsc E3 ligase complex. Using genetic interaction arrays, we identified Rbd2 as a rhomboid family protease required for SREBP proteolytic processing. Rbd2 is an active, Golgi-localized protease that cleaves the transmembrane segment of the TatA rhomboid model substrate. Epistasis analysis revealed that the Dsc E3 ligase acts on SREBP prior to cleavage by Rbd2. Using APEX2 proximity biotinylation, we demonstrated that Rbd2 binds the AAA-ATPase Cdc48 through a C-terminal SHP box. Interestingly, SREBP cleavage required Rbd2 binding of Cdc48, consistent with Cdc48 acting to recruit ubiquitinylated substrates. In support of this claim, overexpressing a Cdc48-binding mutant of Rbd2 bypassed the Cdc48 requirement for SREBP cleavage, demonstrating that Cdc48 likely plays a role in SREBP recognition. In the absence of functional Rbd2, SREBP precursor is degraded by the proteasome, indicating that Rbd2 activity controls the balance between SREBP activation and degradation.    
+  date: 201611
+  image: /static/img/pub/Hwang_EMBO_2016.jpg
+  pmid: 27655872 
+
+- title: Subunit connectivity, assembly determinants and architecture of the yeast exocyst complex
+  authors: |
+    Heider MR, Gu M, Duffy CM, Mirza AM, Marcotte LL, Walls AC, Farrall N, 
+    Hakhverdyan Z, Field MC, Rout MP, Frost A, Munson M
+  journal: __NATURE STRUCTURE & MOLECULAR BIOLOGY__ 2016 Jan
+  abstract: |
+    The exocyst is a hetero-octameric complex that has been proposed to serve 
+    as the tethering complex for exocytosis, although it remains poorly 
+    understood at the molecular level. Here, we purified endogenous exocyst 
+    complexes from Saccharomyces cerevisiae and showed that they are stable 
+    and consist of all eight subunits with equal stoichiometry. Using a 
+    combination of biochemical and auxin induced-degradation experiments in 
+    yeast, we mapped the subunit connectivity, identified two stable four-
+    subunit modules within the octamer and demonstrated that several known 
+    exocyst-binding partners are not necessary for exocyst assembly and 
+    stability. Furthermore, we visualized the structure of the yeast complex 
+    by using negative-stain electron microscopy; our results indicate that the 
+    exocyst exists predominantly as a stable, octameric complex with an 
+    elongated architecture that suggests that the subunits are contiguous 
+    helical bundles packed together into a bundle of long rods.
+  date: 201601
+  image: /static/img/pub/Heider_NSMB_2015.jpg
+  pmid: 26656853
+
+- title: Structure and membrane remodeling activity of ESCRT-III helical polymers
+  authors: |
+    McCullough J, Clippinger AK, Talledge N, Skowyra ML, Saunders MG, Naismith 
+    TV, Colf LA, Afonine P, Arthur C, Sundquist WI<sup>\*</sup>, Hanson PI<sup>
+    \*</sup>, Frost A<sup>\*</sup>  
+    <sup>\*</sup> Co-corresponding authors
+  journal: __SCIENCE__ 2015 Dec
+  abstract: |
+    The endosomal sorting complexes required for transport (ESCRT) proteins 
+    mediate fundamental membrane remodeling events that require stabilizing 
+    negative membrane curvature. These include endosomal intralumenal vesicle 
+    formation, HIV budding, nuclear envelope closure, and cytokinetic 
+    abscission. ESCRT-III subunits perform key roles in these processes by 
+    changing conformation and polymerizing into membrane-remodeling filaments. 
+    Here, we report the 4 angstrom resolution cryogenic electron microscopy 
+    reconstruction of a one-start, double-stranded helical copolymer composed 
+    of two different human ESCRT-III subunits, charged multivesicular body 
+    protein 1B (CHMP1B) and increased sodium tolerance 1 (IST1). The inner 
+    strand comprises "open" CHMP1B subunits that interlock in an elaborate 
+    domain-swapped architecture and is encircled by an outer strand of 
+    "closed" IST1 subunits. Unlike other ESCRT-III proteins, CHMP1B and IST1 
+    polymers form external coats on positively curved membranes in vitro and 
+    in vivo. Our analysis suggests how common ESCRT-III filament architectures 
+    could stabilize different degrees and directions of membrane curvature. 
+    
+    Thank you to **[Julie Kiefer](http://www.exploreutahscience.org/education/itemlist/user/47-juliekiefer)** for writing up **[this concise summary with movies](http://healthcare.utah.edu/publicaffairs/
+    news/2015/12/120315_Molecular_Noose.php)** for the press.
+  date: 201512
+  image: /static/img/pub/McCullough_Science_2015.jpg
+  pmid: 26634441
+
+- title: Structural and functional studies of membrane remodeling machines
+  authors: |
+    Kalia R, Talledge N, Frost A
+  journal: __METHODS IN CELL BIOLOGY__ 2015 Apr
+  abstract: |
+    **[Building a Cell from its Component Parts](http://www.amazon.com/Building
+    -Component-Volume-Methods-Biology/dp/012802450X)**. Chapter 10. Building 
+    cells from their component parts will hinge upon our ability to 
+    reconstitute biochemical compartmentalization and exchange between membrane
+    -delimited organelles. By contrast with our understanding of other 
+    cellular events, the mechanisms that govern membrane trafficking has 
+    lagged because the presence of phospholipid bilayers complicates the use 
+    of standard methods. This chapter describes in vitro methods for 
+    purifying, reconstituting, and visualizing membrane remodeling activities 
+    directly by electron cryomicroscopy.
+  date: 201504 
+  image: /static/img/pub/Kalia_Methods_2015.jpg
+  pmid: 25997348
+
+- title: Rqc2p and 60S ribosomal subunits mediate mRNA-independent elongation of nascent chains
+  authors: |
+    Shen PS, Park J, Qin Y, Li X, Parsawar K, Larson MH, Cox J, Cheng Y, 
+    Lambowitz, Weissman JS<sup>\*</sup>, Brandmann O<sup>\*</sup>, Frost A
+    <sup>\*</sup>  
+    <sup>\*</sup> Co-corresponding authors
+  journal: __SCIENCE__ 2015 Jan
+  abstract: |
+    In Eukarya, stalled translation induces 40S dissociation and recruitment 
+    of the ribosome quality control complex (RQC) to the 60S subunit, which 
+    mediates nascent chain degradation. Here we report cryo-electron 
+    microscopy structures revealing that the RQC components Rqc2p (YPL009C/
+    Tae2) and Ltn1p (YMR247C/Rkr1) bind to the 60S subunit at sites exposed 
+    after 40S dissociation, placing the Ltn1p RING (Really Interesting New 
+    Gene) domain near the exit channel and Rqc2p over the P-site transfer RNA (
+    tRNA). We further demonstrate that Rqc2p recruits alanine- and threonine-
+    charged tRNA to the A site and directs the elongation of nascent chains 
+    independently of mRNA or 40S subunits. Our work uncovers an unexpected 
+    mechanism of protein synthesis, in which a protein--not an 
+    mRNA--determines tRNA recruitment and the tagging of nascent chains with 
+    carboxy-terminal Ala and Thr extensions (\"CAT tails\").
+
+    This image was created by **[Janet Iwasa](http://biochem.web.utah.edu/
+    iwasa/)** and illustrates the protein Rqc2 (yellow) coordinating two tRNA 
+    moleucles (green and blue) in the PTC of the 60S ribosome without a 
+    genetic template. Janet Iwasa's art was featured in a number of **[news](http://science.altmetric.com/details/3030698)** outlets highlighting our surprising discovery.
+  date: 201501 
+  image: /static/img/pub/Frost_Rqc2_60Sribosome.jpg 
+  pmid: 25554787
+
+- title: Interchangeable adaptors regulate mitochondrial dynamin assembly for membrane scission
+  authors: |
+    Koirala S, Guo Q, Kalia R, Bui HT, Eckert DM, Frost A<sup>\*</sup>, Shaw JM<sup>\*</sup>  
+    <sup>\*</sup> Co-corresponding authors
+  journal: __PROC NATL ACA SCI USA__ 2013 Mar
+  abstract: |
+    Mitochondrial fission is mediated by the dynamin-related GTPases Dnm1/Drp1 
+    (yeast/mammals), which form spirals around constricted sites on 
+    mitochondria. Additional membrane-associated adaptor proteins (Fis1, Mdv1, 
+    Mff, and MiDs) are required to recruit these GTPases from the cytoplasm to 
+    the mitochondrial surface. Whether these adaptors participate in both 
+    GTPase recruitment and membrane scission is not known. Here we use a yeast 
+    strain lacking all fission proteins to identify the minimal combinations 
+    of GTPases and adaptors sufficient for mitochondrial fission. Although 
+    Fis1 is dispensable for fission, membrane-anchored Mdv1, Mff, or MiDs 
+    paired individually with their respective GTPases are sufficient to divide 
+    mitochondria. In addition to their role in Drp1 membrane recruitment, MiDs 
+    coassemble with Drp1 in vitro. The resulting heteropolymer adopts a 
+    dramatically different structure with a narrower diameter than Drp1 
+    homopolymers assembled in isolation. This result demonstrates that an 
+    adaptor protein alters the architecture of a mitochondrial dynamin GTPase 
+    polymer in a manner that could facilitate membrane constriction and 
+    severing activity.
+  date: 201303 
+  image: /static/img/pub/Fig_for_Web_PNASpaper.png 
+  pmid: 23530241
+
+- title: A ribosome-bound quality control complex triggers degradation of nascent peptides and signals translation stress
+  authors: |
+    Brandman O, Stewart-Ornstein J, Wong D, Larson A, Williams CC, Li GW, Zhou 
+    S, King D, Shen PS, Weibezahn J, Dunn JG, Rouskin S, Inada T, Frost A<sup>\*</sup>, Weissman JS<sup>\*</sup>  
+    <sup>*</sup> Co-corresponding authors
+  journal: __CELL__ 2012 Nov
+  abstract: |
+    The conserved transcriptional regulator heat shock factor 1 (Hsf1) is a 
+    key sensor of proteotoxic and other stress in the eukaryotic cytosol. We 
+    surveyed Hsf1 activity in a genome-wide loss-of-function library in 
+    Saccaromyces cerevisiae as well as ~78,000 double mutants and found Hsf1 
+    activity to be modulated by highly diverse stresses. These included 
+    disruption of a ribosome-bound complex we named the Ribosome Quality 
+    Control Complex (RQC) comprising the Ltn1 E3 ubiquitin ligase, two highly 
+    conserved but poorly characterized proteins (Tae2 and Rqc1), and Cdc48 and 
+    its cofactors. Electron microscopy and biochemical analyses revealed that 
+    the RQC forms a stable complex with 60S ribosomal subunits containing 
+    stalled polypeptides and triggers their degradation. A negative feedback 
+    loop regulates the RQC, and Hsf1 senses an RQC-mediated translation-stress 
+    signal distinctly from other stresses. Our work reveals the range of 
+    stresses Hsf1 monitors and elucidates a conserved cotranslational protein 
+    quality control mechanism.
+  date: 201211 
+  image: /static/img/pub/Brandman_Cell.png 
+  pmid: 23178123
+
+- title: Functional repurposing revealed by comparing S. pombe and S. cerevisiae genetic interactions
+  authors: |
+    Frost A<sup>\*</sup>, Elgort MG, Brandman O, Ives C, Collins SR, 
+    Miller-Vedam L, Weibezahn J, Hein MY, Poser I, Mann M, Hyman AA, Weissman 
+    JS  
+    <sup>*</sup> corresponding author
+  journal: __CELL__ 2012 Jun
+  abstract: |
+    We present a genetic interaction map of pairwise measures including ∼40% 
+    of nonessential S. pombe genes. By comparing interaction maps for fission 
+    and budding yeast, we confirmed widespread conservation of genetic 
+    relationships within and between complexes and pathways. However, we 
+    identified an important subset of orthologous complexes that have 
+    undergone functional \"repurposing\": the evolution of divergent functions 
+    and partnerships. We validated three functional repurposing events in S. 
+    pombe and mammalian cells and discovered that (1) two lumenal sensors of 
+    misfolded ER proteins, the kinase/nuclease Ire1 and the 
+    glucosyltransferase Gpt1, act together to mount an ER stress response; (2) 
+    ESCRT factors regulate spindle-pole-body duplication; and (3) a membrane-
+    protein phosphatase and kinase complex, the STRIPAK complex, bridges the 
+    cis-Golgi, the centrosome, and the outer nuclear membrane to direct 
+    mitotic progression. Each discovery opens new areas of inquiry and-together
+    -have implications for model organism-based research and the evolution of 
+    genetic systems. 
+    
+    The cover art for this issue of Cell generated some fun controvsery (and 
+    upset lab safety officers everywhere), thanks to the talented **[Brandon Toyama](http://www.researchgate.net/profile/Brandon_Toyama)**.
+  date: 201206 
+  image: /static/img/pub/Frost_Cell_cover_2012.png
+  pmid: 22682253
+
+- title: Structural basis of membrane bending by the N-BAR protein Endophilin
+  authors: |
+    Mim C, Cui H, Gawronski-Salerno JA, Frost A, Lyman E, Voth GA, Unger VM
+  journal: __CELL__ 2012 Mar
+  abstract: |
+    Functioning as key players in cellular regulation of membrane curvature, 
+    BAR domain proteins bend bilayers and recruit interaction partners through 
+    poorly understood mechanisms. Using electron cryomicroscopy, we present 
+    reconstructions of full-length endophilin and its N-terminal N-BAR domain 
+    in their membrane-bound state. Endophilin lattices expose large areas of 
+    membrane surface and are held together by promiscuous interactions between 
+    endophilin's amphipathic N-terminal helices. Coarse-grained molecular 
+    dynamics simulations reveal that endophilin lattices are highly dynamic 
+    and that the N-terminal helices are required for formation of a stable and 
+    regular scaffold. Furthermore, endophilin accommodates different 
+    curvatures through a quantized addition or removal of endophilin dimers, 
+    which in some cases causes dimerization of endophilin's SH3 domains, 
+    suggesting that the spatial presentation of SH3 domains, rather than 
+    affinity, governs the recruitment of downstream interaction partners.
+  date: 201203 
+  image: /static/img/pub/Mim_Cell_2012.jpg
+  pmid: 22464326
+    
+- title: Membrane trafficking - decoding vesicle identity with contrasting chemistries
+  authors: |
+    Frost A
+  journal: __CURRENT BIOL__ 2011 Oct
+  abstract: |
+    Proteins involved in membrane traffic must distinguish between different 
+    classes of vesicles. New work now shows that α-synuclein and ALPS motifs 
+    represent two extreme types of amphipathic helix that are tuned to detect 
+    both the curvature of transport vesicles as well as their bulk lipid 
+    content. 
+  date: 201110 
+  image: /static/img/pub/Frost_Curr_2011.jpg
+  pmid: 21996503
+
+- title: The F-BAR domain of srGAP2 induces membrane protrusions required for neuronal migration and morphogenesis
+  authors: |
+    Guerrier S, Coutinho-Budd J, Sassa T, Gresset A, Jordan NV, Chen K, Jin WL, Frost A, Polleux F
+  journal: __CELL__ 2009 Sep
+  abstract: |
+    During brain development, proper neuronal migration and morphogenesis is 
+    critical for the establishment of functional neural circuits. Here we 
+    report that srGAP2 negatively regulates neuronal migration and induces 
+    neurite outgrowth and branching through the ability of its F-BAR domain to 
+    induce filopodia-like membrane protrusions resembling those induced by 
+    I-BAR domains in vivo and in vitro. Previous work has suggested that in 
+    nonneuronal cells filopodia dynamics decrease the rate of cell migration 
+    and the persistence of leading edge protrusions. srGAP2 knockdown reduces 
+    leading process branching and increases the rate of neuronal migration in 
+    vivo. Overexpression of srGAP2 or its F-BAR domain has the opposite 
+    effects, increasing leading process branching and decreasing migration. 
+    These results suggest that F-BAR domains are functionally diverse and 
+    highlight the functional importance of proteins directly regulating 
+    membrane deformation for proper neuronal migration and morphogenesis.
+
+    This cover image was created by the first author of this remarkable story, 
+    the talented **[Sabrice Guerrier](http://www.researchgate.net/profile/
+    Sabrice_Guerrier).**
+  date: 200909 
+  image: /static/img/pub/Guerrier_Cell_2009.jpg
+  pmid: 19737524
+
+- title: The BAR domain superfamily - membrane-molding macromolecules
+  authors: |
+    Frost A, Unger VM, De Camilli P
+  journal: __CELL__ 2009 Apr
+  abstract: |
+    Membrane-shaping proteins of the BAR domain superfamily are determinants 
+    of organelle biogenesis, membrane trafficking, cell division, and cell 
+    migration. An upsurge of research now reveals new principles of BAR 
+    domain-mediated membrane remodeling, enhancing our understanding of 
+    membrane curvature-mediated information processing.
+  date: 200904
+  image: /static/img/pub/Frost_Cell_2009.jpg
+  pmid: 19379681
+
+- title: Structural basis of membrane invagination by F-BAR domains
+  authors: |
+    Frost A, Perera R, Roux A, Spasov K, Destaing O, Egelman EH, De Camilli P, Unger VM
+  journal: __CELL__ 2008 Mar
+  abstract: |
+    BAR superfamily domains shape membranes through poorly understood 
+    mechanisms. We solved structures of F-BAR modules bound to flat and curved 
+    bilayers using electron (cryo)microscopy. We show that membrane tubules 
+    form when F-BARs polymerize into helical coats that are held together by 
+    lateral and tip-to-tip interactions. On gel-state membranes or after 
+    mutation of residues along the lateral interaction surface, F-BARs adsorb 
+    onto bilayers via surfaces other than their concave face. We conclude that 
+    membrane binding is separable from membrane bending, and that imposition 
+    of the module's concave surface forces fluid-phase bilayers to bend 
+    locally. Furthermore, exposure of the domain's lateral interaction surface 
+    through a change in orientation serves as the crucial trigger for assembly 
+    of the helical coat and propagation of bilayer bending. The geometric 
+    constraints and sequential assembly of the helical lattice explain how 
+    F-BAR and classical BAR domains segregate into distinct microdomains, and 
+    provide insight into the spatial regulation of membrane invagination.
+
+    This painting was created by artist and scientist **[David Goodsell](
+    http://mgl.scripps.edu/people/goodsell/)** and was inspired in 
+    part by our structures of F-BAR and **[N-BAR](http://www.ncbi.nlm.nih.gov/
+    pubmed/22464326)** membrane-bound coats. The art was commissioned by friend and colleague **[Min Wu](http://mbi.nus.edu.sg/wu-min/)**.
+  date: 200803
+  image: /static/img/pub/endocytosis_2014_DavidGoodsell.jpg
+  pmid: 18329367
+
+- title: F-BAR proteins join the BAR family fold
+  authors: |
+    Frost A, De Camilli P, Unger VM
+  journal: __STRUCTURE__ 2007 Jul
+  abstract: |
+    Expanding the range of curvature generating and curvature stabilizing 
+    protein modules, the first F-BAR domain structures support their 
+    assignment to the BAR domain superfamily and emphasize how modifications 
+    to a basic structural frame can generate a broad spectrum of properties.
+  date: 200707 
+  image: /static/img/pub/Frost_Structure_2007.jpg 
+  pmid: 17637334
+
+- title: GTP-dependent twisting of dynamin implicates constriction and tension in membrane fission
+  authors: |
+    Roux A, Uyhazi K, Frost A, De Camilli P
+  journal: __NATURE__ 2006 Apr
+  abstract: |
+    Dynamin, a crucial factor in endocytosis, is a member of a family of 
+    GTPases that participates in membrane fission. It was initially proposed 
+    to act as a machine that constricts and cuts the neck of nascent vesicles 
+    in a GTP-hydrolysis-dependent reaction, but subsequent studies suggested 
+    alternative models. Here we monitored the effect of nucleotides on 
+    dynamin-coated lipid tubules in real time. Addition of GTP, but not of GDP 
+    or GTP-gammaS, resulted in twisting of the tubules and supercoiling, 
+    suggesting a rotatory movement of the helix turns relative to each other 
+    during GTP hydrolysis. Rotation was confirmed by the movement of beads 
+    attached to the tubules. Twisting activity produced a longitudinal tension 
+    that was released by tubule breakage when both ends of the tubule were 
+    anchored. Fission also occurred when dynamin and GTP were added to lipid 
+    tubules that had been generated from liposomes by the motor activity of 
+    kinesin on microtubules. No fission events were observed in the absence of 
+    longitudinal tension. These findings demonstrate a mechanoenzyme activity 
+    of dynamin in endocytosis, but also imply that constriction is not 
+    sufficient for fission. At the short necks of endocytic vesicles, other 
+    factors leading to tension may cooperate with the constricting activity of 
+    dynamin to induce fission.
+  date: 200604 
+  image: /static/img/pub/Roux_Nature_2006.jpg 
+  pmid: 16648839
 
